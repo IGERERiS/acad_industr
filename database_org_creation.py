@@ -315,8 +315,7 @@ industry_dict = {
 "Advanced Data Solutions" : ('Advance Data Solutions', 'Advanced Data Solutions', 'Advanced Data Solutions Inc.', 'Advanced Data Solutions Inc. Houston USA', 'Advanced Data Solution'),
 "Advanced Energy Technology Inc." : ('Advanced Energy Technology Inc.', 'advanced energy technology inc.'),
 "Advanced Geophysical Operations and Services Inc.":('Advanced Geophysical Operations and Services Inc.', 'advanced geophysical operations and services inc.'), #one_time
-"Advanced Geophysical Technology Inc." : ('Advanced Geophysical Technology Inc.', 'Advanced Geophysical Technology', 'Advanced Geophysical Technology Inc'),
-"Advanced Geophysical Technology, Inc" : ('Advanced Geophysical Technology, Inc', 'advanced geophysical technology, inc'),#one_time
+"Advanced Geophysical Technology Inc." : ('Advanced Geophysical Technology, Inc', 'advanced geophysical technology, inc', 'Advanced Geophysical Technology Inc.', 'Advanced Geophysical Technology', 'Advanced Geophysical Technology Inc'),
 "Advanced Logic Technology S. A." : ('Advanced Logic Technology S. A.', 'advanced logic technology s. a.'),#one_time
 "Advanced Reservoir Technologies" : ('Advanced Reservoir Technologies', 'Advanced Reservoir Technologies Inc.'),
 "Advanced Resources International" : ('Advanced Resources International', 'Advanced Resources International Inc', 'Advanced Resources International Inc.'),
@@ -523,8 +522,7 @@ industry_dict = {
 "Beijing Global Software Corporation" : ('Beijing Global Software Corporation', 'beijing global software corporation'),#one_time
 "Beijing Gold Energy Develop Ltd.":('Beijing Gold Energy Develop Ltd.', 'beijing gold energy develop ltd.'), #one_time
 "Beijing Intseis Solutions Inc" : ('Beijing Intseis Solutions Inc', 'Beijing IntSeis Solutions Incorporated'),
-"Beijing MISEIS Technologies" : ('Beijing MISEIS Technologies', 'beijing miseis technologies'),#one_time
-"Beijing MiSeis Technologies":('Beijing MiSeis Technologies', 'beijing miseis technologies'), #one_time
+"Beijing MISEIS Technologies" : ('Beijing MiSeis Technologies', 'Beijing MISEIS Technologies', 'beijing miseis technologies'),#one_time
 "Beijing Panimaging":('Beijing Panimaging', 'beijing panimaging'), #one_time
 "Beijing Rockstar Petroleum Technology co. LTD":('Beijing Rockstar Petroleum Technology co. LTD', 'beijing rockstar petroleum technology co. ltd'), #one_time
 "Bell Geospace" : ('Bell Geospace Inc',  'Bell Geospace Ltd.', 'Bell Geospace Incorporated', 'Bell Geospace', 'Bell Geospace Inc.', 'Bell Geospace Limited', 'Bell Geospace Ltd'),
@@ -537,8 +535,7 @@ industry_dict = {
 "Berkshire Environmental Inc.":('Berkshire Environmental Inc.', 'berkshire environmental inc.'), #one_time
 "Berrong Enterprises Ltd" : ('Berrong Enterprises Ltd', 'Berrong Enterprises Ltd.'),
 "Berry Petroleum Company":('Berry Petroleum Company', 'berry petroleum company'), #one_time
-"Big Sky Carbon Sequestration Partnership" : ('Big Sky Carbon Sequestration Partnership', 'big sky carbon sequestration partnership'),#one_time
-"Big Sky Carbon SequestrationPartnership" : ('Big Sky Carbon SequestrationPartnership', 'Big Sky CarbonSequestration Partnership'),
+"Big Sky Carbon Sequestration Partnership" : ('Big Sky Carbon SequestrationPartnership', 'Big Sky CarbonSequestration Partnership', 'Big Sky Carbon Sequestration Partnership', 'big sky carbon sequestration partnership'),#one_time
 "Big Sky Geophysics" : ('Big Sky Geophysics', 'big sky geophysics'),#one_time
 "Bill Barrett Corporation" : ('Bill Barrett Corporation', 'Bill Barrett Corp'),
 "Bingham Geoscience" : ('Bingham Geoscience', 'bingham geoscience'),#one_time
@@ -631,7 +628,6 @@ industry_dict = {
 "COMAP Geosurveys" : ('COMAP Geosurveys', 'GEOSURV', 'GeoSurvey Systems International'),
 "CONCORD":('CONCORD', 'concord'), #one_time
 "CONSOL Inc.":('CONSOL Inc.', 'consol inc.'), #one_time
-"COWI A/S":('COWI A/S', 'cowi a/s'), #one_time
 "COWIconsult AS" : ('COWIconsult AS', 'COWI'),
 "CPC Corporation, Taiwan" : ('CPC Corporation, Taiwan', 'cpc corporation, taiwan'),
 "CPGCO2" : ('CPGCO2', 'cpgco2'),
@@ -659,12 +655,9 @@ industry_dict = {
 "CVC Ltd":('CVC Ltd', 'cvc ltd'), #one_time
 "CWP CSM" : ('CWP CSM', 'cwp csm'),#one_time
 "Caesar Systems":('Caesar Systems', 'caesar systems'), #one_time
-"Cain & Barnes L.P." : ('Cain & Barnes L.P.', 'cain & barnes l.p.'),#one_time
-"Cain & Barnes":('Cain & Barnes', 'cain & barnes'), #one_time
+"Cain & Barnes L.P." : ('Cain & Barnes', 'cain & barnes', 'Cain & Barnes L.P.', 'cain & barnes l.p.'),#one_time
 "Cain and Barnes LP":('Cain and Barnes LP', 'cain and barnes lp'), #one_time
-"Cairn Energy India Pty Limited" : ('Cairn Energy India Pty Limited', 'cairn energy india pty limited'),#one_time
-"Cairn Energy" : ('Cairn Energy PLC', 'Cairn Energy Plc', 'Cairn India', 'Cairn India Limited', 'Cairn India Ltd', 'Cairn India Pvt Ltd', 'Cairn India Pvt Ltd.', 'CairnIndia Ltd', 'Cairn Oil and Gas Vedanta Limited'),
-"Cairn-Energy" : ('Cairn-Energy', 'cairn-energy'),#one_time
+"Cairn Energy" : ('Cairn Energy India Pty Limited', 'cairn energy india pty limited', 'Cairn-Energy', 'cairn-energy', 'Cairn Energy PLC', 'Cairn Energy Plc', 'Cairn India', 'Cairn India Limited', 'Cairn India Ltd', 'Cairn India Pvt Ltd', 'Cairn India Pvt Ltd.', 'CairnIndia Ltd', 'Cairn Oil and Gas Vedanta Limited'),
 "Calahoo Petroleum" : ('Calahoo Petroleum', 'calahoo petroleum'),#one_time
 "Calgary Scientific Inc.":('Calgary Scientific Inc.', 'calgary scientific inc.'), #one_time
 "Callon Petroleum Company" : ('Callon Petroleum Company', 'callon petroleum company'),#one_time
@@ -791,8 +784,7 @@ industry_dict = {
 "Coal India Limited":('Coal India Limited', 'coal india limited'), #one_time
 "Coastal Oil & Gas" : ('Coastal Oil & Gas', 'Coastal Oil and Gas'),
 "Cobalt International Energy" : ('Cobalt International Energy', 'Cobalt InternationalEnergy'),
-"Cogema Canada Ltèè" : ('Cogema Canada Ltèè', 'cogema canada ltèè'),#one_time
-"Cogema Canada Ltии" : ('Cogema Canada Ltии', 'Cogema Resources Inc', 'Cogema'),
+"Cogema Canada Ltèè" : ('Cogema Canada Ltèè', 'cogema canada ltèè', 'Cogema Canada Ltии', 'Cogema Resources Inc', 'Cogema'),#one_time
 "CogniSeis Development" : ('CogniSeis Development', 'CogniSeis Development Inc.', 'CogniSeis Development Inc', 'CogniSeis', 'Cogniseis Development', 'CogniSeis formerly Allied Geophysical Lab University of Houston (AGL-UH)'),
 "Cognitive Geology" : ('Cognitive Geology', 'cognitive geology'),#one_time
 "Coherence Technology Cop" : ('Coherence Technology Cop', 'coherence technology cop'),#one_time
@@ -860,7 +852,7 @@ industry_dict = {
 "Corpoven S.A. Venezuela" : ('Corpoven S.A. Venezuela', 'Corpoven', 'Corpoven S.A.'),
 "Court Geophysical Consulting":('Court Geophysical Consulting', 'court geophysical consulting'), #one_time
 "Cowan Geodata Services England" : ('Cowan Geodata Services England', 'cowan geodata services england'),#one_time
-"Cowi A/S":('Cowi A/S', 'cowi a/s'), #one_time
+"Cowi A/S":('COWI A/S', 'Cowi A/S', 'cowi a/s'), #one_time
 "Cray Research Inc." : ('Cray Research Inc.', 'Cray Research', 'Cray Research Inc', 'Cray'),
 "Crescent Petroleum":('Crescent Petroleum', 'crescent petroleum'), #one_time
 "Cripple Creek and Victor Gold Mining Company" : ('Cripple Creek and Victor Gold Mining Company', 'cripple creek and victor gold mining company'),#one_time
@@ -888,7 +880,6 @@ industry_dict = {
 "DASSAULT SYSTEMES":('DASSAULT SYSTEMES', 'dassault systemes'), #one_time
 "DATAID France" : ('DATAID France', 'dataid france'),#one_time
 "DEA": ('DEA', 'DEA Deutsche Erdoel AG', 'DEA Deutsche ErdoelAG', 'DEA Deutsche Erdol AG', 'DEA DeutscheErdoel AG', 'DEA E&P Norge AS', 'DEA E&P Norway', 'DEA Germany', 'DEA Norge AS', 'DEA Norge As', 'DEA, Deutsch Erdoel AG', 'DEADeutsche Erdoel AG', 'Dea Deutsche Erdol AG', 'RWE Dea', 'RWE Dea (UK', 'RWE Dea AG', 'RWE Dea AG DEA Deutsche Erdoel AG', 'RWE Dea UK Ltd.', 'RWE DeaAG', 'RWEDea AG'),
-"DECO Geophysical":('DECO Geophysical', 'deco geophysical'), #one_time
 "DEPROIL" : ('DEPROIL', 'DEPROIL Ltd.', 'Scientific & Technical Company \"Deproil LTD.\"'),
 "DET CRC" : ('DET CRC & Curtin University', 'DET CRC &Curtin University', 'DET CRC/Curtin University', 'DET CRC/Globaltech'),
 "DF Dickins and Associates" : ('DF Dickins and Associates', 'df dickins and associates'),#one_time
@@ -947,13 +938,12 @@ industry_dict = {
 "DeCa Resources Inc.":('DeCa Resources Inc.', 'deca resources inc.'), #one_time
 "Decision Resources & Designs AS":('Decision Resources & Designs AS', 'decision resources & designs as'), #one_time
 "Decision Strategies International":('Decision Strategies International', 'decision strategies international'), #one_time
-"Deco Geophysical":('Deco Geophysical', 'deco geophysical'), #one_time
+"Deco Geophysical":('DECO Geophysical', 'deco geophysical', 'Deco Geophysical', 'deco geophysical'), #one_time
 "Deep Exploration Technologies CRC":('Deep Exploration Technologies CRC', 'deep exploration technologies crc'), #one_time
 "Deep Imaging Technologies Inc.":('Deep Imaging Technologies Inc.', 'deep imaging technologies inc.'), #one_time
 "Deep Imaging" : ('Deep Imaging', 'deep imaging'),
 "Defence Research Establishment Pacific" : ('Defence Research Establishment Pacific', 'defence research establishment pacific'),#one_time
-"Defence Science and Technology Organisation" : ('Defence Science and Technology Organisation', 'defence science and technology organisation'),#one_time
-"Defense Science and Technology Organisation" : ('Defense Science and Technology Organisation', 'defense science and technology organisation'),#one_time
+"Defense Science and Technology Organisation" : ('Defence Science and Technology Organisation', 'defence science and technology organisation', 'Defense Science and Technology Organisation', 'defense science and technology organisation'),#one_time
 "Delft Inversion, Delft, The Netherlands" : ('Delft Inversion, Delft, The Netherlands', 'delft inversion, delft, the netherlands'),
 "Deloitte Consulting B.V":('Deloitte Consulting B.V', 'deloitte consulting b.v'), #one_time
 "Delphi Consortium ":('Delphi Consortium ', 'delphi consortium '), #one_time
@@ -1165,8 +1155,7 @@ industry_dict = {
 "Energia Andina S.A." : ('Energia Andina S.A.', 'Energia Andina'),
 "Energie Beheer Nederland" : ('Energie Beheer Nederland', 'Energie Beheer Nederland BV', 'EBN', 'EBN B.V.', 'EBNB.V.'),
 "Energie Forschungszentrum Niedersachsen" : ('EnergieForschungszentrum Niedersachsen', 'Forschungszentrum Juelich', 'Forschungszentrum Juelich GmbH', 'ForschungszentrumJuelich', 'ForschungszentrumJuelich GmbH', 'Deutsches GeoForschungsZentrum', 'EnergieForschungszentrum Niedersachsen', 'Forschungszentrum Juelich', 'Forschungszentrum Juelich GmbH', 'ForschungszentrumJuelich', 'ForschungszentrumJuelich GmbH'),
-"Energistics":('Energistics', 'energistics'), #one_time
-"Energistics":('Energistics', 'energistics'), #one_time
+"Energistics":('Energistics', 'energistics', 'Energistics', 'energistics'), #one_time
 "Energoprojekt" : ('Energoprojekt', 'Energoprojekt-oour Hidroinzenjering'),
 "Energy Analysts Inc." : ('Energy Analysts Inc.', 'Energy Analysts'),
 "Energy Corporation of America" : ('Energy Corporation of America', 'Energy corporation of America'),
@@ -1476,7 +1465,7 @@ industry_dict = {
 "GeoImaging Solutions Inc":('GeoImaging Solutions Inc', 'geoimaging solutions inc'), #one_time
 "GeoImaging Solutions Inc.":('GeoImaging Solutions Inc.', 'geoimaging solutions inc.'), #one_time
 "GeoLinkCom" : ('GeoLinkCom', 'geolinkcom'),#one_time
-"GeoMagic":('GeoMagic', 'geomagic'), #one_time
+"GeoMagic":('geoMagic', 'GeoMagic', 'geomagic'), #one_time
 "GeoModelling Solutions ":('GeoModelling Solutions ', 'geomodelling solutions '), #one_time
 "GeoPatterns Technology L.L.C." : ('GeoPatterns Technology L.L.C.', 'geopatterns technology l.l.c.'),#one_time
 "GeoPatterns Technology" : ('GeoPatterns Technology', 'GeoPatternsTechnology'),
@@ -1491,7 +1480,7 @@ industry_dict = {
 "GeoScience Ltd":('GeoScience Ltd', 'geoscience ltd'), #one_time
 "GeoSciences ltd":('GeoSciences ltd', 'geosciences ltd'), #one_time
 "GeoServ Company" : ('GeoServ Company', 'geoserv company'),#one_time
-"GeoServices" : ('GeoServices', 'geoservices'),#one_time
+"GeoServices" : ('Geoservices', 'geoservices', 'GeoServices', 'geoservices'),#one_time
 "GeoSpectra Corp." : ('GeoSpectra Corp.', 'geospectra corp.'),#one_time
 "GeoSpectrum Inc" : ('GeoSpectrum Inc', 'GeoSpectrum Inc.'),
 "GeoTech JSC" : ('GeoTech JSC', 'geotech jsc'),#one_time
@@ -1623,7 +1612,6 @@ industry_dict = {
 "Geoserve Angewandte Geophysik":('Geoserve Angewandte Geophysik', 'geoserve angewandte geophysik'), #one_time
 "Geoserve Logging & Tomography" : ('Geoserve Logging & Tomography', 'Geoserve Logging andTomography'),
 "Geoservice":('Geoservice', 'geoservice'), #one_time
-"Geoservices":('Geoservices', 'geoservices'), #one_time
 "Geosight" : ('Geosight', 'geosight'),#one_time
 "Geosignal Inc." : ('Geosignal Inc.', 'Geosignal Inc'),
 "Geosignul Inc.":('Geosignul Inc.', 'geosignul inc.'), #one_time
@@ -1648,8 +1636,7 @@ industry_dict = {
 "Geosurvey International Ltd." : ('Geosurvey International Ltd.', 'Geosurvey International'),
 "Geosynoptics Society Geos":('Geosynoptics Society Geos', 'geosynoptics society geos'), #one_time
 "Geosystem Canada Inc.":('Geosystem Canada Inc.', 'geosystem canada inc.'), #one_time
-"Geosystem SRL":('Geosystem SRL', 'geosystem srl'), #one_time
-"Geosystem srl" : ('Geosystem srl', 'Geosystem SRL.', 'Geosystem Srl', 'Geosystem S.R.L', 'Geosystem srl Milan'),
+"Geosystem srl" : ('Geosystem SRL', 'geosystem srl', 'Geosystem srl', 'Geosystem SRL.', 'Geosystem Srl', 'Geosystem S.R.L', 'Geosystem srl Milan'),
 "Geosystem" : ('Geosystem', 'geosystem'),#one_time
 "Geoteam AS Norway" : ('Geoteam AS Norway', 'geoteam as norway'),#one_time
 "Geotec SPA" : ('Geotec SPA', 'Geotec SpA'),
@@ -1693,8 +1680,7 @@ industry_dict = {
 "Global Geophysics" : ('Global Geophysics', 'global geophysics'),#one_time
 "Global Harmonics Consulting" : ('Global Harmonics Consulting', 'global harmonics consulting'),#one_time
 "Global Microseismic Services" : ('Global Microseismic Services', 'GlobalMicroseismic Services'),
-"Go GeoEngineering":('Go GeoEngineering', 'go geoengineering'), #one_time
-"Go Geoengineering" : ('Go Geoengineering', 'go geoengineering'),#one_time
+"Go Geoengineering" : ('Go GeoEngineering', 'Go Geoengineering', 'go geoengineering'),#one_time
 "Gocad Research Group" : ('Gocad Research Group', 'GOCAD Research Group Nancy-France', 'gOcad research group Nancy School of Geology Nancy – France.', 'GOCAD group', 'Gocad group', 'CRPG/CNRS gOcad Research group Nancy School of Geology', 'Earth Decision Sciences Gocad Research Group'),
 "Goddard Space Flight Center" : ('Goddard Space Flight Center', 'goddard space flight center'),#one_time
 "Gold Fields Australia" : ('Gold Fields Australia', 'gold fields australia'),#one_time
@@ -1941,8 +1927,7 @@ industry_dict = {
 "Intera Kenting Canada" : ('Intera Kenting Canada', 'Intera Kenting'),
 "Interactive Concepts Inc":('Interactive Concepts Inc', 'interactive concepts inc'), #one_time
 "Interactive Earth Science Corp." : ('Interactive Earth Science Corp.', 'interactive earth science corp.'),#one_time
-"Interactive Interpretation & Training Inc.":('Interactive Interpretation & Training Inc.', 'interactive interpretation & training inc.'), #one_time
-"Interactive Interpretation and Training, Inc.":('Interactive Interpretation and Training, Inc.', 'interactive interpretation and training, inc.'), #one_time
+"Interactive Interpretation & Training Inc.":('Interactive Interpretation and Training, Inc.', 'interactive interpretation and training, inc.', 'Interactive Interpretation & Training Inc.', 'interactive interpretation & training inc.'), #one_time
 "Interactive Network Technologies Inc." : ('Interactive Network Technologies Inc.', 'Interactive Network Technologies'),
 "Intergraph Corp." : ('Intergraph Corp.', 'intergraph corp.'),#one_time
 "International Association of Geophysical Contractors" : ('International Association of Geophysical Contractors', 'International Association of Geophysical contractors'),
@@ -1992,8 +1977,7 @@ industry_dict = {
 "JSC MAGE":('JSC MAGE', 'jsc mage'), #one_time
 "JSC TomskNIPIneft VNK" : ('TomskNINPINeft', 'JSCTomskNIPIneft VNK', 'JSC TomskNIPIneft VNK'),
 "JSC Ukrnaftogasgeofisika" : ('JSC Ukrnaftogasgeofisika', 'jsc ukrnaftogasgeofisika'),#one_time
-"JSC ZARUBEZHNEFT":('Zarubezhneft', 'JSC ZARUBEZHNEFT', 'jsc zarubezhneft'), #one_time
-"JSC Zarubezhneft":('JSC Zarubezhneft', 'jsc zarubezhneft'), #one_time
+"JSC Zarubezhneft":('Zarubezhneft', 'JSC ZARUBEZHNEFT', 'JSC Zarubezhneft', 'jsc zarubezhneft'), #one_time
 "JSW Innovations Inc.":('JSW Innovations Inc.', 'jsw innovations inc.'), #one_time
 "JVC Soyuzmorgeo":('JVC Soyuzmorgeo', 'jvc soyuzmorgeo'), #one_time
 "JVCSoyuzmorgeo":('JVCSoyuzmorgeo', 'jvcsoyuzmorgeo'), #one_time
@@ -2365,7 +2349,6 @@ industry_dict = {
 "N. E. Pullin Petroleum Consulting Services Inc.":('N. E. Pullin Petroleum Consulting Services Inc.', 'n. e. pullin petroleum consulting services inc.'), #one_time
 "N. S. Neidell & Associates" : ('N. S. Neidell & Associates', 'N.S. Neidell and Associates', 'N. S. Neidell and Associates'),
 "N.I.O.C. Exploration Directorate" : ('N.I.O.C. Exploration Directorate', 'NIOC Exploration Directorate'),
-"NAFTA a.s.":('NAFTA a.s.', 'nafta a.s.'), #one_time
 "NAGECO" : ('NAGECO', 'nageco'),#one_time
 "NAGRA" : ('NAGRA', 'Nagra'),
 "NAPIMS":('NAPIMS', 'napims'), #one_time
@@ -2380,7 +2363,6 @@ industry_dict = {
 "NFR" : ('NFR', 'NFR Studies GmbH'),
 "NGA":('NGA', 'nga', 'Northeast Gas Association'), #one_time
 "NGS - Neuro Genetic Solutions GmbH":('NGS - Neuro Genetic Solutions GmbH', 'ngs - neuro genetic solutions gmbh'), #one_time
-"NIKHEF":('NIKHEF', 'nikhef'), #one_time
 "NKKTUBES":('NKKTUBES', 'nkktubes'), #one_time
 "NL Industries Inc.":('NL Industries Inc.', 'nl industries inc.'), #one_time
 "NOC" : ('NOC', 'noc'),#one_time
@@ -2402,7 +2384,7 @@ industry_dict = {
 "NVDB Consult" : ('NVDB Consult', 'nvdb consult'),#one_time
 "NVIDIA" : ('Nvidia Corporation', 'NVIDIA', 'NVIDIA Compute EMEA Sales Manager'),
 "Nadra Group" : ('Nadra Group', 'nadra group'),#one_time
-"Nafta a.s.":('Nafta a.s.', 'nafta a.s.'), #one_time
+"Nafta a.s.":('NAFTA a.s.', 'Nafta a.s.', 'nafta a.s.'), #one_time
 "Naftogaz" : ('DC "Naukanaftogaz"', 'DE Naukanaftogaz, Naftogaz ofUkraine', 'DE Naukanaftogaz,Naftogaz of Ukraine', 'DENaukanaftogaz, Naftogaz of Ukraine', 'DP "Naukanaftogaz"', 'DP"Naukanaftogaz"', 'Dp"Naukanaftogaz"', 'NJC "Naftogas of Ukraine" SE "Naukanaftogaz"', 'NJSC Naftogaz of Ukraine', 'National Joint Stock Company "Naftogaz of Ukraine"', 'National Joint Stock Company"Naftogaz of Ukraine"', 'Nauka Naftogaz', 'NaukaNaftogaz', 'SE "Naukanaftogaz"', 'SE "Naukanaftogaz" NJSC "Naftogaz of Ukraine"', 'SE NaukaNaftogaz', 'SE Naukanaftogaz', 'SE"Naukanaftogaz"', 'SENaukanaftogaz', 'UkrGasProduction SC, Naftogaz of Ukraine'),
 "Nalco Champion":('Nalco Champion', 'nalco champion'), #one_time
 "Nalcor Energy Oil and Gas" : ('Nalcor Energy Oil and Gas', 'Nalcor Energy Oil and Gas Incorporated'),
@@ -2466,11 +2448,10 @@ industry_dict = {
 "Nichols Research Corporation" : ('Nichols Research Corporation', 'Nichols Research Corp'),
 "Nick Barton & Associates":('Nick Barton & Associates', 'nick barton & associates'), #one_time
 "Niedersachsisches Landesamt fur Bodenforschung" : ('Niedersachsisches Landesamt fur Bodenforschung', 'niedersachsisches landesamt fur bodenforschung'),#one_time
-"Nigerian Association ofPetroleum Explorationist ":('Nigerian Association ofPetroleum Explorationist ', 'nigerian association ofpetroleum explorationist '), #one_time
-"Nigerian Association ofPetroleum Explorationist":('Nigerian Association ofPetroleum Explorationist', 'nigerian association ofpetroleum explorationist'), #one_time
+"Nigerian Association ofPetroleum Explorationist":('Nigerian Association ofPetroleum Explorationist ', 'nigerian association ofpetroleum explorationist ', 'Nigerian Association ofPetroleum Explorationist', 'nigerian association ofpetroleum explorationist'), #one_time
 "Nigerian National Petroleum Corporation":('Nigerian National Petroleum Corporation', 'nigerian national petroleum corporation'), #one_time
 "Nihonchikatansa Co. Ltd. Japan":('Nihonchikatansa Co. Ltd. Japan', 'nihonchikatansa co. ltd. japan'), #one_time
-"Nikhef":('Nikhef', 'nikhef'), #one_time
+"Nikhef":('NIKHEF', 'Nikhef', 'nikhef'), #one_time
 "Nikko Exploration & Development Co." : ('Nikko Exploration & Development Co.', 'nikko exploration & development co.'),#one_time
 "Nippon Mining Co. Ltd":('Nippon Mining Co. Ltd', 'nippon mining co. ltd'), #one_time
 "Niras Ondraf Belgium" : ('Niras Ondraf Belgium', 'niras ondraf belgium'),#one_time
@@ -2572,7 +2553,6 @@ industry_dict = {
 "Offshore Navigation Inc." : ('Offshore Navigation Inc.', 'Offshore Navigation Inc'),
 "Offshore Resource Group" :('Offshore Resource Group', 'ORG', 'org'),
 "Oil & Gas Co.":('Oil & Gas Co.', 'oil & gas co.'), #one_time
-"Oil And Gas Authority":('Oil And Gas Authority', 'oil and gas authority'), #one_time
 "Oil Company of Australia" : ('Oil Company of Australia', 'oil company of australia'),
 "Oil Data htemational" : ('Oil Data htemational', 'oil data htemational'),#one_time
 "Oil Engineering Co.":('Oil Engineering Co.', 'oil engineering co.'), #one_time
@@ -2582,7 +2562,7 @@ industry_dict = {
 "Oil Sands Imaging" : ('Oil Sands Imaging', 'Oil SandsImaging'),
 "Oil Search Limited":('Oil Search Limited', 'oil search limited'), #one_time
 "Oil Search Ltd":('Oil Search Ltd', 'oil search ltd'), #one_time
-"Oil and Gas Authority":('OGA', 'oga','Oil and Gas Authority', 'oil and gas authority'), #one_time
+"Oil and Gas Authority":('Oil And Gas Authority', 'OGA', 'oga','Oil and Gas Authority', 'oil and gas authority'), #one_time
 "Oil and Natural Gas Corporation Limited, India" : ('Oil & Natural Gas Corpn Ltd', 'Oil & Natural Gas Coporation Limited India', 'GEOPIC Oil & Natural Gas Corporation Ltd.', 'Oil & Natural Gas Commission', 'Oil & Natural Gas Commision', 'Oil & Natural Gas Commission India', 'Oil & Natural Gas Corporation Ltd.India', 'Oil & Natural Gas Corp. Ltd India', 'Oil & Natural Gas Corporation Limited', 'Oil and Natural Gas Corporation Limited', 'Oil and Natural Gas Corporation Limited India', 'Oil and Natural Gas Corporation Limited India.', 'Oil and Natural Gas Commission India', 'Oil and Natural gas Corporation Limited', 'Oil and Natural gas Corporation Limited India', 'Oil and Natural Gas corporation Limited', 'Oil and Natural Gas Corporation Ltd. SRBC Geophysics Section 10Th Floor MMDA Building 8 Gandhi Irwin Road Egmore Madras-600008 INDIA', 'Oil and Natural Gas Corporation Ltd', 'Oil and Natural Gas Corporation Baroda India', 'Oil and Natural Gas Corpn. Ltd. DehraDun India.', 'Oil And Natural Gas Corporation Ltd', 'Oil and Natural Gas Corporation Ltd. Chennai India', 'Oil and Natural Gas Corpn. Ltd.', 'Oil and Natural Gas Corporation Ltd.', 'Oil and Natural Gas Commission', 'Third Eye Centre Oil and Natural Gas Corporation Ltd.', 'ONGC', 'Oil and Natural Gas Corp.', 'Oil and Natural Gas Corporation', 'Oil and Natural Gas Corporation Limited, India', 'Oil and Natural Gas Corporation Limited,India', 'Oil and Natural Gas CorporationLimited, India', 'Oil and Natural GasCorporation Limited, India', 'Oil and NaturalGas Corporation Limited, India', 'Oil andNatural Gas Corporation Limited, India', 'ONGC Videsh Limited'),
 "Oil& Gas Company":('Oil& Gas Company', 'oil& gas company'), #one_time
 "OilEngineering Co.":('OilEngineering Co.', 'oilengineering co.'), #one_time
@@ -2679,11 +2659,9 @@ industry_dict = {
 "PTT Exploration and Production Plc." : ('PTT Exploration and Production Plc.', 'PTT Exploration and Production Plc', 'Formerly Utrecht University, presently PTT Exploration and Production Company Limited'),
 "PTT Exploration and Production Public Company Limited":('PTT Exploration and Production Public Company Limited', 'ptt exploration and production public company limited'), #one_time
 "PTT Exploration and Production" : ('PTT Exploration and Production', 'PTTEP'),
-"Pacific Exploracion y Produccion" : ('Pacific Exploracion y Produccion', 'pacific exploracion y produccion'),#one_time
-"Pacific Exploration & Production" : ('Pacific Exploration & Production', 'pacific exploration & production'),#one_time
+"Pacific Exploration & Production" : ('Pacific Exploracion y Produccion', 'pacific exploracion y produccion', 'Pacific Exploration & Production', 'pacific exploration & production'),#one_time
 "Pacific Geoscience Centre Canada" : ('Pacific Geoscience Centre Canada', 'Pacific Geoscience Center', 'Pacific Geoscience Centre', 'Pacific Geoscience'),
-"Pacific Rubiales Energy" : ('Pacific Rubiales Energy', 'PacificRubiales Energy'),
-"Pacific-Rubiales Energy" : ('Pacific-Rubiales Energy', 'PacificRubiales Energy'),
+"Pacific Rubiales Energy" : ('Pacific-Rubiales Energy', 'PacificRubiales Energy', 'Pacific Rubiales Energy'),
 "Pagosa Geophysical Research" : ('Pagosa Geophysical Research', 'pagosa geophysical research'),#one_time
 "Pakistan Petroleum Limited" : ('Pakistan Petroleum Limited', 'Pakistan Petroleum Ltd'),
 "Palantir Exploration Services Inc.":('Palantir Exploration Services Inc.', 'palantir exploration services inc.'), #one_time
@@ -2751,7 +2729,6 @@ industry_dict = {
 "PetroAlliance" : ('PetroAlliance Services Company Limited.', 'Petro Alliance', 'PetroAlliance', 'PetroAlliance Services Co Ltd'),
 "PetroBakken Energy" : ('PetroBakken Energy', 'petrobakken energy'),#one_time
 "PetroClass Inc.":('PetroClass Inc.', 'petroclass inc.'), #one_time
-"PetroDynamics Inc.":('PetroDynamics Inc.', 'petrodynamics inc.'), #one_time
 "PetroIran Development Co.":('PetroIran Development Co.', 'petroiran development co.'), #one_time
 "PetroMarker" : ('Petromarker and University of Oslo', 'PetroMarker', 'PetroMarker AS', 'PetroMarker AS and University of Suez', 'Petromarker', 'Petromarker / University of Oslo', 'Petromarker AS', 'Petromarker AS / Suez Canal University', 'Petromarker AS / University of Oslo', 'Petromarker, University of Suez Canal', 'Petromarker, University of SuezCanal', 'Petromarker/University of Oslo', 'PetromarkerAS, Norway'),
 "PetroSA" : ('PetroSA', 'Petrosa'),
@@ -2770,18 +2747,15 @@ industry_dict = {
 "Petrochemical Industries Design & Engineering PIDEC":('Petrochemical Industries Design & Engineering PIDEC', 'petrochemical industries design & engineering pidec'), #one_time
 "Petrochina" : ('Petro China HangZhou Research Institute of Geology', 'Research Institute of Petroleum Exploration &amp; Development', 'Research Institute of Petroleum Exploration &amp; Development-Northwest, Petro China', 'Research Institute of Petroleum Exploration &amp; Development, Petro-China', 'Petro-China', 'Research Institute of Petroleum Exploration &amp; Development-Northwest (NWGI), PetroChina', 'PetroChina Research Institute of Petroleum Exploration &amp; Development (RIPED, CNPC)', 'PetroChina Research Institute of Petroleum Exploration &amp; Development â€” Northwest', 'Research Institute of Petroleum Exploration &amp; Development â€“ Northwest (NWGI), PetroChina', 'Research Institute of Petroleum Exploration &amp; Development-Northwest (NWGI) Petrochina', 'Research Institute of Petroleum Exploration &amp; Development-Northwest, Petrochina', 'Northwest Branch, Research Institute of Petroleum Exploration &amp; Development, PetroChina, Lanzhou, Gansu 730020', 'PetroChina Research Institute of Petroleum Exploration &amp; Development-Northwest, Lanzhou 730020, China', 'Research Institute of Petroleum Exploration &amp; Development, PetroChina', 'PetroChina Research Institute of Petroleum Exploration &amp; Development-Northwest', 'Research Institute of Petroleum Exploration and Development, Northwest Branch, PetroChina', 'Research institute of petroleum exploration &amp; development-NWGI, PetroChina', 'Research Institute of Petroleum Exploration &amp; Development â€” Northwest (NWGI), Petrochina', 'Research Institute of Petroleum Exploration &amp; Development-Northwest (NWGI) PetroChina', 'Research Institute of Petroleum Exploration and Development, Petrochina', 'Research Institute of Petroleum Exploration and Development, PetroChina Limited Company', 'Qinghai Oilfield Company, PetroChina', 'Exploration and Development Research Institute, Petrochina Southwest Oil &amp; Gas Field', 'Research Center of Sichuan Basin, Petrochina Research Institute of Petroleum Exploration and Development', 'PetroChina Xinjiang Oilfield Company, Karamay, China', 'Tarim Oilfield Company, Petrochina', 'PetroChina Southwest Oil &amp; Gas Field Company', 'Research Institute of Exploration &amp; Development, Liaohe Oilfield Company, PetroChina', 'Department of Middle East E&amp;P, RIPED, PetroChina, Beijing, China, 100083', 'Research Institute of Petroleum Exploration &amp; Development of Liaohe Oilfield, PetroChina', 'Department of Middle East E&amp;P, RIPED, PetroChina, Beijing 100083, China', 'Department of Middle East E&amp;P, RIPED, PetroChina, Beijing, China, 1000833', 'Reaseach Institute of JiLin Oil Field Branch Company', 'Petro-China Langfang Research Institute', 'Research Institute of Qinghai Oilfield', 'Qinghai Oilfield', 'RIPED Qinghai Oilfield Company', 'Qinghai Oilfield Company', 'Geophysical Technological Institute of Jiangsu Oilfield', 'Changqing Oilfield', 'Changqing Oilfield Company', 'Changqing Oil Field', 'Changqing Oil-Field Company of CN PC.', 'Changqing Oil Company', 'Petro-China Changqing Research Institute', 'Changqing Oilfield Company Research Institute of Exploration and Development Xi’an China', 'Research institute of petroleum exploration & development-northwest (NWGI)', 'Northwest Branch Research Institute of Petroleum Exploration & Development', 'Research Institute of Petroleum Exploration & Development - Northwest', 'Research Institute of Petroleum Exploration & Development-Northwest', 'Research Institute of Petroleum Exploration & Development?Northwest (NWGI)', 'Research Institute of Petroleum Exploration and development', 'RIPED (Research Institute of Petroleum Exploration and Development)', 'Northwest Branch Research Institute of Petroleum Exploration and Development', 'Northwest Branch Research Institute of Petroleum Exploration and Development Pe', 'Research Institute Petroleum Exploration & Development', 'PetroChina Limited Company', 'PetroChina Company Limited', 'Petrochina Company Limited', 'Research Institute of Petroleum Exploration & Development-Northwest Petrochina', 'Research Institute of Petroleum Exploration & Development Petrochina', 'RIPED-NWGI PetroChina', 'PetroChina Changqing Oilfield Company', 'PetroChina Research Institute of Petroleum Exploration & Development-Northwest', 'Tarim Oilfield Company PetroChina', 'Institute of Tarim Oilfield Company Petrochina', 'PetroChina Research Institute of Petroleum Exploration & Development-Northwest Lanzhou Gansu China', 'Geophysical Technology Department Research Institute of Petroleum Exploration and Development PetroChina Company Limited', 'PetroChina Huabei Oilfield Company', 'PetroChina Hangzhou Research Institute of Geology Hangzhou', 'Research Institute of Petroleum Exploration and Development Petrochina.', 'Research Institute of Petroleum Exploration and Development Petrochina Company Limited', 'Petrochina Xinjiang Company', 'PetroChina Research Institute of Petroleum Exploration&Development-Northwest (NWGI)', 'Petrochina Research Institute of Petroleum Exploration & Development', 'PetroChina Limited', 'PetrResearch Institute of Petroleum Exploration & Development-Northwest (NWGI) Petrochina', 'Exploration and Development Research Institute PetroChina Changqing Oilfield Company', 'NWGI PetroChina Research Institute of Petroleum Exploration & Development-Northwest', 'Xinjiang Oil Company PetroChina', 'Exploration & Development Research Institute of Daqing oil field PetroChina Oil Company China', 'PetroChina Daqing Oilfield', 'PetroChina Qinghai oilfield company', 'Tarim Oilfield Company Petrochina', 'Tarim Oilfield Company - PetroChina', 'DPRI Daqing Oilfield Petrochina', 'Northwest Branch Research Institute of Petroleum Exploration and Development PetroChina', 'Tarim Oil Company PetroChina', 'Northwest Branch of RIPED PetroChina', 'RIPED–NWGI PetroChina', 'PetroChina Research Institute of Petroleum Exploration & Development PetroChina Southwest Oil & Gas Field Company Research Center of Sichuan Basin', 'PetroChina E&P Research Inst.', 'PetroChina Changqing Ltd.', 'Tarim Oil Field Limited PetroChina', 'PetroChina Southwest Oil & Gasfield Company', 'RIPED - PetroChina Limited Co.', 'Dagang Zhaodong Oil Company of PetroChina', 'CNPC/PetroChina', 'Northwest Branch Research Institute of Petroleum Exploration & Development PetroChina', 'Research Institute of Petroleum Exploration and Development–Northwest PetroChina', 'Yumen Oilfield Company PetroChina', 'Northwest Branch PetroChina Research Institute of Petroleum Exploration & Development', 'PetroChina International Jabung Ltd.', 'Qinghai Oilfield Company PetroChina', 'PetroChina Oil Company', 'Exploration & Production Department PetroChina', 'PetroChina Beijing China', 'PetroChina Liaohe Company', 'Exploration and Development Research Institute Southwest Oil & Gasfield Company PetroChina', 'Petrochina exploration and production company', 'PetroChina XinJiang Research Institute of Exploration and Production', 'PetroChina SW', 'PetroChina Tarim Oilfield Company', 'Petrochina International Jabung Ltd.', 'Dagang Oilffield PetroChina', 'Xinjiang Oilfield Company PetroChina', 'Bureau of Economic Geology University of Texas–Austin and RIPED PetroChina', 'PetroChina Research Institute of Petroleum Exploration and Development (RIPED)–Northwest', 'PetroChina Exploration & Development Research Institute', 'PetroChina Research Institute of Petroleum Exploration and Development Northwest Lanzhou China', 'BGP inc PetroChina; State Key Laboratory of Oil & Gas Reservoir Geology and Exploitation Chengdu University of Technology', 'Research Institute of Exploration & Development PetroChina Dagang Oilfield Company; School of Resources and Environment University of Electronic Science and Technology of China', 'Research Institute of Exploration & Development PetroChina Dagang Oilfield Company', 'PetroChina Research Institute of Petroleum Exploration and Development (RIPED) - Northwest Lanzhou China', 'Southwest Oil and Gas Company Petrochina', 'PetroChina Research Institute of Petroleum Exploration & Development NorthWest Lanzhou', 'Key Laboratory of Reservoir Description CNPC Langzhou City Gansu Province 730020 China; Northwest Branch Research Institute of Exploration and Development PetroChina Langzhou City Gansu Province 730020 China', 'RIPED', 'Research Institute of Exploration and Development',  'RIPED NWGI, PetroChina', 'RIPED PetroChina', 'RIPED Petrochina', 'RIPED, PetroChina', 'RIPED, PetroChina Limited', 'RIPED, Petrochina', 'RIPED,PetroChina', 'RIPED,Petrochina', 'RIPED--NWGI, PetroChina', 'RIPED-NWGI, PetroChina', 'RIPED-NWGI,PetroChina', 'Northwest Branch of RIPED, PetroChina', 'Northwest Branch of RIPED, Petrochina', 'Northwest Branch of RIPED,PetroChina', 'Northwest Branch ofRIPED,PetroChina', 'NorthwestBranch of RIPED, PetroChina', 'NorthwestBranch of RIPED,PetroChina', 'ChangQing Oil Field Company Petrochina', 'ChangQingOil Field Company Petrochina', 'Changqing Oilfield, Petrochina', 'Changqing oilfield of PetroChina', 'Changqing oilfield ofPetroChina', 'Dagang Oil Field, PetroChina, Tianjin', 'Daqing Oilfield Company Limited, PetroChina', 'Daqing Oilfield Company Limited,PetroChina', 'Daqing Oilfield Company Ltd, PetroChina', 'Daqing Oilfield CompanyLimited, PetroChina', 'Daqing OilfieldCompany Limited, PetroChina', 'DaqingOilfield Company Limited, PetroChina', 'E&PResearch Institute, PetroChina', 'GERI, Huabei Oilfield, Petrochina', 'GERI,Huabei Oilfield, Petrochina', 'JOB Pertamina / Petrochina East Java', 'JOBPertamina / Petrochina East Java', 'NWGI PetroChina', 'NWGI of Petrochina', 'NWGI, PetroChina', 'NWGI, PetroChina Company Limited', 'NWGI,PetroChina', 'NWGIPetroChina', 'PetroChina', 'PetroChina / China University of Petroleum', 'PetroChina ChangQing Research Institute', 'PetroChina Changqing OilfieldCompany', 'PetroChina Co Ltd', 'PetroChina Company Ltd., CNPC', 'PetroChina Daqing Oilfield Ltd', 'PetroChina Daqing Oilfield Ltd.', 'PetroChina DaqingOilfield Ltd.', 'PetroChina Exploration & Development Research Inst', 'PetroChina Exploration& Development Research Inst', 'PetroChina Hangzhou Research Institute of Geology', 'PetroChina Hangzhou Research InstituteInstitute of Geology', 'PetroChina JiLin Oilfield Co.', 'PetroChina JiLin OilfieldCo.', 'PetroChina Jidong Oilfield Company', 'PetroChina RIPED', 'PetroChina Research Institute of Expl. & Developm.', 'PetroChina Research Institute of Exploration & Development', 'PetroChina Research Institute of Petroleum Exploration & Development', 'PetroChina Research Institute of Petroleum Exploration and Development', 'PetroChina Research Institute of Petroleum Exploration and Development Northwest', 'PetroChina Research Instituteof Expl. & Developm.', 'PetroChina ResearchInstitute of Expl. & Developm.', 'PetroChina South Sulige OperatingCompany', 'PetroChina South SuligeOperating Company', 'PetroChina Southwest Oil & Gas Ltd.', 'PetroChina Southwest Oil and Gas Field Company', 'PetroChina Southwest Oil and Gas FieldCompany', 'PetroChina Tarim Oil Company', 'PetroChina Tarim OilCompany', 'PetroChina Xinjiang', 'PetroChina Xinjiang Oilfield Company', 'PetroChina, CNPC', 'PetroChina, Chinese Academy of Sciences', 'PetroChinaChangQing Research Institute', 'PetroChinaChangqing Oilfield Company', 'PetroChinaExploration & Development Research Inst', 'PetroChinaHangzhou Research Institute of Geology', 'PetroChinaSouth Sulige Operating Company', 'Petrochina', 'Petrochina Changqing Oilfield Company', 'Petrochina Halfaya FZ-LLC', 'Petrochina Hangzhou Research Institute of Geology', 'Petrochina NWGI', 'Petrochina RIPED', 'Petrochina Research Inst.of Daqing Oilfield  CNPC', 'Petrochina Southwest Oil & Gasfield Company', 'Petrochina Tarim Oilfield Company', 'Petrochina TarimOilfield Company', 'Petrochina research institute of petroleum exploration and development', 'Southwest Oil & Gasfield Company, PetroChina', 'Tarim Oilfield Company, PetroChina', 'Tarim Oilfield Company,PetroChina', 'Tarim OilfieldCompany, PetroChina', 'Tarim OilfieldCompany,PetroChina', 'Tarim oilfield, PetroChina'),
 "Petrodelta" : ('Petrodelta', 'PetroDelta'),
-"Petrodynamics Inc.":('Petrodynamics Inc.', 'petrodynamics inc.'), #one_time
+"Petrodynamics Inc.":('PetroDynamics Inc.', 'Petrodynamics Inc.', 'petrodynamics inc.'), #one_time
 "Petrogal Brasil" : ('Petrogal Brasil', 'petrogal brasil'),#one_time
 "Petrol Sound Geoservices" : ('Petrol Sound Geoservices', 'petrol sound geoservices'),#one_time
 "Petroleo Brasileiro":('Petroleo Brasileiro', 'petroleo brasileiro'), #one_time
-"Petrolera Amerifen Venezuela" : ('Petrolera Amerifen Venezuela', 'petrolera amerifen venezuela'),#one_time
-"Petrolera Ameriven Venezuela" : ('Petrolera Ameriven Venezuela', 'petrolera ameriven venezuela'),#one_time
+"Petrolera Ameriven Venezuela" : ('Petrolera Amerifen Venezuela', 'petrolera amerifen venezuela', 'Petrolera Ameriven Venezuela', 'petrolera ameriven venezuela'),#one_time
 "Petroleum & Geothermal Group" : ('Petroleum & Geothermal Group', 'Petroleum and Geothermal Group'),
 "Petroleum Agency SA":('Petroleum Agency SA', 'petroleum agency sa'), #one_time
-"Petroleum Company of Trinidad and Tobago Limited":('Petroleum Company of Trinidad and Tobago Limited', 'petroleum company of trinidad and tobago limited'), #one_time
-"Petroleum Company of Trinidad and Tobago" : ('Petroleum Company of Trinidad and Tobago', 'petroleum company of trinidad and tobago'),#one_time
-"Petroleum Development Oman" : ('PDO', 'PDO - Petroleum Development Oman', 'PDO Oman', 'PDO Petroleum Development Oman', 'Petroleum Development Oman', 'Petroleum Development Oman LLC.', 'Petroleum Development Oman LLC', 'Petroleum Development Oman (PDO)', 'Petroleum Development Oman Muscat the Sultanate of Oman', 'Petroleum Development Oman Muscat Oman'),
-"Petroleum Development OmanLLC" : ('Petroleum Development OmanLLC', 'Petroleum Development of Oman', 'Petroleum DevelopmentOman', 'PetroleumDevelopment Oman'),
+"Petroleum Company of Trinidad and Tobago Limited":('Petroleum Company of Trinidad and Tobago', 'petroleum company of trinidad and tobago', 'Petroleum Company of Trinidad and Tobago Limited', 'petroleum company of trinidad and tobago limited'), #one_time
+"Petroleum Development Oman" : ('Petroleum Development OmanLLC', 'Petroleum Development of Oman', 'Petroleum DevelopmentOman', 'PetroleumDevelopment Oman', 'PDO', 'PDO - Petroleum Development Oman', 'PDO Oman', 'PDO Petroleum Development Oman', 'Petroleum Development Oman', 'Petroleum Development Oman LLC.', 'Petroleum Development Oman LLC', 'Petroleum Development Oman (PDO)', 'Petroleum Development Oman Muscat the Sultanate of Oman', 'Petroleum Development Oman Muscat Oman'),
 "Petroleum Engineer":('Petroleum Engineer', 'petroleum engineer'), #one_time
 "Petroleum Engineering and Development Company" : ('Petroleum Engineering and Development Company', 'Petroleum Engineering and DevelopmentCo.', 'Petroleum Engineering andDevelopment Co.'),
 "Petroleum Experts":('Petroleum Experts', 'petroleum experts'), #one_time
@@ -3089,8 +3063,6 @@ industry_dict = {
 "SNPC":('SNPC', 'snpc'), #one_time
 "SNS, Offshore UK":('SNS, Offshore UK', 'sns, offshore uk'), #one_time
 "SOBEH":('SOBEH', 'sobeh'), #one_time
-"SOCAR - State Oil Company of Azerbaijan Republic":('SOCAR - State Oil Company of Azerbaijan Republic', 'socar - state oil company of azerbaijan republic'), #one_time
-"SOCAR":('SOCAR', 'socar'), #one_time
 "SONANGOL" : ('SONANGOL', 'Sonangol'),
 "SOQUEM" : ('SOQUEM', 'soquem'),#one_time
 "SPA GEO Technologies Pvt Limited" : ('SPA GEO Technologies Pvt Limited', 'SPA GEOTechnologies Pvt Limited'),
@@ -3114,11 +3086,9 @@ industry_dict = {
 "Saad Consulting" : ('Saad Consulting', 'saad consulting'),#one_time
 "Saad GeoConsulting" : ('Saad GeoConsulting', 'saad geoconsulting'),#one_time
 "SabeusInc":('SabeusInc', 'sabeusinc'), #one_time
-"Saddleback Geosolutions LLC" : ('Saddleback Geosolutions LLC', 'saddleback geosolutions llc'),#one_time
-"Saddleback Geosolutions" : ('Saddleback Geosolutions', 'SaddlebackGeosolutions'),
+"Saddleback Geosolutions LLC" : ('Saddleback Geosolutions LLC', 'saddleback geosolutions llc', 'Saddleback Geosolutions', 'SaddlebackGeosolutions'),#one_time
 "Saga Petroleum" : ('Saga Petroleum', 'Saga Petroleum a.s.', 'Saga Petroleum a.s', 'Saga Petroleum Norway', 'Saga Petroleum a.s. Norway', 'SAGA Petroleum', 'Saga Petroleum ASA Norway', 'Saga Petroleum ASA', 'Saga Petroleum U.K. Ltd.'),
-"Sagax Geophysics Inc. Canada":('Sagax Geophysics Inc. Canada', 'sagax geophysics inc. canada'), #one_time
-"Sagax Geophysique Inc.":('Sagax Geophysique Inc.', 'sagax geophysique inc.'), #one_time
+"Sagax Geophysics Inc. Canada":('Sagax Geophysique Inc.', 'sagax geophysique inc.', 'Sagax Geophysics Inc. Canada', 'sagax geophysics inc. canada'), #one_time
 "Sagentia" : ('Sagentia', 'sagentia'),#one_time
 "Sahra Kav ConsultingEngineers" : ('Sahra Kav ConsultingEngineers', 'Sahrakav Consulting Engineers'),
 "Saipem" : ('Saipem', 'Saipem SpA'),
@@ -3149,8 +3119,7 @@ industry_dict = {
 "Saxpy Computer Co." : ('Saxpy Computer Co.', 'saxpy computer co.'),#one_time
 "Schlumberger" : ('SLB-SIS', 'Shlumberger', 'Schlumbeger Logelco Inc. Cairo Egypt.', 'Sclumberger GouldResearch', 'Sclumberger Ltd', 'Schlumburger', 'Schlumbrrger', 'Schlumherger- Doll Research', 'Schlumberger Stavanger Research, Norway', 'Schlumberger/WesternGeco', 'Schlumberger Stavanger Research (SSR)', 'Shclumberger Cambridge Research', 'Schlumbetger Cambridge Research', 'Schlwnberger Cambridge Research', 'S-DR', 'Schiumberger-Doll Research', 'Schiumberger-Doll Research (S-DR)', 'Schlumeberger-Doll Research', 'Schlumberger-Doll Research and New Mexico State University', 'Schlumberger EMI Technology Center Richmond CA 94804', 'Schlumberger Cambridge Research High Cross Madingley Road Cambridge CB3 0EL England', 'Schlumberger Stavanger Research PO Box 80134068 Stavanger Norway', 'Schlumberger Cambridge Research High Cross Madingley Road Cambridge CB3 OEL U.K.', 'Geological Engineering Program University of Wisconsin - Madison Geological Engineering Program University of Wisconsin - Madison and Schlumberger/EMI Technology Center', 'Schlumberger Stavanger Research P.O. Box 8013 N-4068 Stavanger Norway', 'Schlumberger Cambridge Research High Cross Madingley Road Cambridge CB3 OEL England', 'Schlumberger Cambridge Research& Edinburgh University', 'Institut de Physique du Globe de Paris and Schlumberger', 'Schlumberger Cambridge Research and The University of Edinburgh United Kingdom', 'Schlumberger and Tel Aviv Universiy', 'Schulmberger CambridgeResearch', 'Delft University of Technology, pres. Schlumberger', 'EOST, Schlumberger PTS', 'Etudes etProductions Schlumberger', 'GeoKnowledge, a Schlumberger company', 'GeoKnowledge, aSchlumberger company', 'GeoRessources - UL/CNRS/CREGU, Schlumberger Petroleum Services', 'Geosystem, aSchlumberger Company', 'IPGP, Schlumberger PTS', 'Previously Schlumberger', 'Repsol, previouslywith Schlumberger Data Services', 'SIS Schlumberger', 'SIS, Schlumberger', 'SIS, Schlumberger Italiana', 'Schlumberger (Retired)', 'Schlumberger - Westerngeco', 'Schlumberger - now at ETH Zurich', 'Schlumberger / British Antarctic Survey', 'Schlumberger / EMI', 'Schlumberger / EOST', 'Schlumberger / IPGP', 'Schlumberger / University of Oklahoma', 'Schlumberger Beijing Geoscience Centre', 'Schlumberger Cambridge RE', 'Schlumberger Cambridge Research SCR', 'Schlumberger Cambridge Research, ETH Zurich', 'Schlumberger CambridgeResearch', 'Schlumberger CarbonServices', 'Schlumberger Chad', 'Schlumberger China, SA', 'Schlumberger China,SA', 'Schlumberger D&M', 'Schlumberger DCS,College Station', 'Schlumberger DCS,Houston', 'Schlumberger Danmark AS', 'Schlumberger Doll Reserach', 'Schlumberger EMITechnology Center', 'Schlumberger Gatwick,UK', 'Schlumberger Geosolutions Gatwick', 'Schlumberger Geosolutions United Kingdom', 'Schlumberger Gould Center', 'Schlumberger Gould Research, University of Bristol', 'Schlumberger Gould research', 'Schlumberger GouldResearch', 'Schlumberger Information Services', 'Schlumberger Information Solution', 'Schlumberger Information Solutions A/S', 'Schlumberger InformationSolutions A/S', 'Schlumberger Italiana SpA', 'Schlumberger Ltd. China', 'Schlumberger Marine Engineering', 'Schlumberger Microseismic Services', 'Schlumberger MicroseismicServices', 'Schlumberger Moscow Research  SMR', 'Schlumberger Moscow Research / MIPT', 'Schlumberger MoscowResaerch', 'Schlumberger MoscowResearch', 'Schlumberger Nigeria', 'Schlumberger Nigeria Ltd', 'Schlumberger NigeriaLtd', 'Schlumberger Norge AS', 'Schlumberger Oilfield (UK', 'Schlumberger Oilfield Eastern Ltd', 'Schlumberger Oilfield PLC', 'Schlumberger Oilfield Plc', 'Schlumberger Oilfield UK', 'Schlumberger Oilfield UK Plc', 'Schlumberger Oilfield UKPlc', 'Schlumberger PetroTechnicalServices', 'Schlumberger Research and Development', 'Schlumberger SIS', 'Schlumberger SPT TC', 'Schlumberger Technology Corp.', 'Schlumberger Trinidad Inc.', 'Schlumberger limited', 'Schlumberger, GeoResources', 'Schlumberger, Liquid Robotics Oil & Gas', 'Schlumberger, Russia', 'Schlumberger, currentlyPrinceton University', 'Schlumberger- Westerngeco', 'Schlumberger-Doll ResearchCenter', 'Schlumberger-DollResearch', 'Schlumberger/EOST', 'Schlumberger/University of California Berkeley', 'SchlumbergerAsia Ltd', 'SchlumbergerCambridge Research', 'SchlumbergerDoll Research', 'SchlumbergerGeosolutions', 'SchlumbergerGeosolutions United Kingdom', 'SchlumbergerGould Center', 'SchlumbergerGould Research', 'SchlumbergerInformation Solutions A/S', 'SchlumbergerInformation Solutions AS', 'SchlumbergerMicroseismic Services', 'SchlumbergerMoscow Research', 'SchlumbergerNigeria Ltd', 'SchlumbergerPetroTechnical Services', 'SchlumbergerSPT TC', 'SchlumbergerStavanger Research', 'SchlumbergerWesternGeco', 'Services Petroliers Schlumberger', 'Technology Company Schlumberger', 'TerraTek A Schlumberger Co.', 'TerraTek ASchlumberger Co.', 'Schlumberger', 'Schlumberger-Doll Research', 'Schlumberger Cambridge Research', 'Schlumberger Stavanger Research', 'Schlumberger Geco-Prakla', 'Schlumberger Oilfield Services', 'Schlumberger Doll Research', 'Schlumberger Gould Research', 'Schlumberger Stavanger Research Norway', 'Schlumberger of Canada', 'Schlumberger Well Services', 'Schlumberger&hyphen;Doll Research', 'Schlumberger-WesternGeco', 'Schlumberger K. K.', 'Schlumberger Geco-Prakla.', 'Schlumberger Carbon Services', 'Schlumberger Cambridge Research England', 'Schlumberger-Doll Research Center', 'Geco-Prakla Schlumberger', 'Schlumberger Information Solutions', 'Schlumberger Moscow Research', 'Schlumberger Norway Technology Center', 'Schlumberger PTS', 'E. P. Schlumberger', 'Schlumberger-GeoQuest', 'Schlumberger Data & Consulting Services', 'Schlumberger Sugar Land Product Center', 'Schlumberger-Doll Research USA', 'Schlumberger OFS.', 'Schlumberger-EMI', 'Schlumberger BRGC', 'Schlumberger Ltd.', 'Schlumberger OFS', 'Schlumberger EMI Technology Center', 'Schlumberger PetroTechnical Services', 'Schlumberger Geosolutions', 'Schlumberger France', 'Schlumberger Offshore Services', 'Schlumberger Norway', 'Schlumberger Dhahran Carbonate Research', 'Schlumberger USA', 'Schlumberger Reservoir Seismic Services', 'DCS Schlumberger', 'Schlumberger-Doll research', 'Schlumberger Geco&hyphen;Prakla', 'Schlumberger Wireline', 'Schlumberger Reservoir Evaluation Seismic', 'Schlumberger EMI Technology Center Richmond CA ', 'Etudes and Production Schlumberger France', 'Etudes et Productions Schlumberger France', 'ONGC-Schlumberger Wireline Research Centre', 'Schlumberger Oil Field Services', 'Schlumberger K. K. Fuchinobe Japan.', 'Schlumberger/Geco-Prakla', 'Schlumberger Wireline & Testing', 'Schlumberger Geco-Prakla Stavanger Norway', 'Schlumberger OFS Gatwick UK', 'Schlumberger Cambridge Research High Cross Madingley Road Cambridge CB EL England', 'Schlumberger Stavanger Research PO Box  Stavanger Norway', 'EMI-Schlumberger', 'Schlumberger Houston Solutions Center', 'Schlumberger Data and Consulting Services', 'Schlumberger Product Center', 'Schlumberger Houston Texas', 'Schlumberger K.K.', 'Doug Bentley Schlumberger', 'Schlumberger Oman', 'Schlumberger USA.', 'Schlumberger-Doll Research Cambridge MA USA.', 'Z-Seis a Schlumberger Company', 'Schlumberger Cambridge Research Ltd', 'Schlumberger Heavy Oil Regional Technology Center', 'Schlumberger Technology Company', 'Schlumberger AS', 'Schlumberger Research', 'Schlumberger STS France', 'Etudes et Productions Schlumberger', 'Schlumberger-Do/f Research', 'E. P. Schlumberger France', 'Francois Daube Schlumberger', 'Schlumberger Austin Research', 'Schlumberger GeoQuest', 'Schlumberger Cambridge Research High Cross Madingley Road Cambridge', 'Schlumberger Cambridge Research High Cross Madingley Road Cambridge CB OEL U.K.', 'Schlumberger Houston TX', 'Schlumberger Cambridge Research Cambridge England', 'Schlumberger United Kingdom', 'Schlumberger (Gatwick).', 'Schlumberger- Doll Research', 'Schlumberger Doll Research Center', 'Schlumberger DCS', 'Schlumberger Stavanger', 'Schlumberger Consulting Services', 'Schlumberger-EMI Technology Center', 'Schlumberger Kuwait', 'Schlumberger DCS Stavanger', 'EPS Schlumberger', 'Schlumberger Well Sevices', 'Schlumberger of Canada Ltd.', 'Schlumberger Overseas S. A.', 'Schlumberger Overseas S.A.', 'Schlumberger Austin Systems Center', 'Schlumberger- Technical Services', 'Schlumberger (retired) France', 'Etudes et Production Schlumberger France', 'Schlumberger-Doll Research (SDR)', 'Schlumberger Lab for Computer Science', 'Schlumberger Research Fellow', 'Schlumberger Lab for Computer Science Austin', 'Schlumberger Data Services Norway', 'Schlumberger Middle East Saudi Arabia', 'Schlumberger Cam bridge Research England', 'Schlumberger Interpretation Development Indonesia', 'Schlumberger-Geoquest Company', 'Schlumberger-Doll Research Ridgefield CT', 'Schlumberger Austin Product Center Austin TX', 'Electromagnetics Department Schlumberger-Doll Research', 'ETH-Zurich (Now at: Schlumberger Cambridge Research)', 'SchlumbergerGeco-Prakla UK', 'Schlumberger Geoquest', 'Schlumberger Of Canada', 'GeoQuest&hyphen; Schlumberger', 'formerly Schlumberger', 'Schlumberger-Doll Research Ridgefield CT USA', 'Schlumberger House Gatwick UK', 'Schlumberger GeoQuest Egypt', 'Schlumberger Stavanger Research P.O. Box  N- Stavanger Norway', 'Schlumberger Cambridge Research High Cross Madingley Road Cambridge CB OEL England', 'Schlumberger Oilfield Service', 'Schlumberger-Doll Research Ridgefield', 'EMI{Schlumberger)', 'Schlumberger Gatwick U.K', 'Schlumberger Dhahran', 'IPGP & Schlumberger', 'Schlumberger Middle-East', 'Schlumberger Canada', 'NExT/Schlumberger', 'Schlumberger Information Solutions Inc.', 'Schlumberger DCS Denver', 'Schlumberger Water Services California', 'Schlumberger Middle East S.A.', 'Schlumberger KK', 'A Schlumberger Company', 'Schlumberger Company', 'Schlumberger Water Services', 'Schlumberger-Doll Research Boston', 'Schlumberger Cambridge', 'Schlumberger NExT', 'Schlumberger Stavanger Research Center', 'ETH Zurich and Schlumberger', 'Schlumberger Technology Service-Beijing Ltd. Beijing China', 'Schlumberger Houston USA'),
 "School of Engineering & Technology" : ('School of Engineering & Technology', 'school of engineering & technology'),#one_time
-"Science Application Inc.":('Science Application Inc.', 'science application inc.'), #one_time
-"Science Applications Inc.":('Science Applications Inc.', 'science applications inc.'), #one_time
+"Science Application Inc.":('Science Applications Inc.', 'science applications inc.', 'Science Application Inc.', 'science application inc.'), #one_time
 "Science Applications International Corporation" : ('Science Applications International Corporation', 'Science Applications International Corp'),
 "Science District Development Ltd":('Science District Development Ltd', 'science district development ltd'), #one_time
 "Science Laboratories":('Science Laboratories', 'science laboratories'), #one_time
@@ -3211,8 +3180,7 @@ industry_dict = {
 "Seismogenic" : ('Seismogenic', 'seismogenic'),#one_time
 "Seismograph Service Corp." : ('Seismograph Service Corp.', 'Seismograph Service Ltd.', 'Seismograph Service Corp', 'Seismograph Service (England) Ltd.', 'Seismograph Service Ltd. England', 'Seismograph Service (England) Ltd', 'Seismograph Service( England)Ltd.', 'Seismographe Service (England) Ltd.', 'Seismograph Service &lpar;England&rpar; Ltd.'),
 "Seismos Inc.":('Seismos Inc.', 'seismos inc.'), #one_time
-"Seismotech Ltd.":('Seismotech Ltd.', 'seismotech ltd.'), #one_time
-"Seismotech sltd" : ('Seismotech S.A.', 'Seismotech sltd', 'Seismotech sltd; University of Patras'),
+"Seismotech Ltd.":('Seismotech Ltd.', 'seismotech ltd.', 'Seismotech S.A.', 'Seismotech sltd', 'Seismotech sltd; University of Patras'), #one_time
 "SeistranLtd":('SeistranLtd', 'seistranltd'), #one_time
 "Seitel Data" : ('Seitel Data', 'Seitel', 'Seitel Incorporated'),
 "Seknion Inc.":('Seknion Inc.', 'seknion inc.'), #one_time
@@ -3221,17 +3189,11 @@ industry_dict = {
 "Senergy Survey and Geo Engineering Ltd":('Senergy Survey and Geo Engineering Ltd', 'senergy survey and geo engineering ltd'), #one_time
 "Senex Energy":('Senex Energy', 'senex energy'), #one_time
 "SenorWise Inc.":('SenorWise Inc.', 'senorwise inc.'), #one_time
-"Sensor Geophysical Ltd" : ('Sensor Geophysical Ltd', 'Sensor Geophysical Ltd.'),
-"Sensor Geophysical" : ('Sensor Geophysical', 'sensor geophysical'),#one_time
-"Sensor Nederland b.v." : ('Sensor Nederland bv.', 'Sensor Nederland bv', 'Sensor Nederland b.v.', 'Sensor Nederland B.V', 'Sensor Nederland B.V.'),
-"Sensor Nederland b.v., Input/Ouput Inc":('Sensor Nederland b.v., Input/Ouput Inc', 'sensor nederland b.v., input/ouput inc'), #one_time
-"Sensor Nederland by." : ('Sensor Nederland by.', 'sensor nederland by.'),#one_time
+"Sensor Geophysical Ltd" : ('Sensor Geophysical Ltd', 'Sensor Geophysical Ltd.', 'Sensor Geophysical', 'sensor geophysical'),
+"Sensor Nederland b.v." : ('Sensor Nederland b.v., Input/Ouput Inc', 'sensor nederland b.v., input/ouput inc', 'Sensor Nederland by.', 'sensor nederland by.', 'Sensor Nederland bv.', 'Sensor Nederland bv', 'Sensor Nederland b.v.', 'Sensor Nederland B.V', 'Sensor Nederland B.V.'),
 "SensorTran" : ('SensorTran', 'sensortran'),#one_time
 "SensorWise Inc." : ('SensorWise Inc.', 'SensorWise Inc', 'Sensorwise Inc.'),
-"Sensors & Software Inc" : ('Sensors & Software Inc', 'Sensors & Software Inc. Canada'),
-"Sensors & Software Inc" : ('Sensors & Software Inc', 'Sensors & Software Inc. Canada'),
-"Sensors & Software Inc.":('Sensors & Software Inc.', 'sensors & software inc.'), #one_time
-"Sensors & Software" : ('Sensors & Software', 'sensors & software'),#one_time
+"Sensors & Software Inc.":('Sensors & Software Inc', 'Sensors & Software Inc. Canada', 'Sensors & Software Inc', 'Sensors & Software Inc. Canada', 'Sensors & Software', 'sensors & software', 'Sensors & Software Inc.', 'sensors & software inc.'), #one_time
 "Sercel" : ('Sercel Inc.', 'Sercel', 'Sercel Beijing Technology', 'Sercel Nantes France', 'Sercel Australia Pty Ltd', 'Sercel Inc', 'Sercel France', 'SERCEL France'),
 "Seres" : ('Seres', 'SERES S/A Netherlands'),
 "Serious Waves Inc.":('Serious Waves Inc.', 'serious waves inc.'), #one_time
@@ -3251,8 +3213,7 @@ industry_dict = {
 "Shanghai QFZYGEO Inc." : ('Shanghai QFZYGEO Inc.', 'shanghai qfzygeo inc.'),#one_time
 "Shanxi Provincial Coal Geological, Geophysical Prospecting, Surveying and Mapping Institute":('Shanxi Provincial Coal Geological, Geophysical Prospecting, Surveying and Mapping Institute', 'shanxi provincial coal geological, geophysical prospecting, surveying and mapping institute'), #one_time
 "Sharp Reflections" : ('Sharp Reflections', 'Sharp Reflections GmbH'),
-"Shearwater GeoServices" : ('Shearwater', 'Shearwater GeoServices', 'Shearwater Geophysical', 'Shearwater Geophysical Company Ltd.', 'Shearwater Geoservices'),
-"Shearwater GeoServices, UK" : ('Shearwater GeoServices, UK', 'shearwater geoservices, uk'),#one_time
+"Shearwater GeoServices" : ('Shearwater GeoServices, UK', 'shearwater geoservices, uk', 'Shearwater', 'Shearwater GeoServices', 'Shearwater Geophysical', 'Shearwater Geophysical Company Ltd.', 'Shearwater Geoservices'),
 "Shell International Exploration and Production Inc." : ('SIEP-RTS', 'Shell International E &amp; P', 'Shell International Exploration and Production Inc., and OCTIO Gravitude AS', 'Shell Global Solutions Canada', 'Shell Exploration &amp; Production Company', 'Shell International E&amp;P', 'Shell Exploration and Production Company, Inc.', 'Shell E &amp; P', 'Shell Global Solutions US', 'Shell Information Technology International', 'Shell Global Solutions International BV, Amsterdam, The Netherlands', 'Shell International Exploration &amp; Production Inc.', 'Shell Global Solutions Canada Inc.', 'Shell Kuwait Exploration and Production B.V.', 'Shell Global Solutions Inc.', 'Shell Brazil PetrÃ³leo Ltda.', 'Shell International Exploration and Production Company, Houston, Texas, USA', 'Koninklijke/Sheil Exploratie en Produktie Laboratorium (K/SEPL)', 'Shell Development Co.', 'AECL Research Whiteshell Labs',  'Shell International Exploration & Production Inc. 3737 Bellaire Blvd Houston TX 77025 USA', 'Shell International Exploration & Production Inc. 3737 Bellaire Blvd Houston', 'Shell Kuwait Exploration and Production''Shell Development Co.', 'Shell International Exploration & Production Inc. 3737 Bellaire Blvd Houston TX 77025 USA', 'Shell International Exploration & Production Inc. 3737 Bellaire Blvd Houston', 'Shell Kuwait Exploration and Production', 'Shel International Exploration and Production', 'A/S Norske Shell', 'Brunei Shell Petroleum Company', 'BruneiShell Petroleum Co Sdn Bhd', 'BruneiShell Petroleum Co Sdn Bhd BSP', 'BruneiShell Petroleum Company', 'Maersk Oil / Shell', 'Norske Shell A.S.', 'Norske Shell AS', 'Retired from Shell', 'Royal Dutch Shell', 'SHELL', 'SShell Petroleum Development Co.', 'Sarawak Shell', 'Sarawak Shell Bhd', 'Shell Abu Dhabi', 'Shell Americas', 'Shell Brasil Petroleo Ltda', 'Shell Brunei Petroleum', 'Shell CO2/Renewables', 'Shell Canada Ltd', 'Shell Deepwater Borneo', 'Shell E&P Europe', 'Shell E&P Libya GmbH', 'Shell E&P Services (RF', 'Shell E&P US', 'Shell E&P, TheNetherlands', 'Shell E&PCo.', 'Shell EP Europe', 'Shell EPE', 'Shell Egypt', 'Shell Egypt NV', 'Shell Exploration & Production in Europe', 'Shell Exploration & Production inEurope', 'Shell Exploration & ProductionCo.', 'Shell Exploration &Production Co.', 'Shell Exploration &Production Company', 'Shell Exploration &Production Europe', 'Shell Exploration &Production in Europe', 'Shell Exploration and Production Company, K. King (Shell Exploration and Production Company', 'Shell Exploration and Production Europe', 'Shell Exploration and ProductionEurope', 'Shell Exploration andProduction Company', 'Shell Exploration andProduction Europe', 'Shell GSI & Delft University of Technology', 'Shell GSI BV', 'Shell GSI BV & Delft Universityof Technology', 'Shell GSI BV & DelftUniversity of Technology', 'Shell GSI BV / Delft University of Technology', 'Shell GSI BV and Delft University of Technology', 'Shell GSI BV& Delft University of Technology', 'Shell GSI and Delft University of Technology', 'Shell Geoscience Solutions', 'Shell Global Solutions B.V.', 'Shell Global Solutions BV', 'Shell Global Solutions International B. V.', 'Shell Global Solutions International BV / Delft University ofTechnology', 'Shell Global Solutions International BV / TU Delft', 'Shell Global Solutions International BV and Delft University of Technology', 'Shell Global Solutions International, Malaysia', 'Shell Global Solutions International,The Netherlands', 'Shell Global Solutions InternationalB.V.', 'Shell Global Solutions InternationalBV', 'Shell Global Solutions InternationalBV / Delft University of Technology', 'Shell Global SolutionsInternational', 'Shell Global SolutionsInternational B.V.', 'Shell Global SolutionsInternational BV', 'Shell Global SolutionsInternational BV & TU Delft', 'Shell Global SolutionsInternational, The Netherlands', 'Shell Global SolutionsInternational, USA', 'Shell Global Soutions International', 'Shell GlobalSolutions', 'Shell GlobalSolutions International', 'Shell GlobalSolutions International BV', 'Shell India Markets Private Limited', 'Shell India Markets Private Ltd', 'Shell International & Exploration BV', 'Shell International BV', 'Shell International E & P Co.', 'Shell International E & PCo.', 'Shell International E &P', 'Shell International E &P, USA', 'Shell International E& P', 'Shell International E&P BV', 'Shell International E&P BV/Delft University of Technology', 'Shell International E&P Co.', 'Shell International E&PBV', 'Shell International E&PInc.', 'Shell International Exploration & Production B. V.', 'Shell International Exploration & ProductionInc.', 'Shell International Exploration &Production', 'Shell International Exploration and Production B.V', 'Shell International Exploration and Production, Inc.', 'Shell International Exploration andProduction', 'Shell International Exploration andProduction Inc', 'Shell International Explorationand Production', 'Shell International Explorationand Production Inc', 'Shell InternationalBV', 'Shell InternationalE&P', 'Shell InternationalE&P BV', 'Shell InternationalE&P Inc.', 'Shell InternationalExploration & Production', 'Shell InternationalExploration & Production Inc.', 'Shell InternationalExploration and Production', 'Shell InternationalExploration and Production BV', 'Shell Italia E&P', 'Shell Netherlands NAM', 'Shell Nigeria E&P Co. Ltd', 'Shell Nigeria E&P Ltd', 'Shell Petroleum Development Co.', 'Shell Projects & Technology', 'Shell Syria PD  seconded to Al Furat PC', 'Shell Technology Oman', 'Shell U.K. Exploration and Production', 'Shell UK Exploration & Production', 'Shell UK Exploration & Production Ltd', 'Shell UK Exploration & ProductionLtd', 'Shell UK Exploration &Production', 'Shell UK Exploration &Production Ltd', 'Shell UK Limited', 'Shell UK Ltd', 'Shell UK Ltd.', 'Shell UKExploration & Production', 'Shell UKExploration & Production Ltd', 'Shell UKLtd', 'ShellCanada Ltd', 'ShellE&P', 'ShellExploration & Production Europe', 'ShellExploration & Production in Europe', 'ShellExploration and Production', 'ShellExploration and Production Co.', 'ShellExploration and Production Company', 'ShellExploration and Production Europe', 'ShellGSI BV & Delft University of Technology', 'ShellGeoscience Solutions', 'ShellGlobal Solutions International', 'ShellGlobal Solutions International B.V.', 'ShellGlobal Solutions International BV', 'ShellGlobal Solutions International BV / Delft University of Technology', 'ShellGlobal Solutions UK', 'ShellInternational E & P', 'ShellInternational E&P', 'ShellInternational E&P B.V.', 'ShellInternational E&P BV', 'ShellInternational E&P Co.', 'ShellInternational E&P Inc.', 'ShellInternational Exploration & Production', 'ShellInternational Exploration & Production BV', 'ShellInternational Exploration & Production Inc.', 'ShellInternational Exploration and Production', 'ShellInternational Exploration and Production Inc', 'ShellProjects and Technology', 'ShellSyria PD  seconded to Al Furat PC', 'ShellUK Exploration & Production', 'ShellUK Ltd', 'ShellUpstream Americas', 'previously Shell Global Solutions International B.V.',  'Shell International Exploration and Production Inc.', 'Shell International Exploration and Production', 'Shell Exploration and Production Company', 'Shell International E&P', 'Shell International Exploration & Production', 'Shell', 'Shell Global Solutions International', 'Shell Global Solutions International B.V.', 'Shell International Exploration and Production Incorporated', 'Shell International E&P Inc.', 'Shell International Exploration and Production Inc', 'Shell International Exploration & Production Inc.', 'Shell E&P', 'Shell Upstream Americas', 'Shell International E&P Inc', 'Shell Global Solutions International BV', 'Shell Canada', 'Shell International Exploration and Production B.V.', 'Shell International E & P', 'Shell International E & P Inc.', 'Shell Petroleum Development Company', 'Shell Exploration and Production Co.', 'Shell Global', 'Shell Offshore Inc.', 'Shell Exploration and Production Co', 'Shell Nigeria Exploration and Production Company', 'Shell E&P Technology Company', 'Shell E&P Co.', 'Shell Oil Company', 'Shell International E&P Incorporated', 'Shell Offshore Inc', 'Norske Shell', 'Shell International Research', 'Sarawak Shell Berhad', 'Shell International E & P Inc', 'Shell Canada Resources Ltd.', 'Shell Expro UK', 'Shell Int&apos;l E&P', 'Shell International Exploration and Production - Rijswijk', 'Shell U.K. Exploration and Production Ltd.', 'Shell International EP Inc.', 'Shell International Exploration & Production Inc. Houston', 'Shell Nigeria E&P Co. Ltd.', 'Shell Petroleum Development Company of Nigeria Ltd', 'Brunei Shell Petroleum Co Sdn Bhd', 'Shell Research', 'Shell UK Aberdeen UK.', 'Shell UK Exploration and Production', 'Shell International EPT-RXR', 'Shell International Exploration and Production B.V. The Netherlands.', 'Shell Exploration & Production Company', 'Shell Projects and Technology', 'Shell International E&amp', 'Shell U.K. Limited', 'Shell Petroleum Development', 'Shell Brasil Exploration and Production Ltda', 'Shell Canada Ltd.', 'Shell Development Corp.', 'Koninklijke/Shell Exploratie en Produktie Laboratorium', 'Shell International E&P Rijswij', 'Shell Expro - Aberdeen.', 'Shell EP Technology', 'CO Shell International Exploration & Production Inc.', 'Shell International E&P B.V.', 'Shell Olie og Gasudvinding', 'Shell International', 'Stanford University Currently Shell Exploration and Production Company', 'Shell Technology Centre Bangalore', 'Shell International Exploration', 'Shell Exploration & Production Co.', 'Shell International Exploration and Production Company Houston Texas', 'Shell Development', 'Shell Research B.V.', 'KSEPL Shell Research B. V.', 'Shell Exploration & Production Technology', 'Shell UK', 'Brunei Shell', 'Shell International E&P Rijswijk The Netherlands', 'Shell International Exploration and Production BV', 'Shell Intl E&P The Hague', 'Shell EP Technology Applications & Research', 'Shell International E&P Inc. Houston USA', 'Shell International E&P The Netherlands.', 'Shell Houston', 'Shell U.K Exploration and Production', 'Shell Exploration & Production', 'Shell E&P Inc.', 'Shell International Exploration and Production Rijswijk The Netherlands.', 'Shell International E & P USA', 'Shell EP Europe Aberdeen UK', 'Shell International Exploration and Production Company', 'Shell E&P Company', 'Shell Oil', 'Shell China E&P Company', 'Shell America', 'Shell India Markets Pvt. Ltd.', 'Shell Global Solutions International B.V', 'Shell International Exploration & Production Inc', 'Shell Project and Technology', 'Shell Global Solutions', 'Shell Upstream Albania', 'formerly with Shell International Exploration and Production', 'Shell Resources Ltd.', 'Shell Research BV The Netherlands', 'Shell Research B.V.Netherlands', 'KoninklijkelShell Exploratie en Productie Lab Netherlands', 'Koninklijke/Shell Exploratie en Produktie Lob Netherlands', 'Shell Research B. V. Netherlands', 'Shell Development CO.', 'Shell Western Exploration and Production Inc.', 'Shell Research B.V. Netherlands', 'Shell Research Development', 'Consultant retired from Shell Development Co.', 'Shell E&P Lab', 'Koninklijke/Shell Exploratie et Produktie Lab', 'Shell Internationaie Petroleum Mij (SIPM) Netherlands', 'Shell International Petroleum Maatschappij (SIPM) Netherlands', 'Shell Petroleum Development Co. of Nigeria Lagos', 'Shell Internationale Petroleum Maatschappij (SIPM', 'SIPM Shell Intemationale Petroleum Maatschappij Netherlands', 'Shell Exploratie en Produktie Lab', 'Shell Internationale Petroleum Maatschappij B.V', 'Shell Egypt N.V', 'Badr Petroleum Co. (Bapetco) Shell/EGPC', 'Shell Internationale Petroleum', 'Koninkiijke/Shell E & P Lab', 'retired from Shell Internationale Petroleum Maatschappij (SIPM)Netherlands', 'Koninklijke/Shell E & P Lab Netherlands', 'Koninklijke/Shell Exploratie en Productie Laboratorium', 'MIT; presently at Shell Development Company', 'Shell Venezuela S.A.', 'Shell Companies of Colombia', 'Shell Research Rijswijk', 'Koninklijke Shell Explaortie en Produktie Laboratorium', 'Shell U.K.', 'Shell E&P Technology Co. Houston TX', 'Shell Development Australia', 'Shell Research and Technical Services', 'Shell International Exploration and Production B.V. Rijswijk', 'Research and Technical Services Shell International Exploration and Production', 'Shell E & P Technology Company', 'Shell E&P Technology', 'Shell Exploration and Production Technology Co.', 'ex Shell Deepwater Development Inc.: currently Samson Houston TX', 'Shell Technology Co. Houston TX', 'Shell International Exploration and Production B.V. Research and Technical Services The Netherlands', 'Shell Expro UK.', 'Applied Geophysical Research. Royal Dutch Shell', 'Shell Gabon', 'formerly Shell International E&P Inc. presently Advanced Data Solutions Inc.', 'Delft University of Technology currently at Shell Int. E&P Rijswijk', 'Shell Int. E&P', 'Shell International E&P Incn', 'Shell Exploration and Production Aberdeen', 'Shell Exploration and Production Lowestoft', 'Shell International Exploration and Production B.V. The Netherlands', 'Shell EP Americas', 'Shell International E&P Company', 'Shell International E&PCarbonate Development Team', 'Shell International E&P Carbonate Development Team The Netherlands', 'Shell Canada Limited.', 'Earth Res. Lab. MIT  Shell Int. E & P', 'Shell Exploration & Production.', 'Saint-Petersburg state University Rene-Edouard Plessix Shell Int&apos;l E&P', 'Shell U.K. Ltd.', 'Shell U.K. Ltd', 'Shell Int. E & P Rijswijk The Netherlands.', 'Shell Int..', 'Shell International E & P Inc USA', 'Shell International EP Inc. (EP Technology &mdash; R&D)', 'Shell International E&P.', 'Terry Research and Development and Shell International Exploration and Production', 'Shell International E&P Houston Texas', 'Shell Houston TX', 'Shell EPW USA', 'Delft University of Technology Department of Geotechnology Shell International E&P', 'Shell Intl. E&P Rijswijk The Netherlands', 'Shell EP Americas.', 'Shell International E & P;', 'Shell Intl E&P Rijswijk.', 'Shell The Netherlands', 'Shell Int. E&P Houston', 'Shell International Exploration & Production Inc Houston TX', 'Shell International Exploration & Production B.V', 'Shell International E &P Inc', 'Shell International Exploration & Production Inc.  Bellaire Blvd Houston TX  USA', 'Shell International Exploration & Production Inc.  Bellaire Blvd Houston', 'Shell Exploration & Production Europe', 'Shell Exploration and Production', 'Shell Int&apos;l E& P Rijswijk.', 'Shell E & P Co.', 'Shell International Exploration & Production BV', 'Shell International Exploration & Production B.V.', 'Shell Nigeria Exploration and Production Co.', 'Shell International E&P Bellaire Technology Center', 'Department of Geology and Geophysics Texas A&M University now at Shell Exploration and Production Company', 'Shell International Exploration & Production B. V', 'Delft University of Technology and Shell International Exploration & Production', 'Colin Perkins Shell IEP', 'Shell Global Solution Int.', 'Shell Petroleum Development Company Limited', 'Brunei Shell Petroleum', 'Shell Canada Inc.', 'Shell GSI BV & Delft University of Technology', 'Shell P&T', 'Shell Upstream Deepwater', 'Shell Global Solutions International and Delft University of Technology', 'Shell Upstream Bulgaria', 'Shell Kuwait Exploration and Production 1', 'Shell E&P P.O.Box 481 Houston TX 77001-0481 USA', 'University of Houston Houston TX 77204 Shell Houston TX 77025 USA'),
 "Shengli Oilfield Company" : ('Geology Science and Technology Institude of Sheng Li Oil Field', 'Dongxin OilPlant of Shengli Oilfield', 'Geophysical Prospecting Research Institute of Shengli Oilfield, Dongying', 'Geophysical Research Institute ofShengli Oilfield', 'Geophysical ResearchInstitute of Shengli Oilfield', 'Geophysical research institute ofShengli oilfield', 'GeophysicalResearch Institute of Shengli Oilfield', 'Geophysics Research Institute of Shengli Oilfield', 'Geophysics Research Institute ofShengli Oilfield', 'Geophysics ResearchInstitute of Shengli Oilfield', F'GeophysicsResearch Institute of Shengli Oilfield', 'SGC Shengli', 'ShengLi Petroleum Administration Burea', 'Shengli Geophysics Research Institute', 'Shengli GeophysicsResearch Institute', 'Shengli Oil Field Institute', 'Shengli Oil FieldInstitute', 'Shengli OilProd. Tech. Research', 'Shengli Oilfield', 'Shengli Oilfield Company', 'Shengli Oilfield Exploration and Development Research Institute', 'Shengli Oilfield Research Institute', 'Shengli Oilfield Research Institute of Exploration and Development'),
 "Shenli Petroleum Administration Bureau" : ('Shenli Petroleum Administration Bureau', 'shenli petroleum administration bureau'),#one_time
@@ -3264,8 +3225,7 @@ industry_dict = {
 "Shimiagin Company":('Shimiagin Company', 'shimiagin company'), #one_time
 "Shin&#8217;s Geophysics" : ('Shin&#8217;s Geophysics', 'shin&#8217;s geophysics'),#one_time
 "Shin&apos;s Geophysics" : ('Shin&apos;s Geophysics', 'Shin&apos;s geophysics'),
-"Shins Geophysics Corp., Seoul, Korea" : ('Shins Geophysics Corp., Seoul, Korea', 'shins geophysics corp., seoul, korea'),#one_time
-"Shins Geophysics Corp., Seoul, South Korea" : ('Shins Geophysics Corp., Seoul, South Korea', 'shins geophysics corp., seoul, south korea'),#one_time
+"Shins Geophysics Corp., Seoul, South Korea" : ('Shins Geophysics Corp., Seoul, Korea', 'shins geophysics corp., seoul, korea', 'Shins Geophysics Corp., Seoul, South Korea', 'shins geophysics corp., seoul, south korea'),#one_time
 "Shtuka Consulting":('Shtuka Consulting', 'shtuka consulting'), #one_time
 "Siberian Geophysical Research Production Company":('Siberian Geophysical Research Production Company', 'siberian geophysical research production company'), #one_time
 "Sibneft" : ('Sibneft', 'sibneft'),#one_time
@@ -3292,8 +3252,7 @@ industry_dict = {
 "Sismico" : ('Sismico', 'sismico'),#one_time
 "Sisprobe SAS":('Sisprobe SAS', 'sisprobe sas'), #one_time
 "Sisprobe" : ('Sisprobe', 'sisprobe'),
-"Skagen 44 AS":('Skagen 44 AS', 'skagen 44 as'), #one_time
-"Skagen44" : ('Skagen44', 'skagen44'),#one_time
+"Skagen 44 AS":('Skagen44', 'skagen44', 'Skagen 44 AS', 'skagen 44 as'), #one_time
 "Skeye":('Skeye', 'skeye'), #one_time
 "Sky Research Inc." : ('Sky Research Inc.', 'Sky Research',  'Sky Research Inc./Dartmouth College Etna'),
 "Skygeo, LLC":('Skygeo, LLC', 'skygeo, llc'), #one_time
@@ -3303,7 +3262,6 @@ industry_dict = {
 "Smultea Environmental Sciences" : ('Smultea Environmental Sciences', 'Smultea Environmental sciences'),
 "Snamprogetti":('Snamprogetti', 'snamprogetti'), #one_time
 "Snyder Geoscience Inc." : ('Snyder Geoscience Inc.', 'Snyder Geoscience'),
-"Socar":('Socar', 'socar'), #one_time
 "Societe Geologique de France SGF":('Societe Geologique de France SGF', 'societe geologique de france sgf'), #one_time
 "Societe National des Hydrocarbures" : ('Societe National des Hydrocarbures, Cameroun', 'Societe Nationale des Hydrocarbures du Cameroun', 'Societe Nationale desHydrocarbures du Cameroun', 'SocieteNationale des Hydrocarbures du Cameroun'),
 "Society of Exploration Geophysicists" : ('1998 SEG', 'SEG Int&apos;l Exposition', 'Society of Exploration Geophysicists', 'SEG', 'SEG Int&apos;l Exposition and 74th Annual Meeting Denver Colorado'),
@@ -3325,8 +3283,7 @@ industry_dict = {
 "Sonatrach Exploration" : ('Sonatrach Exploration', 'IAP/Sonatrach', 'PED/Sonatrach', 'Production Engineering and Development SONATRACH', 'Exploration Division Sonatrach', 'Production Engineering and Development Sonatrach'),
 "Sonika" : ('Sonika', 'sonika'),#one_time
 "Sorex Inc." : ('Sorex Inc.', 'Sorex'),
-"Sound Oceanics LLC":('Sound Oceanics LLC', 'sound oceanics llc'), #one_time
-"Sound Oceanics LLP" : ('Sound Oceanics LLP', 'sound oceanics llp'),#one_time
+"Sound Oceanics LLP" : ('Sound Oceanics LLC', 'sound oceanics llc', 'Sound Oceanics LLP', 'sound oceanics llp'),#one_time
 "Sound QI Incorporated":('Sound QI Incorporated', 'sound qi incorporated'), #one_time
 "Sound QI Solutions Ltd.":('Sound QI Solutions Ltd.', 'sound qi solutions ltd.'), #one_time
 "Sound Seismic Solutions" : ('Sound Seismic Solutions', 'sound seismic solutions'),#one_time
@@ -3353,8 +3310,7 @@ industry_dict = {
 "Spetsgeofizika" : ('Spetsgeofizika', 'spetsgeofizika'),#one_time
 "Spidron":('Spidron', 'spidron'), #one_time
 "Spinnaker Exploration Company L.L.C." : ('Spinnaker Exploration Company L.L.C.', 'spinnaker exploration company l.l.c.'),#one_time
-"Spirit Energy":('Spirit Energy', 'spirit energy'), #one_time
-"Spirit Energy":('Spirit Energy', 'spirit energy'), #one_time
+"Spirit Energy":('Spirit Energy', 'spirit energy', 'Spirit Energy', 'spirit energy'), #one_time
 "Spring Energy" : ('Spring Energy', 'Spring Energy Norway AS', 'Spring EnergyNorway AS', 'SpringEnergy Norway AS'),
 "Spyglass Energy" : ('Spyglass Energy', 'spyglass energy'),#one_time
 "St. Joe American Corp." : ('St. Joe American Corp.', 'st. joe american corp.'),#one_time
@@ -3372,12 +3328,10 @@ industry_dict = {
 "Starfix Div. of John E. Chance & Associates" : ('Starfix Div. of John E. Chance & Associates', 'starfix div. of john e. chance & associates'),#one_time
 "Stark Reality Inc." : ('Stark Reality Inc.', 'Stark Reality Inc'),
 "State Company Semorgeo":('State Company Semorgeo', 'state company semorgeo'), #one_time
-"State Geophysical Enterprises Dniprogeophysica ":('State Geophysical Enterprises Dniprogeophysica ', 'state geophysical enterprises dniprogeophysica '), #one_time
-"State Geophysical Enterprises Dniprogeophysica":('State Geophysical Enterprises Dniprogeophysica', 'state geophysical enterprises dniprogeophysica'), #one_time
+"State Geophysical Enterprises Dniprogeophysica":('State Geophysical Enterprises Dniprogeophysica ', 'state geophysical enterprises dniprogeophysica ', 'State Geophysical Enterprises Dniprogeophysica', 'state geophysical enterprises dniprogeophysica'), #one_time
 "State Grid Ri Zhao PowerSupply Company":('State Grid Ri Zhao PowerSupply Company', 'state grid ri zhao powersupply company'), #one_time
 "State Key Laboratory of Petroleum Resource and Pro" : ('State Key Laboratory of Petroleum Resource and Pro', 'State Key Laboratory of Petroleum Resources and Prospecting', 'State Key Laboratory ofPetroleum Resource and Pro'),
-"State Oil Company of Azerbaijan Republic" : ('State Oil Company of Azerbaijan Republic', 'state oil company of azerbaijan republic'),#one_time
-"State Oil Company of the Azerbaijan Republic":('State Oil Company of the Azerbaijan Republic', 'state oil company of the azerbaijan republic'), #one_time
+"State Oil Company of the Azerbaijan Republic":('Socar', 'SOCAR', 'socar', 'SOCAR - State Oil Company of Azerbaijan Republic', 'socar - state oil company of azerbaijan republic', 'State Oil Company of Azerbaijan Republic', 'state oil company of azerbaijan republic', 'State Oil Company of the Azerbaijan Republic', 'state oil company of the azerbaijan republic'), #one_time
 "State Oil and Gas Academy" : ('State Oil and Gas Academy', 'state oil and gas academy'),#one_time
 "Statics Rocks LLC" : ('Statics Rocks LLC', 'statics rocks llc'),#one_time
 "Statoil" : ('statoilhydroNST ', 'Statoil Stjørdal Norway', 'Statoil Research Centre Postuttak N-7005 Trondheim Norway', 'SSTATOIL R&D Centre at present Geoph. Dept. Stanford University', 'STATOIL', 'statoilhydro', 'Statoil (Beijing', 'Statoil / Delft University of Technology', 'Statoil ASA & NTNU', 'Statoil ASA, NTNU', 'Statoil ASA, formerly Dept. of Physics, NTNU', 'Statoil Bergen', 'Statoil GulfService', 'Statoil Production UK', 'Statoil Production UK Ltd.', 'Statoil R&D, Trondheim, Norway', 'Statoil Research Center, Trondheim', 'Statoil Research Centre Bergen', 'Statoil, Harstad, Norway', 'Statoil, London, England', 'Statoil/NTNU', 'Statoil/Research Center, Bergen', 'Statoil/ResearchCenter, Bergen', 'StatoilASA', 'StatoilHydro ASA & NTNU', 'StatoilHydro, Bergen, Norway', 'StatoilNorway', 'StatoilProduction UK Ltd.', 'StatoilR&D, Trondheim, Norway', 'Statoilhydro', 'Statoil', 'Statoil ASA', 'Statoil Research Centre', 'StatoilHydro', 'Statoil Research Center', 'Statoil Gulf Service', 'StatoilHydro ASA', 'Statoil Norway', 'Statoil Research Centre Norway', 'StatoilHydro Research Center', 'Statoil ASA Norway', 'Statoil Research Center and NTNU', 'Statoil R&D', 'Norwegian University of Science and Technology (NTNU) and Statoil Research Centre', 'Statoil R&D Centre', 'Statoil ASA and Norwegian University of Science and Technology', 'Statoil (Beijing) Technology Service Co. Ltd.', 'Statoil Research Centre Trondheim Norway', 'M-OSRP. Dept. of Physics University of Houston Statoil Research Center', 'Statoil ASA Arkitekt Ebbels Vei 10 7005 Trondheim Norway', 'StatoilHydro.', 'StatoilHydro ASA Research Center Trondheim', 'Statoil Gulf service', 'Statoil Research Center Norway', 'Statoil R&D Trondheim Norway', 'Statoil; and Norwegian University of Science and Technology', 'Statoil Exploration (US) Inc.', 'Statoil Harstad Norway', 'Statoil Research Center Trondheim Norway', 'Statoil Research Centre Postuttak N- Trondheim Norway', 'StatoilHydro Research Centre', 'StatoilHydro ASA Exploration and Production', 'Statoil (Beijing) Technology Services', 'Statoil Gulf Services', 'Statoil Seismic Processing Center Norway', 'Statoil Den Norske Stats Oljeselskap a.s Norway', 'Statoil Harstad', 'Statoil Research', 'NTNU and Statoil Research Centre', 'Rock Physics Laboratory Dept. of Geophysics Stanford University and Statoil R & D center Trondheim Norway', 'Statoil R & D center Trondheim Norway.', 'Statoil Research Centre Norwayl', 'formerly IFP presently Statoil Research Centre Norway.', 'Statoil Exploration and Petroleum Technology Research Centre', 'Statoil Trondheim Norway', 'StatoilStavanger Norway', 'Statoil Research Centre formerly SINTEF', 'Norwegian University of Science and Technology Statoil Research Centre', 'Statoil Research Norway', 'Statoil Research Centre Rotvoll Trondheim', 'Statoil Research Centers', 'StatoilTrondheim Norway', 'Statoil-Hydro', 'Statoil Geophysical Special Methods', 'Statoil Leismer Asset Team', 'Statoil NA', 'Statoil (Beijing) Technology Service', 'Henneberg Kerstin Statoil ASA', 'Statoil ASA/University of Oslo', 'University of Oslo and Statoil ASA'),
@@ -3385,8 +3339,7 @@ industry_dict = {
 "Sterling Seismic Services" : ('Sterling Seismic Services', 'Sterling Seismic Services.'),
 "Stillwater Canada Inc.":('Stillwater Canada Inc.', 'stillwater canada inc.'), #one_time
 "Sting Research" : ('Sting Research', 'sting research'),#one_time
-"Stingray Geophysical Ltd.":('Stingray Geophysical Ltd.', 'stingray geophysical ltd.'), #one_time
-"Stingray Geophysical" : ('Stingray Geophysical', 'Stingray Geophysical Ltd', 'StingrayGeophysical Ltd'),
+"Stingray Geophysical Ltd.":('Stingray Geophysical', 'Stingray Geophysical Ltd', 'StingrayGeophysical Ltd', 'Stingray Geophysical Ltd.', 'stingray geophysical ltd.'), #one_time
 "Stiteler Consulting" : ('Stiteler Consulting', 'stiteler consulting'),#one_time
 "Stochastic Systems International" : ('Stochastic Systems International', 'stochastic systems international'),
 "StockCompany PechorNIPIneft":('StockCompany PechorNIPIneft', 'stockcompany pechornipineft'), #one_time
@@ -3408,15 +3361,13 @@ industry_dict = {
 "StrataSearch Corp." : ('StrataSearch Corp.', 'StrataSearch Corporation'),
 "Strataimage Consultoria" : ('Strataimage Consultoria', 'Strataimage Consultoria Ltda', 'Strataimage ConsultoriaLtda', 'StrataimageConsultoria Ltda', 'Strataimage Consultoria', 'Strataimage Consultoria Ltda', 'Strataimage ConsultoriaLtda', 'StrataimageConsultoria Ltda'),
 "Stratavision Energy Inc." : ('Stratavision Energy Inc.', 'Stratavision Energy'),
-"Strategic Decision Group" : ('Strategic Decision Group', 'strategic decision group'),#one_time
-"Strategic Decisions Group":('Strategic Decisions Group', 'strategic decisions group'), #one_time
+"Strategic Decision Group" : ('Strategic Decisions Group', 'strategic decisions group', 'Strategic Decision Group', 'strategic decision group'),#one_time
 "Stratener":('Stratener', 'stratener'), #one_time
 "Stratus Aeronautics" : ('Stratus Aeronautics', 'stratus aeronautics'),#one_time
 "StreamSim" : ('StreamSim', 'StreamSim Technologies', 'Streamsim Technologies'),
 "Striker Resources N.L" : ('Striker Resources N.L', 'striker resources n.l'),
 "Structural Geology International LLC" : ('Structural Geology International LLC', 'structural geology international llc'),#one_time
-"Structure Testing Service( UK) Ltd. England":('Structure Testing Service( UK) Ltd. England', 'structure testing service( uk) ltd. england'), #one_time
-"Structure Testing Services (U K) Ltd. England":('Structure Testing Services (U K) Ltd. England', 'structure testing services (u k) ltd. england'), #one_time
+"Structure Testing Service( UK) Ltd. England":('Structure Testing Services (U K) Ltd. England', 'structure testing services (u k) ltd. england', 'Structure Testing Service( UK) Ltd. England', 'structure testing service( uk) ltd. england'), #one_time
 "Strzelecki Energia":('Strzelecki Energia', 'strzelecki energia'), #one_time
 "Stuart Greenwood" : ('Stuart Greenwood', 'stuart greenwood'),#one_time
 "Sub Salt Solutions" : ('Sub Salt Solutions', 'Sub Salt Solutions Limited', 'Sub Salt Solutions Ltd', 'Sub Salt SolutionsLimited, London', 'Sub Salt Solutions', 'Sub Salt Solutions Limited', 'Sub Salt Solutions Ltd', 'Sub Salt SolutionsLimited, London'),
@@ -3428,8 +3379,7 @@ industry_dict = {
 "Sumitomo Electric Hightechs Co. Ltd.":('Sumitomo Electric Hightechs Co. Ltd.', 'sumitomo electric hightechs co. ltd.'), #one_time
 "Sumitomo Metal Mining Co. Ltd" : ('Sumitomo Metal Mining Co. Ltd', 'Sumitomo Metal Mining Co. Ltd.'),
 "Summit Energy Company LLC" : ('Summit Energy Company LLC', 'summit energy company llc'),#one_time
-"Summit Exploration & Production Ltd":('Summit Exploration & Production Ltd', 'summit exploration & production ltd'), #one_time
-"Summit Exploration and Production Limited" : ('Summit Exploration and Production Limited', 'summit exploration and production limited'),#one_time
+"Summit Exploration and Production Limited" : ('Summit Exploration & Production Ltd', 'summit exploration & production ltd', 'Summit Exploration and Production Limited', 'summit exploration and production limited'),#one_time
 "Sun Exploration and Production" : ('Sun Exploration and Production', 'Sun Exploration and Production Co.'),
 "Sun Exploration" : ('Sun Exploration', 'sun exploration'),#one_time
 "Sun Microsystems" : ('Sun Microsystems', 'sun microsystems'),#one_time
@@ -3628,8 +3578,7 @@ industry_dict = {
 "Triton Oil & Gas" : ('Triton Oil & Gas', 'triton oil & gas'),#one_time
 "Triumph Instruments" : ('Triumph Instruments', 'triumph instruments'),#one_time
 "Tullip Energy Exploration & Development BV":('Tullip Energy Exploration & Development BV', 'tullip energy exploration & development bv'), #one_time
-"Tullow Oil Ltd ":('Tullow Oil Ltd ', 'tullow oil ltd '), #one_time
-"Tullow Oil Ltd." : ('Tullow Oil Ltd.', 'Tullow Oil Limited'),
+"Tullow Oil Ltd ":('Tullow Oil Ltd.', 'Tullow Oil Limited', 'Tullow Oil Ltd ', 'tullow oil ltd '), #one_time
 "Tullow Oil" : ('Tullow Oil', 'Tullow Oil Ltd', 'Tullow Oil Norge', 'Tullow Oil Plc', 'Tullow Oil plc', 'Tullow OilLtd', 'Tullow OilPLC', 'Tullow OilPlc', 'Tullow Oilplc', 'TullowOil Plc'),
 "Turkish Petroleum" : ('T.P.A.O. Research Center Turkey', 'Turkish Petroleum Corp. Ankara Turkey', 'Turkish Petroleum Corp', 'Turkish Petroleum Ankara', 'Turkish Petroleum Corp.', 'Turkish Petroleum', 'Turkish Petroleum Corporation', 'Turkish Petroleum TP'),
 "Turkiye Petrolleri A.O." : ('Turkiye Petrolleri A.O.', 'turkiye petrolleri a.o.'),#one_time
@@ -3746,8 +3695,7 @@ industry_dict = {
 "WaterProof Marine Consultancy & Services B.V.":('WaterProof Marine Consultancy & Services B.V.', 'waterproof marine consultancy & services b.v.'), #one_time
 "Watrad Ltd.":('Watrad Ltd.', 'watrad ltd.'), #one_time
 "Watts Geoscience Consulting Ltd":('Watts Geoscience Consulting Ltd', 'watts geoscience consulting ltd'), #one_time
-"Wave Imaging Technology Incorporated" : ('Wave Imaging Technology Inc.', 'Wave Imaging Technology Inc', 'Wave Imaging Technology Incorporated', 'WaveImaging Technology Incorporated'),
-"Wave Imaging Technology":('Wave Imaging Technology', 'wave imaging technology'), #one_time
+"Wave Imaging Technology Incorporated" : ('Wave Imaging Technology', 'wave imaging technology', 'Wave Imaging Technology Inc.', 'Wave Imaging Technology Inc', 'Wave Imaging Technology Incorporated', 'WaveImaging Technology Incorporated'),
 "WaveLab" : ('WaveLab', 'wavelab'),#one_time
 "Waveseis" : ('Waveseis', 'waveseis'),#one_time
 "Weahterford Laboratories":('Weahterford Laboratories', 'weahterford laboratories'), #one_time
@@ -3824,8 +3772,7 @@ industry_dict = {
 "Zakum Development Company" : ('Zakum Development Company', 'Zakum Development Co.'),
 "ZapSibNIIGG" : ('ZapSibNIIGG', 'ZapSibNIIGG and AMROS Inc.', 'ZapSibNIIGeofisika', 'Zapsibniigeofizika', 'ZapSibNIIG'),
 "Zawiyah Associates Ltd":('Zawiyah Associates Ltd', 'zawiyah associates ltd'), #one_time
-"Zeehelden Geoservices" : ('Zeehelden Geoservices', 'zeehelden geoservices'),#one_time
-"ZeeheldenGeoservices":('ZeeheldenGeoservices', 'zeeheldengeoservices'), #one_time
+"ZeeheldenGeoservices":('Zeehelden Geoservices', 'zeehelden geoservices', 'ZeeheldenGeoservices', 'zeeheldengeoservices'), #one_time
 "Zenith Exploration Co." : ('Zenith Exploration Co.', 'Zenith Exploration Co. Inc.', 'Zenith Exploration'),#one_time
 "Zennor Petroleum" : ('Zennor Petroleum', 'zennor petroleum'),#one_time
 "Zenyatta Ventures Ltd.":('Zenyatta Ventures Ltd.', 'zenyatta ventures ltd.'), #one_time
@@ -3856,12 +3803,10 @@ industry_dict = {
 "ffA3DEM-Services AS":('ffA3DEM-Services AS', 'ffa3dem-services as'), #one_time
 "formerly YPF Tecnología S.A. (Y-TEC); presently YPF" : ('formerly YPF Tecnología S.A. (Y-TEC); presently YPF', 'formerly ypf tecnología s.a. (y-tec); presently ypf'),#one_time
 "gPEM\"Mineral\" Group":('gPEM"Mineral" Group', 'gpem"mineral" group'), #one_time
-"geoMagic" : ('geoMagic', 'geomagic'),#one_time
 "hydroGEOPHYSICS Inc.":('hydroGEOPHYSICS Inc.', 'hydrogeophysics inc.'), #one_time
 "iReservoir Inc.":('iReservoir Inc.', 'ireservoir inc.'), #one_time
 "iReservoir.com" : ('iReservoir.com', 'iReservoir.com Inc', 'iReservoir.com Inc.', 'iReservoir.Com', 'iReservoir.com Inc. Littleton CO'),
-"iRock Technologies" : ('iRock Technologies', 'irock technologies'),#one_time
-"iRockTechnologies":('iRockTechnologies', 'irocktechnologies'), #one_time
+"iRockTechnologies":('iRock Technologies', 'irock technologies', 'iRockTechnologies', 'irocktechnologies'), #one_time
 "mVISA":('mVISA', 'mvisa'), #one_time
 "metalCORP" : ('metalCORP', 'metalcorp'),#one_time
 "multiVIEW Geoservices Inc. Canada":('multiVIEW Geoservices Inc. Canada', 'multiview geoservices inc. canada'), #one_time
@@ -3879,72 +3824,184 @@ industry_dict = {
 
 
 
-"ZZZ NOT COMPANIES ZZZ" : ('MARS', 'MSSA', 'NEMI', 'NETL', 'CIROS', 'CLJOC','GRASP', 'IGFWI', 'GHGT-7', 'Khewra', 'Murphy','Iceland', 'NESpain', 'Hit-maps', 'Hyperion', 'LA-ICPMS', 'Flattened','Integrated', 'Frechet derivative matrix', 'Marine Ecological Research','Espirito Santo Basin, SEBrazil', 'ICDs', 'ICML', 'FMWI', 'GAGD', 'GMDH', 'GSMP', 'Guus', 'HPHT', 'DARS', 'DFTs', 'CFCM', 'PBU-2', 'OOWC', 'NLPD', 'PODS', 'Primaries', 'PSPI', 'PSEI', 'READUS', 'QVOA', 'SAGEEP', 'SLO', 'SKB', 'SIAM', 'SOA', 'SMTI', 'SMS', 'SWACF', 'SVG', 'STFT', 'SRI', 'SRfS', 'THMC', 'TDR', 'TDEM', 'SWME', 'TSDM', 'TS3', 'VCS', 'WBHP', 'WAG-CV', 'WACF', 'VRGS', 'VLF-EM', 'EasternEurope', 'Eastern Serbia', 'Eastern Pyrenees', 'Eastern Carpathians', 'EAGE', 'E. Von Lunen & al.', 'E Iberia', 'Dimension Strata Sdn Bhd','Central Andes', 'CCUS', 'Sultanate of Oman', 'Expanded abstract', 'THAI', 'WEM', 'WCARBs', 'XIMP', 'WPR', 'WMP', 'Murzuq Basin, Libya', 'Keathley Canyon', 'Kimmeridgian Ramp, Iberian Basin',  'Dashed', 'Editors','MV-IPN', 'Pdiff', 'SIP','SRV','N.Bulgaria', 'Near,Mid, Far, Semblance etc','Nepsko-Botoubinskoe', 'NL, Canada', 'North Ucayali', 'NS single source runs', 'Ocean Bottom Nodes','Part 12','CO2-Saturated', 'CD-ROM', 'LowerCretaceous', 'lowercretaceous', 'Lower Kura Basin', 'Lower Cretaceous', 'Maestrat Basin, NE Spain', 'MaestratBasin, E Spain', 'Margin of Caspian Basin', 'Middle GradientMethod', 'Middle', 'Miocene,offshore Nile Delta, Egypt', 'Onshore of thePolish Baltic Basin','Paleogene', 'QEMSCAN', 'Point-spread Function', 'Production', 'Reggane Basin, Algeria','Canada', 'Libya', 'Melaz Shuqran andMamuniyat Formations', 'QUIS','SWIM', 'VSP', 'WRS','LoFS', 'Colombia', 'TTI','VTI', 'SBL', 'SCF', 'SAF', 'Red', 'Rao', 'RQI', 'RRS', 'RTM', 'RJD', 'RAO', 'PIK', 'PPG', 'PSB', 'PSO', 'PWD', 'OMS', 'OBC', 'OBN', 'OBS', 'MPa', 'MTD', 'NDE', 'NFH', 'MEQ','MKT', 'LVZ','LWD', 'MAZ', 'Copper Basin, Australia','Eastern Herzegovina, BIH','SW Vienna Basin, Austria', 'Castellas Fault, Provence', 'Direct and inverseproblems', 'Edition of Natural Science', 'LowerSaxony Basin, Germany', 'Provence - Southern France', 'Gauge pressuresare affected by ICDs and are therefore ratedependent', 'YSFZ', 'Shelf of the Black Sea',  'Sicily','Sub','Suppl.', 'Supplement','fraction','refer text for detail','U.S', 'TFWI', 'January issue', 'IRT', 'ISI', 'JSC', 'Bottom','Bornu','GSD', 'HFM', 'HWU', 'IAS', 'IES', 'GII', 'GOM', 'GPL', 'GPU', 'FWT', 'GCV', 'March', 'deceased', 'India', 'Italy', 'N/A', 'EEI', 'ERT', 'ESA', 'FCM', 'FTG', 'DRP', 'DSA','CWT', 'Ca2', 'CoE', 'DAS', 'CST', 'CIC', 'CLS', 'CMM', 'CMP', 'COR', 'CRP','CAJ', 'CBM', 'CCS', 'R', 'CD', 'CW', 'EM', 'ES', 'G3', 'GC', 'MT', 'NL', 'QR', 'SH', 'SP', 'TI', 'TM', 'UK', 'VR', 'WA', 'CF', 'Outer Carpathian, Poland', 'In Chinese', 'Central Israel', 'Central Poland', 'Celebration area', 'CRDF grant No. RUG1-30006-ST-08', 'Best of SAGA', 'Best of Shu\'aiba', 'Best ofSAGA', 'Bestof Shu\'aiba', 'Betic basin, SE Spain', 'C + 273.15', 'U-Th', 'ed. G.Nolet', 'ed.', 'either Fourier or wave-equation-based redatuming in this case', 'German North Sea', 'Germany', 'Futterman, 1962', 'Full Azimuth', 'Freedman et al.,2003 and Looyestijn, 2008', 'France', 'FWI', 'Exp#3 andExp#4', 'Estival and al., 2004', 'Eqn 10', 'Eocene, Pyrenees, Spain', 'Eocene, Ainsa Basin, Pyrenees Foreland Basin', 'Emadi et al, 2011', 'Egypt', 'Drava Depression, Croatia', 'Czech Republic', 'China   ', 'Cetin et al., 2002;Daubechies et al., 2004', 'Greece', 'Green', 'H. Froyshov', 'Haselgebirge Fm.,Eastern Alps, Austria', 'Herrmann and Bernabe, 2004', 'Higgins 2006', 'High Sal/Low Sal', 'High Sal/Low/Sal', 'I provocatively call them \"myths!\"', 'Latera Caldera, Central Italy', 'Lim et al., 1998', 'L15305', 'Kraka Field, Danish F. Amour* (DHRTC', 'Jordan', 'Italia', 'Iran', 'InzyreiskoyeField of North Russia', 'No affiliation', 'Qp/Qs', 'Re', 'SE France', 'SE Poland', 'SE Spain', 'SaudiArabia', 'Schneeberg, Germany', 'Scott, 2002', 'Upper CretaceousPaleogene', 'UpperEocene', 'Urla/Turkey', 'Wessex Basin, UK', 'West IberianMargin', 'WestAfrica', 'Western Mediterranean', 'NIS', 'NIS, Serbia', 'NW Spain', 'Sudan', 'Southern Tuscany', 'Southern Pyreneesof Spain', 'Soubaras, 2013', 'South Africa', 'South Peru', 'Texas, USA', 'at an undetermined time after injection', 'Young modulus, Poisson\'s ratio, Lame\'s constant, Lambda and others', 'SouthernTuscany - Italy', 'c', 'a', 'red arrow', 'red box', 'upper part of reservoir', 'white boxesVSFusion', 'b', 'Wu and Zheng, 2012, 2013; Wu et al., 2013', 'Western Poland', 'Riley 2006', 'Regione del Veneto Italy', 'Rasolofosaon andZinszner, 2005', 'Q = 41.54dB', 'Poland', 'Paffenholz et al., 2002', 'Right', 'Russia', 'Romania', 'SPE-114233', 'SPE', 'SSA  Gillespie,1976', 'Spiteri et al.,2008', 'Sw,Pre|IP, IS', 'T2', 'The Kraka A.C. Glad* (DHRTC', 'Top', 'Trace spacingis 125 ft.', 'Transbaikalia, Russia', 'Tseng etal. 2012', 'Tunisia-Libya', 'Turkey', 'UK, Norway & Denmark', 'Version 2 - August 2009', 'Vertical vs.Horizontal', 'Vojvodina, Northern Serbia', 'Vp/Vs', 'W Poland', 'W-SW Ukraine and Moldova', 'Wangzhuang', 'Wapenaar et al. , 1992', 'Offshore Brazil', 'Offshore Bulgaria', 'Offshore Hydrocarbon Mapping', 'Ohm m', 'P', 'P, Vy, Vz', 'P1P2', 'P3P4', 'PDF', 'North Atlantic', 'North Sea, UK', 'Northern Italy', 'Northwestern Poland', 'Norway', 'Not shown for brevity', 'November',  'Moline et al., 1992', 'Montserrat and Sant Llorenc delMunt, Eocene, Ebro Basin, NE Spain', 'Morin, 2006', 'Morocco', 'May 1980', 'ML=1.5', 'ML=2.3', 'M. Thompson', 'M=6', 'Kassenaar, 1991; Barrash and Morin, 1997; Goncalves, 1998', 'K1 and K3', 'K2 and K4', 'Jun. 2010', 'June 1979', 'June 2000', 'February 2002', 'Fig. 1', 'Fig. 6and 7', 'Fig.2d', 'Figs. 5d-5f', 'Figure 1', 'Figure 2', 'Figure 2b', 'Figure 3b', 'Figure 5', 'Figure 5g', 'Figure 5i', 'Figure 6', 'Figure 7', 'Figure 8', 'C', 'Bosnia', 'Blue', 'Block 17', 'Bihendula Basin', 'AT1-MC and MT1', '4', 'AVA, AVO', 'AVO', 'AVOAz', 'Abu Madi Fm.', 'Adopted from Berkhout [1984]', 'Algeria', 'An Example of a Poorly Consolidated Formation from Russ L. Uspenskaya* (Wintershall', 'An SVD-free Technique', 'Angola', 'Antarctica', 'Arctic Ocean', 'Austin', 'Australia', 'Austria', 'B13', 'B4', 'B6', 'Bakulin et al. 2010', 'Barents Sea', 'Bay of Biscay', 'Behrens, 2004', 'Berryhill, 1979', 'Berryhill, 1979; Wapenaar et al. , 1992; Tegtmeier et al. , 2004'),
+# "ZZZ NOT COMPANIES ZZZ" : ('MARS', 'MSSA', 'NEMI', 'NETL', 'CIROS', 'CLJOC','GRASP', 'IGFWI', 'GHGT-7', 'Khewra', 'Murphy','Iceland', 'NESpain', 'Hit-maps', 'Hyperion', 'LA-ICPMS', 'Flattened','Integrated', 'Frechet derivative matrix', 'Marine Ecological Research','Espirito Santo Basin, SEBrazil', 'ICDs', 'ICML', 'FMWI', 'GAGD', 'GMDH', 'GSMP', 'Guus', 'HPHT', 'DARS', 'DFTs', 'CFCM', 'PBU-2', 'OOWC', 'NLPD', 'PODS', 'Primaries', 'PSPI', 'PSEI', 'READUS', 'QVOA', 'SAGEEP', 'SLO', 'SKB', 'SIAM', 'SOA', 'SMTI', 'SMS', 'SWACF', 'SVG', 'STFT', 'SRI', 'SRfS', 'THMC', 'TDR', 'TDEM', 'SWME', 'TSDM', 'TS3', 'VCS', 'WBHP', 'WAG-CV', 'WACF', 'VRGS', 'VLF-EM', 'EasternEurope', 'Eastern Serbia', 'Eastern Pyrenees', 'Eastern Carpathians', 'EAGE', 'E. Von Lunen & al.', 'E Iberia', 'Dimension Strata Sdn Bhd','Central Andes', 'CCUS', 'Sultanate of Oman', 'Expanded abstract', 'THAI', 'WEM', 'WCARBs', 'XIMP', 'WPR', 'WMP', 'Murzuq Basin, Libya', 'Keathley Canyon', 'Kimmeridgian Ramp, Iberian Basin',  'Dashed', 'Editors','MV-IPN', 'Pdiff', 'SIP','SRV','N.Bulgaria', 'Near,Mid, Far, Semblance etc','Nepsko-Botoubinskoe', 'NL, Canada', 'North Ucayali', 'NS single source runs', 'Ocean Bottom Nodes','Part 12','CO2-Saturated', 'CD-ROM', 'LowerCretaceous', 'lowercretaceous', 'Lower Kura Basin', 'Lower Cretaceous', 'Maestrat Basin, NE Spain', 'MaestratBasin, E Spain', 'Margin of Caspian Basin', 'Middle GradientMethod', 'Middle', 'Miocene,offshore Nile Delta, Egypt', 'Onshore of thePolish Baltic Basin','Paleogene', 'QEMSCAN', 'Point-spread Function', 'Production', 'Reggane Basin, Algeria','Canada', 'Libya', 'Melaz Shuqran andMamuniyat Formations', 'QUIS','SWIM', 'VSP', 'WRS','LoFS', 'Colombia', 'TTI','VTI', 'SBL', 'SCF', 'SAF', 'Red', 'Rao', 'RQI', 'RRS', 'RTM', 'RJD', 'RAO', 'PIK', 'PPG', 'PSB', 'PSO', 'PWD', 'OMS', 'OBC', 'OBN', 'OBS', 'MPa', 'MTD', 'NDE', 'NFH', 'MEQ','MKT', 'LVZ','LWD', 'MAZ', 'Copper Basin, Australia','Eastern Herzegovina, BIH','SW Vienna Basin, Austria', 'Castellas Fault, Provence', 'Direct and inverseproblems', 'Edition of Natural Science', 'LowerSaxony Basin, Germany', 'Provence - Southern France', 'Gauge pressuresare affected by ICDs and are therefore ratedependent', 'YSFZ', 'Shelf of the Black Sea',  'Sicily','Sub','Suppl.', 'Supplement','fraction','refer text for detail','U.S', 'TFWI', 'January issue', 'IRT', 'ISI', 'JSC', 'Bottom','Bornu','GSD', 'HFM', 'HWU', 'IAS', 'IES', 'GII', 'GOM', 'GPL', 'GPU', 'FWT', 'GCV', 'March', 'deceased', 'India', 'Italy', 'N/A', 'EEI', 'ERT', 'ESA', 'FCM', 'FTG', 'DRP', 'DSA','CWT', 'Ca2', 'CoE', 'DAS', 'CST', 'CIC', 'CLS', 'CMM', 'CMP', 'COR', 'CRP','CAJ', 'CBM', 'CCS', 'R', 'CD', 'CW', 'EM', 'ES', 'G3', 'GC', 'MT', 'NL', 'QR', 'SH', 'SP', 'TI', 'TM', 'UK', 'VR', 'WA', 'CF', 'Outer Carpathian, Poland', 'In Chinese', 'Central Israel', 'Central Poland', 'Celebration area', 'CRDF grant No. RUG1-30006-ST-08', 'Best of SAGA', 'Best of Shu\'aiba', 'Best ofSAGA', 'Bestof Shu\'aiba', 'Betic basin, SE Spain', 'C + 273.15', 'U-Th', 'ed. G.Nolet', 'ed.', 'either Fourier or wave-equation-based redatuming in this case', 'German North Sea', 'Germany', 'Futterman, 1962', 'Full Azimuth', 'Freedman et al.,2003 and Looyestijn, 2008', 'France', 'FWI', 'Exp#3 andExp#4', 'Estival and al., 2004', 'Eqn 10', 'Eocene, Pyrenees, Spain', 'Eocene, Ainsa Basin, Pyrenees Foreland Basin', 'Emadi et al, 2011', 'Egypt', 'Drava Depression, Croatia', 'Czech Republic', 'China   ', 'Cetin et al., 2002;Daubechies et al., 2004', 'Greece', 'Green', 'H. Froyshov', 'Haselgebirge Fm.,Eastern Alps, Austria', 'Herrmann and Bernabe, 2004', 'Higgins 2006', 'High Sal/Low Sal', 'High Sal/Low/Sal', 'I provocatively call them \"myths!\"', 'Latera Caldera, Central Italy', 'Lim et al., 1998', 'L15305', 'Kraka Field, Danish F. Amour* (DHRTC', 'Jordan', 'Italia', 'Iran', 'InzyreiskoyeField of North Russia', 'No affiliation', 'Qp/Qs', 'Re', 'SE France', 'SE Poland', 'SE Spain', 'SaudiArabia', 'Schneeberg, Germany', 'Scott, 2002', 'Upper CretaceousPaleogene', 'UpperEocene', 'Urla/Turkey', 'Wessex Basin, UK', 'West IberianMargin', 'WestAfrica', 'Western Mediterranean', 'NIS', 'NIS, Serbia', 'NW Spain', 'Sudan', 'Southern Tuscany', 'Southern Pyreneesof Spain', 'Soubaras, 2013', 'South Africa', 'South Peru', 'Texas, USA', 'at an undetermined time after injection', 'Young modulus, Poisson\'s ratio, Lame\'s constant, Lambda and others', 'SouthernTuscany - Italy', 'c', 'a', 'red arrow', 'red box', 'upper part of reservoir', 'white boxesVSFusion', 'b', 'Wu and Zheng, 2012, 2013; Wu et al., 2013', 'Western Poland', 'Riley 2006', 'Regione del Veneto Italy', 'Rasolofosaon andZinszner, 2005', 'Q = 41.54dB', 'Poland', 'Paffenholz et al., 2002', 'Right', 'Russia', 'Romania', 'SPE-114233', 'SPE', 'SSA  Gillespie,1976', 'Spiteri et al.,2008', 'Sw,Pre|IP, IS', 'T2', 'The Kraka A.C. Glad* (DHRTC', 'Top', 'Trace spacingis 125 ft.', 'Transbaikalia, Russia', 'Tseng etal. 2012', 'Tunisia-Libya', 'Turkey', 'UK, Norway & Denmark', 'Version 2 - August 2009', 'Vertical vs.Horizontal', 'Vojvodina, Northern Serbia', 'Vp/Vs', 'W Poland', 'W-SW Ukraine and Moldova', 'Wangzhuang', 'Wapenaar et al. , 1992', 'Offshore Brazil', 'Offshore Bulgaria', 'Offshore Hydrocarbon Mapping', 'Ohm m', 'P', 'P, Vy, Vz', 'P1P2', 'P3P4', 'PDF', 'North Atlantic', 'North Sea, UK', 'Northern Italy', 'Northwestern Poland', 'Norway', 'Not shown for brevity', 'November',  'Moline et al., 1992', 'Montserrat and Sant Llorenc delMunt, Eocene, Ebro Basin, NE Spain', 'Morin, 2006', 'Morocco', 'May 1980', 'ML=1.5', 'ML=2.3', 'M. Thompson', 'M=6', 'Kassenaar, 1991; Barrash and Morin, 1997; Goncalves, 1998', 'K1 and K3', 'K2 and K4', 'Jun. 2010', 'June 1979', 'June 2000', 'February 2002', 'Fig. 1', 'Fig. 6and 7', 'Fig.2d', 'Figs. 5d-5f', 'Figure 1', 'Figure 2', 'Figure 2b', 'Figure 3b', 'Figure 5', 'Figure 5g', 'Figure 5i', 'Figure 6', 'Figure 7', 'Figure 8', 'C', 'Bosnia', 'Blue', 'Block 17', 'Bihendula Basin', 'AT1-MC and MT1', '4', 'AVA, AVO', 'AVO', 'AVOAz', 'Abu Madi Fm.', 'Adopted from Berkhout [1984]', 'Algeria', 'An Example of a Poorly Consolidated Formation from Russ L. Uspenskaya* (Wintershall', 'An SVD-free Technique', 'Angola', 'Antarctica', 'Arctic Ocean', 'Austin', 'Australia', 'Austria', 'B13', 'B4', 'B6', 'Bakulin et al. 2010', 'Barents Sea', 'Bay of Biscay', 'Behrens, 2004', 'Berryhill, 1979', 'Berryhill, 1979; Wapenaar et al. , 1992; Tegtmeier et al. , 2004'),
 
 }#end
 
 # file=open('C:\\temp\\EAGE_txtan\\orgs\\all_for_years_nonum_EAGE.txt')
-file=open('C:\\temp\\EAGE_txtan\\orgs\\orgs_all.txt')
-file_not_in_list=open('C:\\temp\\EAGE_txtan\\orgs\\not_in_list.txt', 'w', encoding='utf8')
-file_numb=open('C:\\temp\\EAGE_txtan\\orgs\\All_org_num.txt', 'r', encoding='utf8')
-
-data = file.read()
-data_numb = file_numb.read()
-my_list_numb = data_numb.split("\n")
-
-my_list =  data.split("\n")
-not_in_list = []
-net_v_spiske = []
-#  Проверка наличия аффиляций в словаре сверху
-for key, value in industry_dict.items():
-    for values in value:
-        # print(values)
-        not_in_list.append(values)
-
-for key, value in academia_dict.items():
-    for values in value:
-        # print(values)
-        not_in_list.append(values)
-# Making list of not encounting organiztions
-for item in my_list:
-    if item not in not_in_list:
-        net_v_spiske.append(item)
-
-net_v_spiske_numb = []
-
-for item in my_list_numb:
-    for word in net_v_spiske:
-        if word == item[8:]:
-            net_v_spiske_numb.append(item)
-
+# file=open('C:\\temp\\txtan\\organization\\Organization\\orgs_all.txt')
+# file_not_in_list=open('C:\\temp\\txtan\\organization\\Organization\\not_in_list.txt', 'w', encoding='utf8')
+# file_numb=open('C:\\temp\\txtan\\organization\\Organization\\All_org_num.txt', 'r', encoding='utf8')
+#
+# data = file.read()
+# # data_numb = file_numb.read()
+# # my_list_numb = data_numb.split("\n")
+#
+# my_list =  data.split("\n")
+# not_in_list = []
+# net_v_spiske = []
+# #  Проверка наличия аффиляций в словаре сверху
+# for key, value in industry_dict.items():
+#     for values in value:
+#         # print(values)
+#         not_in_list.append(values)
+#
+# for key, value in academia_dict.items():
+#     for values in value:
+#         # print(values)
+#         not_in_list.append(values)
+# # Making list of not encounting organiztions
+# for item in my_list:
+#     if item not in not_in_list:
+#         net_v_spiske.append(item)
+#
+# net_v_spiske_numb = []
+#
+# for item in my_list_numb:
+#     for word in net_v_spiske:
+#         if word == item[8:]:
+#             net_v_spiske_numb.append(item)
+#
 # for item in net_v_spiske:
 #      # if 'college' in item.lower():
 #     # print('\"',item,'\"', ':', '(','\'',item,'\'',', ','\'',item.lower(),'\'','), #one_time', file = file_not_in_list, sep='')
 #     print('\'',item,'\', ', file = file_not_in_list, sep = '')
+#
+#
+start_year = 1982
+end_year = 2019
+# aver_coauth = []
+filename = start_year
+countcomma = 0
+count = 0
+year_num = 0
+# Let's count academia vs. industry publication number
+count_ind = 0
+count_aca = 0
+plot_acad = {}
+plot_ind = {}
+plot_ind_num = []
+plot_aca_num = []
+# Estimating not in the list portion
+plot_nvs_num = []
+# Impact of China Academy
+plot_nch_num = []
+results = {}
 
-# net_v_spiske = sorted(net_v_spiske, key=len)
-net_v_spiske = sorted(net_v_spiske, key=len)
 
-# for item in net_v_spiske_numb:
-for item in net_v_spiske:
-    # print(item, file = file_not_in_list)
-    # print('\'',item,'\', ', file = file_not_in_list, sep = '')
-    print('\"',item,'\"', ':', '(','\'',item,'\'',', ','\'',item.lower(),'\'','), #one_time', file = file_not_in_list, sep='')
+while filename < end_year + 1:
+    print_list = []
+    count_ind = 0
+    count_aca = 0
+    count_nvs = 0
+# Counting China academia impact
+    count_chi = 0
+    file=open('C:\\temp\\txtan\\organization\\Organization\\'+str(filename)+'org_out.txt', 'r')
+    data_org = file.read()
+    my_list_org = data_org.split("\n")
+    if filename == 1982:
+        for key in industry_dict.keys():
+            plot_ind[key] = []
+        for key in academia_dict.keys():
+            plot_acad[key] = []
+    # for key, value in academia_dict.items():
 
-    # print('\'',item[8:],'\', ', file = file_not_in_list, sep = '')
+    # for organ in my_list_org:
+    #     if organ in industry_dict["ZZZ NOT COMPANIES ZZZ"]:
+    #         continue
+    #     else:
+    #         print_list.append(organ)
+    # for orgs in print_list:
+    #     print(orgs, file = file_ed)
 
-    #
-    # print(item, file = file_not_in_list, sep = '')
-    # print('\"',item[8:],'\"', ':', '(','\'',item[8:],'\'',', ','\'',item[8:].lower(),'\'','), #one_time', file = file_not_in_list, sep='')
+#     for item in my_list_org:
+#         if item in aca_list:
+#             count_aca += 1
+#         if item in ind_list:
+#             count_ind += 1
+#         if item in net_v_spiske:
+#             count_nvs += 1
+#         if item in chi_list:
+#             count_chi += 1
+#     plot_ind_num.append(count_ind)
+#     plot_aca_num.append(count_aca)
+#     plot_nvs_num.append(count_nvs)
+# # Counting China Academia Impact
+#     plot_nch_num.append(count_chi)
+    filename = filename + 1
+    file.close()
+# Creating a dictionary with number different countries/organizations frequency of occurence
+    # for key, value in academia_dict.items():
+    #     # plot_acad.setdefault(key, []).append(len(set(my_list_org).intersection(list(value))))
+    #     for i in value:
+    #         results[key] = my_list_org.count(i)
+    for key in industry_dict.keys():
+        number_inter = 0
+        for valss in industry_dict[key]:
+            for item in my_list_org:
+                if item == valss:
+                    number_inter += 1
+                else:
+                    continue
+        plot_ind[key].append(number_inter)
+
+    for key in academia_dict.keys():
+        number_inter = 0
+        for valss in academia_dict[key]:
+            for item in my_list_org:
+                if item == valss:
+                    number_inter += 1
+                else:
+                    continue
+        plot_acad[key].append(number_inter)
+
+# for key, value in plot_ind.items():
+#     print(key, value, file = file_not_in_list)
+#
+# for key, value in plot_acad.items():
+#     print(key, value, file = file_not_in_list)
+
+conn = sqlite3.connect('SEG_affiliations_data.sqlite')
+cur = conn.cursor()
+cur.execute('''
+CREATE TABLE IF NOT EXISTS SEG_affiliations_data (Title TEXT, '1982-2019' TEXT)''')
+
+for key, value in plot_acad.items():
+    cur.execute('''INSERT INTO SEG_affiliations_data (Title, '1982-2019')
+            VALUES ( ?, ? )''', (key, str(value)) )
+    conn.commit()
+    count = count + 1
+    if (count/500).is_integer():
+        print('500 proletelo')
+    else:
+        continue
+
 
 quit()
 
 
-# for key, values in industry_dict.items():
-#     print(key, len(values))
-
-# rev_dict = {}
 #
+# # net_v_spiske = sorted(net_v_spiske, key=len)
+# net_v_spiske = sorted(net_v_spiske, key=len)
+#
+# print(len(industry_dict["ZZZ NOT COMPANIES ZZZ"]))
+# # for item in net_v_spiske_numb:
+# for item in net_v_spiske:
+#     # print(item, file = file_not_in_list)
+#     # print('\'',item,'\', ', file = file_not_in_list, sep = '')
+#     print('\"',item,'\"', ':', '(','\'',item,'\'',', ','\'',item.lower(),'\'','), #one_time', file = file_not_in_list, sep='')
+#
+#     # print('\'',item[8:],'\', ', file = file_not_in_list, sep = '')
+#
+#     #
+#     # print(item, file = file_not_in_list, sep = '')
+#     # print('\"',item[8:],'\"', ':', '(','\'',item[8:],'\'',', ','\'',item[8:].lower(),'\'','), #one_time', file = file_not_in_list, sep='')
+#
+# # for key, values in industry_dict.items():
+# #     print(key, len(values))
+#
+# # rev_dict = {}
+# #
 # for key, item in industry_dict.items():
 #     for value in item:
 #         rev_dict.setdefault(value, set()).add(key)
@@ -3952,15 +4009,17 @@ quit()
 # result = [key for key, values in rev_dict.items()
 #                               if len(values) > 1]
 # print("duplicate values", str(result))
-
-
-# conn = sqlite3.connect('industry.sqlite')
+# for value in result:
+#     print(value)
+#
+count = 0
+# conn = sqlite3.connect('Academia_by_Country.sqlite')
 # cur = conn.cursor()
 # cur.execute('''
-# CREATE TABLE IF NOT EXISTS Industry (Company TEXT, NameOptions TEXT)''')
+# CREATE TABLE IF NOT EXISTS Industry (Country TEXT, Institutions TEXT)''')
 #
-# for key, value in industry_dict.items():
-#     cur.execute('''INSERT INTO Industry (Company, NameOptions)
+# for key, value in academia_dict.items():
+#     cur.execute('''INSERT INTO Industry (Country, Institutions)
 #             VALUES ( ?, ? )''', (key, str(value)) )
 #     conn.commit()
 #     count = count + 1
@@ -3968,7 +4027,7 @@ quit()
 #         print('500 proletelo')
 #     else:
 #         continue
-# quit()
+quit()
 
 
 # printing result
