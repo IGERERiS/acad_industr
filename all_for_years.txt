@@ -1,0 +1,5981 @@
+Schlumberger 2413
+ 894
+Halliburton 798
+Saudi Aramco 737
+Texas A&M University 725
+The University of Texas at Austin 515
+Baker Hughes 505
+Stanford University 412
+Colorado School of Mines 374
+BJ Services Company 279
+BP 278
+U. of Texas at Austin 266
+Halliburton Energy Services 254
+Petrobras 213
+U. of Tulsa 197
+Kuwait Oil Company 193
+Halliburton Energy Services Group 192
+University of Oklahoma 175
+Halliburton Energy Services Inc. 172
+Weatherford 160
+Statoil 156
+Baker Atlas 152
+Baker Hughes Inc 152
+Baker Oil Tools 148
+University of Houston 147
+University of Texas at Austin 143
+Imperial College 143
+Statoil ASA 140
+Shell 138
+The University of Tulsa 137
+Chevron 136
+ConocoPhillips 126
+Pinnacle Technologies 125
+Chevron Corp. 124
+Schlumberger Oilfield Services 123
+U. of Oklahoma 122
+University of Tulsa 121
+University of Calgary 121
+Louisiana State University 120
+University of Alberta 119
+Schlumberger-Doll Research 116
+BJ Services 113
+Chevron ETC 109
+Institut Français du Petrole 108
+Texas A&M U. 106
+University of Southern California 106
+Conoco Inc. 100
+BP Exploration 99
+University of Texas At Austin 92
+Marathon Oil Company 91
+China University of Petroleum 89
+Baker Hughes Inc. 88
+Schlumberger Dowell 86
+Total 85
+ConocoPhillips Co 84
+Amoco Production Co. 82
+ENI E&P 82
+Heriot-Watt U. 81
+U. of Texas 81
+Chevron Energy Technology Company 80
+Chevron Petroleum Technology Company 76
+Petroleum Development Oman 75
+Texaco Inc. 72
+The Pennsylvania State University 72
+Texas Tech University 69
+Anadarko Petroleum Corp. 69
+Heriot-Watt University 68
+Chevron Corporation 68
+Marathon Oil Co. 67
+Petrobras S.A. 66
+Weatherford International 66
+Halliburton Co. 66
+Consultant 65
+Shell Offshore Inc. 64
+IFP 63
+Delft University of Technology 62
+BP America 62
+ExxonMobil Upstream Research Company 61
+Inst. Francais du Petrole 60
+INTEQ 60
+Stanford U. 58
+Arco Alaska Inc. 57
+Petronas Carigali Sdn Bhd 57
+Pennsylvania State University 56
+Elf Aquitaine 54
+The University of Oklahoma 54
+M-I SWACO 54
+Delft U. of Technology 53
+Total S.A. 53
+BP America Inc. 53
+Texas A and M U. 51
+Chevron U.S.A. Inc. 51
+U. of Calgary 51
+Baker Hughes INTEQ 51
+ExxonMobil 51
+Baker Hughes Inteq 49
+Elf Aquitaine Production 48
+PDVSA 48
+Devon Energy 48
+Schlumberger Well Services 47
+BJ Services Co. USA 47
+Apache Corporation 47
+Baker Hughes a GE Company 47
+BP Exploration (Alaska) Inc. 46
+Schlumberger Wireline & Testing 46
+Imperial College London 46
+Anadarko Petroleum Corporation 45
+BP plc 45
+Institut Francais du Petrole 44
+West Virginia University 44
+Chevron Petroleum Technology Co. 43
+Shell E&P Co. 43
+Weatherford International Ltd. 43
+Baker Hughes a GE company 43
+U. of Alberta 42
+Rice University 42
+Phillips Petroleum Co. 41
+BP Exploration Inc. 41
+Norwegian Computing Center 41
+New Mexico Petroleum Recovery Research Center 41
+Shell International Exploration and Production B.V. 41
+National Oilwell Varco 41
+ExxonMobil Upstream Research 41
+Hess Corp. 41
+CSIRO Petroleum 39
+Phillips Petroleum Company 39
+ARCO Oil and Gas Co. 38
+ExxonMobil Development Co. 38
+ConocoPhillips Alaska Inc. 37
+Shell Intl. E&P Co. 37
+U. of Houston 36
+PDVSA Intevep 36
+Landmark Graphics Corporation 36
+Daqing Oilfield Co. Ltd. 36
+Apache Corp. 36
+Shell International Exploration & Production Inc. 36
+The University of Texas 36
+Shell Development Co. 35
+Halliburton Services 35
+Oryx Energy Co. 35
+Norsk Hydro 35
+ExxonMobil Upstream Research Co. 35
+U. of Southern California 34
+ConocoPhillips Company 34
+Hess 34
+ARCO Alaska Inc. 33
+Pemex 33
+Elf Exploration Production 33
+University of Regina 33
+U. of Texas Austin 33
+Hughes Christensen 32
+RF-Rogaland Research 32
+University of Wyoming 32
+Shell Exploration & Production 32
+New Mexico Institute of Mining and Technology 31
+Shell International Exploration and Production 31
+KOC 31
+Texas A & M University 31
+Waseda University 30
+PEMEX 30
+TOTAL 30
+ExxonMobil Development Company 30
+BHP 30
+ProTechnics Division of Core Laboratories LP 30
+U. of Wyoming 29
+Pinnacle Technologies Inc. 29
+Shell International E&P 29
+WellDynamics Inc. 29
+Saudi Arabian Oil Company 29
+Total Fina Elf 29
+Mobil E and P U.S. Inc. 28
+Shell Canada Ltd. 28
+Sandia National Laboratories 28
+UNICAMP 28
+Chevron Corp 28
+Shell Exploration & Production Company 28
+Chevron Energy Technology Co 28
+Northeast Petroleum University 28
+Missouri University of Science and Technology 28
+Rogaland Research 27
+New Mexico Tech 27
+Norwegian University of Science and Technology 27
+SINTEF Petroleum Research 27
+Hess Corporation 27
+Research Institute of Petroleum Exploration and Development PetroChina 27
+BP Research 26
+Pennsylvania State U. 26
+Institut Français du Pétrole 26
+Schlumberger Data & Consulting Services 26
+Devon Energy Corporation 26
+CARBO Ceramics Inc. 26
+BJ Services Company USA 25
+Shell Global Solutions 25
+Baker Hughes Incorporated 25
+Chevron Oil Field Research Co. 24
+Dowell Schlumberger 24
+Pioneer Natural Resources 24
+Schlumberger Cambridge Research 23
+NUMAR Corp. 23
+U. of New South Wales 23
+Dowell 23
+YPF S.A. 23
+Norsk Hydro ASA 23
+Daqing Petroleum Institute 23
+WesternGeco 23
+Shell International Exploration and Production Inc. 23
+CNOOC 23
+Tengizchevroil 23
+PETRONAS Carigali Sdn Bhd 23
+PTTEP 23
+Core Laboratories 22
+Lawrence Berkeley Laboratory 22
+Stim-Lab Inc. 22
+PetroChina 22
+Institut Francais du Petrole IFP 22
+ExxonMobil Corporation 22
+Exxon Production Research Co. 21
+Union Pacific Resources Co. 21
+Arco E&P Technology 21
+Agip S.p.A. 21
+Anadrill 21
+Shell E&P Technology Co. 21
+ADCO 21
+ChevronTexaco 21
+Heriot Watt University 21
+China University of Petroleum Beijing 21
+Norsk Hydro a.s 20
+Western Geophysical 20
+Computer Modelling Group Ltd. 20
+BP-Amoco 20
+Sonatrach 20
+Daqing Oil Company Limited 20
+Hocol S.A. 20
+Blade Energy Partners 20
+Shell Intl. E&P Inc. 20
+TNO 20
+U. of Adelaide 20
+StatoilHydro 20
+Cairn India Ltd. 20
+Louisiana State U. 19
+Sperry-Sun Drilling Services 19
+Petronas Carigali Sdn. Bhd. 19
+Mobil Technology Company 19
+University of Adelaide 19
+Occidental Petroleum 19
+BJ Chemical Services 19
+Pemex E&P 19
+ReedHycalog 19
+U. of Stavanger 19
+Texas A&M University at Qatar 19
+ARCO E and P Technology 18
+Chevron USA Inc. 18
+RF - Rogaland Research 18
+Arco Exploration & Production Technology 18
+Western Atlas Logging Services 18
+Schlumberger GeoQuest 18
+BP Amoco 18
+ENI 18
+Clariant Oil Services 18
+Baker Hughes Drilling Fluids 18
+Chesapeake Energy Corp. 18
+Halliburton Reservoir Services 17
+S.A. Holditch and Assocs. Inc. 17
+Statoil A/S 17
+University of Bergen 17
+RERI 17
+Enventure Global Technology 17
+Petronas 17
+Repsol YPF 17
+Total E&P Indonesie 17
+ENI Congo 17
+StrataGen 17
+Mining U. Leoben 16
+AEA Technology 16
+Chevron Overseas Petroleum Inc. 16
+Alberta Research Council 16
+Gaz de France 16
+Los Alamos National Laboratory 16
+Gas Research Institute 16
+Japan National Oil Corporation 16
+Technical University of Denmark 16
+Hughes Christensen Co. 16
+Shell E&P Technology Company 16
+BJ Services Company U.S.A. 16
+Aera Energy LLC 16
+U. of Bologna 16
+Burlington Resources 16
+Dalhousie University 16
+Shell Petroleum Development Company 16
+IFP Institut Français du Petrole 16
+ChevronTexaco Overseas Petroleum 16
+Fekete Associates Inc. 16
+Ryder Scott Company L.P. 16
+Devon Energy Production Co. LP 16
+The Petroleum Institute 16
+Noble Energy Inc. 16
+BP Exploration Operating Co 16
+University of Oklahoma MPGE 16
+BG Group 16
+Cairn India Limited 16
+Liberty Oilfield Services 16
+Silixa Ltd 16
+Computer Modelling Group Ltd 16
+U. of Bergen 15
+Massachusetts Institute of Technology 15
+Shell Exploration and Production Company 15
+Istanbul Technical University 15
+Lawrence Berkeley National Laboratory 15
+Kuwait University 15
+Schlumberger Sugar Land Product Center 15
+Unocal 15
+UNAM 15
+Santos Ltd. 15
+M-I 15
+Ryder Scott Company 15
+Calsep A/S 15
+Total E&P USA Inc. 15
+Shell E&P Company 15
+ADMA-OPCO 15
+ChevronTexaco Energy Technology Company 15
+Total E&P 15
+C-FER Technologies 15
+Reservoir Engr. Research Inst. 15
+Petroleos de Venezuela S.A. 15
+Sanjel Corp 15
+Paradigm 15
+StrataGen Engineering 15
+PETROBRAS 15
+Eni E&P 15
+Mobil R and D Corp. 14
+BP Exploration Alaska Inc. 14
+Petroleum Development Oman LLC 14
+West Virginia U. 14
+University of North Dakota 14
+Reservoir Engineering Research Institute 14
+Echometer Company 14
+Gaffney Cline & Associates 14
+University of Texas 14
+Imperial College of Science Technology and Medicine 14
+Gas Technology Institute 14
+Anadarko 14
+UFBA 14
+Champion Technologies 14
+Schlumberger Information Solutions 14
+U. Estadual de Campinas 14
+Pinnacle 14
+Gibson Applied Tech & Engr LLC 14
+Maersk Oil Qatar AS 14
+Welltec 14
+M-I Swaco 14
+YPF 14
+Exxon Mobil Corporation 14
+Repsol 14
+PETRONAS 14
+Frontender Corporation 14
+Petroliam Nasional Berhad PETRONAS 14
+Gas Research Inst. 13
+Terra Tek Inc. 13
+Computer Modelling Group 13
+Advanced Resources Intl. Inc. 13
+Advanced Resources International Inc. 13
+Arco Indonesia 13
+Chevron Overseas Petroleum Technology Company 13
+Cairo University 13
+Beicip-Franlab 13
+Mærsk Olie og Gas AS 13
+Smith International 13
+NSI Technologies Inc. 13
+SensorWise Inc. 13
+iReservoir.com Inc. 13
+Shell Petroleum Development Company of Nigeria 13
+Total SA 13
+University of New South Wales 13
+Maersk Oil 13
+Southwest Petroleum University 13
+Southwestern Energy 13
+ESG Solutions 13
+Shell Global Solutions US Inc. 13
+U. of California 12
+ICF Resources Inc. 12
+Oxy USA Inc. 12
+SINTEF 12
+Shell Oil Co. 12
+IKU Petroleum Research 12
+Chevron U.S.A. Production Co. 12
+Sandia Natl. Labs 12
+Amoco Exploration and Production Company 12
+King Fahd University of Petroleum and Minerals 12
+S.A. Holditch & Associates 12
+Southwest Research Institute 12
+BJ Services Co. 12
+Daqing Oil Company 12
+TotalFina Elf 12
+Schlumberger-Doll Research Center 12
+Shell International E&P Co. 12
+PEMEX E&P 12
+ESG 12
+Shell Exploration and Production Co. 12
+University of Campinas 12
+Waseda U. 12
+Shell International Ltd. 12
+PathFinder Energy Services Inc. 12
+Saint-Gobain Proppants 12
+Institute Francais du Petrol IFP 12
+Texas A&M U at Qatar 12
+Petrobras America Inc. 12
+Danish Technological Institute 12
+CNOOC Tianjin (CCLT) 12
+Gazpromneft NTC 12
+Well Engineering Research Center for Intelligent Automation University of Houston 12
+Cairn Oil & Gas Vedanta Limited 12
+Natl. Inst. for Petroleum and Energy Research 11
+Otis Engineering Corp. 11
+British Petroleum 11
+ONGC 11
+Istanbul Technical U. 11
+Shell Research B.V. 11
+U. of North Dakota 11
+Unocal Corp. 11
+Jianghan Petroleum Inst. 11
+Intevep S.A. 11
+University of Missouri-Rolla 11
+Daqing Petroleum Administration Bureau 11
+Shell Western E&P Inc. 11
+Integrated Petroleum Technologies Inc. 11
+Institut Teknologi Bandung 11
+Chevron USA 11
+BP Exploration Operating Company 11
+University of Alaska Fairbanks 11
+United Arab Emirates University 11
+Geological Survey of Denmark and Greenland 11
+Shell Intl. E&P BV 11
+M-I L.L.C. 11
+ChevronTexaco Energy Research and Technology Company 11
+Chevron Texaco 11
+DeGolyer and MacNaughton 11
+TNO Science & Industry 11
+BP Exploration Alaska Inc 11
+Norwegian U. of Science & Tech 11
+University of Stavanger 11
+Chevron North America Exploration and Production 11
+Schlumberger Technology Corp. 11
+CNPC 11
+Smith Bits a Schlumberger Company 11
+IBM Research 11
+Trican Completion Solutions 11
+INPEX Corporation 11
+Queiroz Galvão Exploração e Produção 11
+BGP CNPC 11
+Clariant 11
+Taurus Exploration Inc. 10
+Sandia Natl. Laboratories 10
+Petro-Canada 10
+PanCanadian Petroleum Ltd. 10
+Paragon Engineering Services Inc. 10
+Amoco 10
+S.A. Holditch & Associates Inc. 10
+PDVSA-Intevep 10
+Statoil Norway 10
+PDVSA E&P 10
+Chevron North America E&P 10
+Kuwait Oil Co. 10
+Stim-Lab 10
+The University of New South Wales 10
+King Fahd University of Petroleum & Minerals 10
+OMV 10
+ABB 10
+Weatherford Completion Systems 10
+ExxonMobil Production Co. 10
+University of Louisiana at Lafayette 10
+U. of Louisiana at Lafayette 10
+Natl. Energy Technology Laboratory 10
+BP America Inc 10
+Shell Global Solutions International B.V. 10
+Packers Plus Energy Services 10
+Oil & Natural Gas Corp. Ltd. 10
+Total E&P Indonesia 10
+Wood Mackenzie 10
+INTEK Inc. 10
+OMV Exploration/Production Ltd 10
+ENI S.p.A 10
+Gubkin Russian State University of Oil & Gas 10
+Anadarko Petroleum Corp 10
+Eni 10
+IFP Energies nouvelles 10
+IHRDC 10
+China National Offshore Oil Corp. 10
+Kuwait Oil 10
+eni e&p 10
+Brigham Young University 10
+Schulich School of Engineering University of Calgary 10
+Salym Petroleum Development 10
+Tianjin Branch of CNOOC Limited 10
+RIPED-Langfang PetroChina 10
+SOLVAY Novecare 10
+Shell Iraq Petroleum Development 10
+CNOOC Research Institute Co. Ltd. 10
+Esso Resources Canada Ltd. 9
+Exxon Co. U.S.A. 9
+Baker Sand Control 9
+Bureau of Economic Geology 9
+Atlas Wireline Services 9
+Sperry-Sun Drilling Services Inc. 9
+AGIP SpA 9
+Petrotrin 9
+ProTechnics 9
+Amoco Production Company 9
+Security DBS 9
+U.S. Department of Energy 9
+Saga Petroleum 9
+TerraTek 9
+ARCO Exploration and Production Technology 9
+Multiphase Solutions Inc. 9
+PDO 9
+Elf Exploration UK 9
+Golder Associates 9
+Chevron Nigeria Limited 9
+NTNU 9
+University of Utah 9
+Cranfield University 9
+Nalco/Exxon Energy Chemicals L.P. 9
+Stavanger University College 9
+Baker Petrolite 9
+California Institute of Technology 9
+Pioneer Natural Resources USA Inc. 9
+PEMEX Exploracion y Produccion 9
+Argonne National Laboratory 9
+PathFinder Energy Services 9
+Computalog Drilling Services 9
+Daqing Oil Co. Ltd. 9
+INTEC Engineering 9
+NITEC LLC 9
+Prism Seismic 9
+Baker Hughes OASIS 9
+Chevron International E&P 9
+Halliburton Sperry Drilling Services 9
+Mobil Producing Nigeria Unltd 9
+PropTester Inc 9
+Shell Intl. E&P B.V. 9
+TerraTek a Schlumberger Company 9
+PetroChina Changqing Oilfield Company 9
+Rosneft 9
+PetroTel 9
+Baker Hughes Production Quest 9
+Occidental Oil & Gas Corporation 9
+Packers Plus 9
+Intl Research Inst of Stavanger 9
+GeoMechanics International GMI 9
+University of Toronto 9
+XTO Energy Inc. 9
+U of Texas At Austin 9
+China University of Petroleum-Beijing 9
+Tullow Uganda Operations Pty Ltd 9
+Norwegian University of Science & Tech 9
+Schlumberger Middle East SA. 9
+Shell Global Solutions International BV 9
+Fenix Consulting Delft 9
+Nexen Energy ULC 9
+QGEP 9
+Sigma Cubed Inc. 9
+ZADCO 9
+Bohai Petroleum Research Institution Tianjin Branch of CNOOC Ltd. 9
+Ultimate EOR Services 9
+MicroSilicon Inc 9
+M-1 Drilling Fluids Co. 8
+Japan Natl. Oil Corp. 8
+M-I Drilling Fluids Co. 8
+Anadrill/Schlumberger 8
+Texas Tech U. 8
+Servipetrol Ltd. 8
+Texaco E and P Inc. 8
+Shell Western E and P Inc. 8
+Exxon Co. USA 8
+Norsk Hydro A/S 8
+OGCI Management Inc. 8
+Exxon Company USA 8
+Vastar Resources Inc. 8
+Amoco Corporation 8
+NSI Technologies 8
+UMIST 8
+Epic Consulting Services Ltd. 8
+Smith International Inc. 8
+Mobil 8
+NUMAR 8
+Schlumberger-Riboud Product Center 8
+Suncor Energy 8
+U. of Western Australia 8
+Dynamic Graphics Inc. 8
+Shell Canada Limited 8
+Seoul National University 8
+Advanced Resources International 8
+Altura Energy Ltd. 8
+Independent Consultant 8
+Schlumberger Holditch-Reservoir Technologies 8
+Schlumberger H-RT 8
+Occidental Permian Ltd. 8
+Weatherford International Inc. 8
+Petronas Carigali 8
+Husky Energy Inc. 8
+BP America Production Company 8
+Signa Engineering Corp. 8
+Petrobel 8
+Nexen Inc. 8
+Total E&P Angola 8
+Australian National U. 8
+Advantek International Corp. 8
+U. of Regina 8
+Tech. U. of Denmark 8
+ConocoPhillips Canada 8
+Senergy Ltd 8
+SPT Group 8
+Intek Inc. 8
+EnCana Oil & Gas USA Inc. 8
+FMC Technologies 8
+Whiting Petroleum Corp. 8
+TOTAL S.A. 8
+Decision Strategies 8
+NOV 8
+GNS Science 8
+DuPont 8
+Itasca Houston Inc. 8
+Ulterra Drilling Technologies 8
+RIPED PetroChina 8
+Nalco an Ecolab Company 8
+China University of Petroleum (East China) 8
+Liberty Resources LLC 8
+Visuray 8
+Shell International Exploration and Production Inc 8
+TGT Oilfield Services 8
+Tianjin Branch CNOOC Ltd. 8
+Advantek Waste Management Services LLC 8
+Keane Group 8
+China Universitiy of Petroleum-Beijing 8
+Repsol E&P USA Inc 8
+AkerBP 8
+BHGE 8
+TOTAL E&P R&T USA 8
+Holliday Environmental Services Inc. 7
+Pemex/UNAM 7
+U. of Minnesota 7
+Baker Service Tools 7
+Eastman Christensen 7
+BP Exploration Alaska 7
+Phillips Petroleum Co. Norway 7
+Norsk Hydro a.s. 7
+Oil and Gas Research Inst. USSR Academy of Sciences 7
+NLfB Project Group KTB 7
+BP Research Centre 7
+Maurer Engineering Inc. 7
+Unicamp 7
+Texaco EPTD 7
+Ecopetrol-ICP 7
+Koninklijke/Shell E and P Laboratorium 7
+S.A. Holditch & Assocs. Inc. 7
+Bass Enterprises Production Co. 7
+Phillips Petroleum Company Norway 7
+Stress Engineering Services 7
+GeoQuest 7
+Ely & Associates Inc. 7
+Shell Research Rijswijk 7
+Amoco EPTG 7
+Brookhaven National Laboratory 7
+BDM Petroleum Technologies 7
+BP Exploration Co. Ltd. 7
+Mobil Producing Nigeria Unlimited 7
+Smedvig Technologies 7
+Pakistan Petroleum Limited 7
+The U. of Texas at Austin 7
+BP Amoco PLC 7
+Meyer & Associates Inc. 7
+NUMAR HES 7
+Schlumberger Riboud Product Centre 7
+Chevron Nigeria Ltd. 7
+LSU 7
+Curtin University of Technology 7
+NUMAR Halliburton 7
+Portfolio Decisions Inc. 7
+Smith Tool Smith International Inc. 7
+Chevron Texaco Corporation 7
+ExxonMobil Production Company 7
+Total Fina Elf Exploration UK 7
+ChevronTexaco EPTC 7
+Shell International Exploration & Production 7
+Nitec LLC 7
+EOG Resources Inc. 7
+Schlumberger Stavanger Research 7
+Technip Offshore Inc. 7
+Total E&P Nigeria 7
+Knowledge Reservoir 7
+Abu Dhabi Co. Onshore Oil Opn. 7
+Shell Petroleum Dev. Co. Nigeria 7
+CSIRO 7
+BP Trinidad & Tobago 7
+Australia National University 7
+Yale University 7
+Computer Modelling Group Inc 7
+Hexion 7
+MIT 7
+Qatar Petroleum 7
+DrillScan 7
+Ingrain Inc. 7
+Det norske oljeselskap ASA 7
+Trican Well Service Ltd. 7
+BGPCNPC 7
+AGIP Energy & Nat. Resources 7
+Agip Oil Ecuador 7
+Southwestern Energy Company 7
+IFPEN 7
+University of Alaska - Fairbanks 7
+Protechnics 7
+United Safety 7
+Tianjin Branch of CNOOC Ltd. 7
+Shell Global Solutions International 7
+IRIS 7
+Texas A&M Petroleum Engineering Dept 7
+CGG 7
+ExxonMobil Upstream Research Company Carsten Elsborg ExxonMobil Development Company 7
+State Key Laboratory of Petroleum Resources and Prospecting China University of Petroleum Beijing 7
+Tarim Oilfield PetroChina 7
+TOTAL Exploration & Production 7
+Abu Dhabi Co For Onshore Petroleum Operations Ltd 7
+Premier 7
+KFUPM 7
+Raisa Energy 7
+Cairn Oil & Gas Vedanta Ltd. 7
+RGL Reservoir Management 7
+PTT Exploration and Oil Production PLC 7
+Aker BP 7
+ChemTerra Innovation 7
+Chemical and Petroleum Engineering Department University of Calgary 2500 University Drive NW Calgary Alberta T2N 1N4 Canada 7
+Schlumberger Canada LTD 7
+Mobil E&P U.S. Inc. 6
+Schlumberger Perforating and Testing Center 6
+Research and Engineering Consultants Inc. 6
+Amerada Hess Corp. 6
+Petrobras/Unicamp 6
+Ecole des Mines de Paris 6
+Scientific Software-Intercomp 6
+Arco Oil and Gas Co. 6
+Amoco Norway Oil Co. 6
+Norwegian Inst. of Technology 6
+NM Petroleum Recovery Research Center 6
+ONGC-Schlumberger Wireline Research Centre 6
+Champion Technologies Inc. 6
+U. of Missouri-Rolla 6
+Enertech Engineering and Research Co. 6
+U. of Miskolc 6
+BP Exploration Operating Co. Ltd. 6
+U. of Utah 6
+Corpoven S.A. 6
+Texaco Exploration and Production Inc. 6
+Chevron U.S.A. 6
+Schlumberger Anadrill 6
+Schlumberger-Dowell 6
+King Saud University 6
+Branagan & Associates 6
+Chevron USA Production Company 6
+Union Pacific Resources Company 6
+ENI SpA 6
+Southwest Petroleum Inst. 6
+U. of Bordeaux 6
+Centrilift 6
+Aera Energy 6
+Questa Engineering Corporation 6
+Reservoir Engineering Research Institute (RERI) 6
+Schlumberger Holditch - Reservoir Technologies 6
+Baker Atlas Houston USA 6
+Adams Pearson Associates Inc. 6
+Shell UK Exploration and Production 6
+Politecnico di Torino 6
+Geisum Oil Company 6
+SINTEF Electronics and Cybernetics 6
+Imperial College of Science Technology & Medicine 6
+Det Norske Veritas 6
+Anadarko Petroleum 6
+ENSMP 6
+Oilphase A Schlumberger Company 6
+Gulf of Suez Petroleum Company GUPCO 6
+DONG E&P 6
+Roxar 6
+Team Energy 6
+Instituto Mexicano del Petroleo 6
+Shell Petroleum Development Company Nigeria SPDC 6
+JAPEX 6
+Shell E&P 6
+EP Tech 6
+Shell International E&P Inc. 6
+ChevronTexaco Exploration & Production Technology Company 6
+BP Indonesia 6
+BP plc. 6
+WellDynamics 6
+Halliburton-NUMAR 6
+Schlumberger Data and Consulting Services 6
+National Energy Technology Laboratory US Department of Energy 6
+ChevronTexaco North America Exploration & Production Co. 6
+TNO TPD 6
+Schlumberger Riboud Product Center 6
+StreamSim Technologies Inc. 6
+Daqing Oil Company Limited Daqing Petroleum Institute 6
+Total E&P UK plc 6
+Verrillon Inc. USA 6
+Shell UK Limited 6
+Murphy E&P Company 6
+Shell Canada 6
+Barree & Assocs. LLC 6
+Digital Formation Inc. 6
+BJ Services Co. Nigeria Ltd. 6
+California Inst. of Technology 6
+Battelle Memorial Institute 6
+Tesco Corporation 6
+BP Angola 6
+Paris School of Mines 6
+Suncor Energy Inc. 6
+CESI Chemical 6
+RPS Energy 6
+Tech. U. Clausthal 6
+Total E&P Congo 6
+State University of Campinas 6
+Moscow Institute of Physics and Technology 6
+IBM 6
+Turkish Petroleum Corp. 6
+Palantir Economic Solutions 6
+BHP Billiton 6
+Venture Production PLC 6
+Shell Canada Energy 6
+Peking University 6
+EQT Production 6
+ExxonMobil Corporate Strategic Research 6
+Centro Sviluppo Materiali 6
+HOCOL S A 6
+Shell Intl E&P Co 6
+Schlumberger Middle East SA 6
+Quantum Reservoir Impact 6
+Total E&P Nigeria Ltd. 6
+No.4 Oil Production Company of Daqing 6
+Independent Project Analysis 6
+PT Medco E&P Indonesia 6
+Osaka University 6
+IFP Energies Nouvelles 6
+National Oilwell Varco Downhole Tools Division 6
+Cairn India Ltd 6
+Modeling Technologies Center 6
+Charlotte Software Systems 6
+Missouri University of Science & Tech 6
+EBN 6
+Centre for Enhanced Oil Recovery and CO2 Solutions Institute of Petroleum Engineering Heriot-Watt University Edinburgh UK 6
+Pacific Rubiales Energy (PRE) 6
+Baker Hughes Dhrahran Global Technology Center Saudi Arabia 6
+Total Upstream Nig. Ltd Lagos Nigeria 6
+Royal Dutch Shell 6
+Sinopec Research Institute of Petroleum Engineering China 6
+Ultimate EOR Services LLC 6
+Carl Zeiss X-ray Microscopy 6
+Sasol Performance Chemicals 6
+Noble Energy 6
+Tulsa University Sand Management Projects The University of Tulsa 6
+Tarim Oilfield Company Petrochina 6
+OCTIO AS 6
+Guizhou Natural Gas Investment Company 6
+Equinor 6
+Laredo Petroleum Inc. 6
+McDaniel & Associates Consultants 6
+CNOOC Limited Shenzhen 6
+Indian Institute of Technology Delhi 6
+Imperial Oil Resources Ltd 6
+Whitson AS 6
+Petroleum Recovery Research Center 6
+Norwegian Geotechnical Inst. 5
+Etudes and Productions Schlumberger 5
+University P. and M. Curie Paris 5
+DRD Corp. 5
+Brunei Shell Petroleum 5
+ARCO 5
+University of Southwestern Louisiana 5
+Rice U. 5
+Shell UK Expro 5
+U. de Pau et des Pays de l&apos;Adour 5
+Services Techniques Schlumberger 5
+IITRI/NIPER 5
+IFE 5
+Conoco Norway Inc. 5
+Norwegian Petroleum Directorate 5
+Saga Petroleum a.s 5
+Retired 5
+Milpark Drilling Fluids 5
+BHP Petroleum 5
+Norwegian Institute of Technology 5
+Kappa Engineering 5
+U. of Colorado 5
+Western Atlas Software 5
+Newpark Resources Inc. 5
+ARCO E and P Technology Co. 5
+Mobil E&P Technical Center 5
+Inst. Français du Petrole 5
+Statoil Research Centre 5
+Mark Resources Inc. 5
+Turkish Petroleum Corporation 5
+Texas A&M University. 5
+Branagan & Assoc. 5
+Texaco E&P Inc. 5
+IVC-SEP Technical University of Denmark 5
+Mitsubishi Electric Corporation 5
+Sulzer Pumps 5
+Chevron U.S.A. Production Company 5
+Chevron Overseas Petroleum Technology Co. 5
+Performance Sciences Inc. 5
+Total Austral S.A. 5
+Statoil AS 5
+UIC 5
+PanCanadian Resources 5
+Institute for Energy Technology 5
+Heriot-Watt U 5
+U. of Waterloo 5
+Saudi Arabian Oil Company (Saudi Aramco) 5
+Norsk Hydro and University of Bergen 5
+NUMAR A Halliburton Company 5
+Holditch - Reservoir Technologies 5
+Univ. Miskolc 5
+Robert Gordon University 5
+Phillips Alaska Inc. 5
+Groppe Long & Littell 5
+Carbo Ceramics Inc. 5
+Taurus Reservoir Solutions Ltd. 5
+University of Zulia 5
+Ecopetrol 5
+ENI Agip Division 5
+3M 5
+Schlumberger OFS 5
+Rashid Petroleum Company 5
+Vico Indonesia 5
+NEL 5
+PDVSA Petroleo 5
+ENI/Agip 5
+China Petroleum University 5
+Borden Chemical Inc. 5
+Natl. Autonomous U. of Mexico 5
+NATCO Group 5
+Geoservices 5
+CDS Engineering 5
+Barree & Associates 5
+Scandpower Petroleum Technology 5
+Data Retrieval Corp. 5
+Halliburton Sperry-Sun 5
+BJ Services Company Canada 5
+Hycal Energy Research Laboratories Ltd. 5
+SINCOR 5
+Petrobras Energia S.A. 5
+Potential Research Solutions 5
+Total E&P UK PLC 5
+ProTechnics Division Core Laboratories 5
+Decision Strategies Inc. 5
+OptTek Systems Inc. 5
+ChevronTexaco ETC 5
+North Fluminense State University 5
+Plains Exploration & Production 5
+Production Technology Inc. 5
+BP-Canada Energy Company 5
+TNO TPD Delft The Netherlands 5
+TEA Group Italy 5
+Ministry of Energy and Energy Industries Trinidad and Tobago 5
+Langfang Branch Institute of Petroleum Exploration and Development of PetroChina 5
+Business Fundamentals Group 5
+Petro Canada 5
+ChevronTexaco Corp. 5
+Halliburton Sperry-Sun Drilling Services 5
+BJ Services Co. Canada 5
+Daneshy Consultants Intl. 5
+Knowledge Reservoir L.P. 5
+Khalda Petroleum Co. 5
+Petroleos Brasileiro S.A. 5
+Streamsim Technologies Inc. 5
+U. of Alabama 5
+CABGOC 5
+Ohio University 5
+Harvest Vinccler 5
+Agip KCO 5
+Ryder Scott Petroleum Consultants 5
+Research Inst. of Petroleum Exploration and Development SINOPEC 5
+Lousiana State University 5
+BJ Services Arabia Ltd. 5
+BP Alaska Exploration Inc. 5
+UENF-LENEP 5
+Natco Group Inc. 5
+Core Laboratories Inc. 5
+Eclipse Petroleum Technology Ltd. 5
+Nalco Company 5
+T H Hill Associates Inc. 5
+CNOOC China Limited-Tianjin 5
+Shell Intl E&P 5
+Pera A/S 5
+Maharashtra Institute of Technology 5
+Applied Seismology Consultants 5
+ENI E & P 5
+Insight Consulting 5
+Talisman Malaysia Limited 5
+Houston Advanced Research Ct. 5
+Helix RDS Ltd. 5
+Altus Well Experts Inc. 5
+Shell International 5
+ConocoPhillips Co. 5
+EnCana Corporation 5
+ADNOC 5
+Shuguang Oil Production Plant Liahohe Oilfield CNPC 5
+SPT Group Inc 5
+Computer Modeling Group 5
+Centrica Energy 5
+Edison 5
+Chevron Upstream Europe 5
+Murphy Sarawak Oil Co. Ltd. 5
+Gaffney Cline & Associates Inc. 5
+Shell Petroleum Dev Nigeria SPDC 5
+Missouri University of Science & Technology 5
+Shell U.K. Limited 5
+Schlumberger - Doll Research 5
+NOV Downhole Tools & Pumping 5
+TNK-BP 5
+Task Force on Women in the Petroleum Industry 5
+Verenium Corporation 5
+CNOOC Zhanjiang 5
+MCS Kenny 5
+Shell Global Solutions US Inc 5
+Gadjah Mada University 5
+MicroSeismic Inc 5
+SGS Horizon 5
+Shell Petroleum Dev Nigeria (SPDC) 5
+Schlumberger DPM 5
+PetroSkills 5
+CARBO Ceramics 5
+Pluspetrol S.A. 5
+China University of Petroleum (Beijing) 5
+University of Louisiana At Lafayette 5
+BP Exploration & Production Inc 5
+Maersk Oil & Gas A/S 5
+Centre for Enhanced Oil Recovery and CO2 Solutions Institute of Petroleum Engineering Heriot-Watt University 5
+AGH University of Science and Technology 5
+Saudi Aramco PE&D 5
+ITBA-Instituto TecnolÃ³gico de Buenos Aires 5
+Pason Systems Corporation 5
+EMURC 5
+Department of Petroleum and Geosystems Engineering University of Texas at Austin USA 5
+Sinopec Research Institute of Petroleum Engineering 5
+OMV Austria E&P GmbH 5
+UFRRJ 5
+Shear Bits 5
+Erosion/Corrosion Research Center The University of Tulsa 5
+Turkish Petroleum 5
+RTI International 5
+Chevron Co. 5
+InflowControl 5
+Simon James West – Schlumberger 5
+JX Nippon Oil & Gas Exploration Corporation 5
+Tendeka 5
+Baker Hughess 5
+IHS Markit 5
+Khalifa University of Science and Technology 5
+PetroChina Tarim Oilfield Company 5
+Perenco Congo 5
+Rystad Energy 5
+Shell Exploration and Production Inc 5
+Texas A&M University-Kingsville 5
+Flotek Chemistry LLC 5
+Pennsylvani State University 5
+Quantico Energy Solutions 5
+Fritz Industries 5
+Conoco (UK) Ltd. 4
+Resource Enterprises Inc. 4
+Saga Petroleum a.s. 4
+Massachusetts Inst. of Technology 4
+Mobil Oil Indonesia Inc. 4
+Shell Intl. Petroleum Mij. B.V. 4
+Chevron E and P Services Co. 4
+Mobil Oil Indonesia 4
+Schlumberger Perforating & Testing Center 4
+Alberta Oil Sands Technology and Research Authority 4
+Exxon Research and Engineering 4
+Union Pacific Resources Inc. 4
+STIM-LAB Inc. 4
+Idaho Natl. Engineering Laboratory EG and G Idaho Inc. 4
+Oil and Natural Gas Commission 4
+Unocal Science and Technology Div. 4
+Bureau of Economic Geology U. of Texas 4
+IKU 4
+U. Industrial de Santander 4
+Petro-Canada Inc. 4
+Exxon Chemical Ltd. 4
+Reservoir Engineering Research Inst. 4
+Mitchell Energy Corp. 4
+Texaco E and P Technology Div. 4
+Nippon Steel Corp. 4
+Elf Geoscience Research Centre 4
+Chevron Canada Resources Ltd. 4
+Chevron USA Production Co. 4
+Maraven S.A. 4
+Meridian Oil 4
+INTEVEP S.A. 4
+West Australian Petroleum Pty. Ltd. 4
+Petro-Canada Resources 4
+Norsk Hydro Research Center 4
+BDM-Oklahoma Inc./NIPER 4
+Occidental of Oman 4
+Imperial Oil Resources Ltd. 4
+Exxon Production Research Company 4
+The BP and Statoil Alliance 4
+Western Atlas Logging Services 10201 Westheimer Houston TX 77042 USA 4
+Elf Geoscience Research Centre London 4
+Schlumberger K.K. 4
+S. A. Holditch & Associates Inc. 4
+University of Texas at Dallas 4
+Mining University Leoben 4
+NUMAR Corporation 4
+ProTechnics International Inc. 4
+Indiana U. 4
+HES 4
+BDM-Oklahoma 4
+Union Pacific Resources 4
+Vastar Resources 4
+ARCO E&P Technology 4
+DTU 4
+TerraTek Inc. 4
+Amoco E&P Sector 4
+Montan-U. Leoben 4
+Shell International Oil Products B.V. 4
+Den norske stats oljeselskap a.s. (Statoil) 4
+Cabinda Gulf Oil Company 4
+Texaco 4
+Tidelands Oil Production Company 4
+Chevron Overseas Petroleum 4
+Shengli Petroleum Administrative Bureau 4
+ENI AGIP E&P Division 4
+Petro-Canada Oil & Gas 4
+Teikoku Oil Co. Ltd. 4
+Inst. Francais de Petrole 4
+Seoul National U. 4
+Joanneum Research 4
+Costner Industries Nevada Corporation (CINC) 4
+SPDC Nigeria 4
+New Mexico Petroleum Recovery Research Center New Mexico Institute of Mining and Technology 4
+BP Amoco Energy Company of Trinidad and Tobago 4
+Egyptian General Petroleum Corp. 4
+Landmark Graphics Corp. 4
+Texaco Upstream Technology 4
+ARCO Indonesia 4
+PDVSA EP 4
+ABB Corporate Research 4
+The Brashear Group LLC 4
+CSIRO Mathematical and Information Sciences 4
+Eni Agip Div. 4
+Georgia Institute of Technology 4
+Hungarian Oil and Gas Co. 4
+Security DBS A Halliburton Company 4
+Hungarian Oil and Gas. Co. 4
+General Petroleum Company 4
+formerly with Schlumberger 4
+University of Kansas 4
+Middle East Technical University 4
+PERA 4
+American Geoexploration 4
+TotalFina 4
+University of Minnesota 4
+Conoco 4
+Institute of Drilling Technology ONGC Dehradun 4
+TotalFinaElf 4
+PCM Technical Inc. 4
+GUPCO 4
+Petrobras Internacional 4
+RC Squared Inc. 4
+ABB Offshore Systems Ltd. 4
+University of Leoben 4
+Agip Petroleum 4
+Nederlandse Aardolie Maatschappij 4
+State University of Campinas - UNICAMP 4
+Proneta Ltd. 4
+Imperial Oil Resources Limited 4
+Dagang Oilfield Company PetroChina Ltd. Co. 4
+PRA International 4
+Phillips Petroleum Company Research Center 4
+Marathon 4
+PDVSA EPM 4
+Oifield Rock Mechanics Integrated Services ORMIS 4
+Anadarko Canada Corporation 4
+BP-Upstream Technology Group 4
+Baker Hughes INTEQ/Baker Atlas 4
+NEEC 4
+CSIRO CMIS 4
+Burlington Resources Inc. 4
+EnCana Corp. 4
+Ifremer 4
+Louisiana State University and A & M College 4
+The Shell Petroleum Development Company Of Nigeria Port Harcourt 4
+BHP Billiton Petroleum 4
+Decision Frameworks L.L.C. 4
+DecisionsDecisions 4
+Schlumberger S-RPC 4
+Weatherford UK Ltd. 4
+Landmark Graphics 4
+Mullen Energy 4
+Baker Hughes Centrilift 4
+Kelkar and Associates Inc. 4
+Burullus Gas Co. 4
+Streamsim Technologies 4
+ExxonMobil Exploration Co. 4
+University of Calgary and TIPM Laboratory 4
+Ondeo Nalco Energy Services 4
+El Paso Production 4
+ConocoPhillips Norway 4
+Roxar ASA 4
+EnCana Oil & Gas (USA) Inc. 4
+ChevronTexaco E&P Technology Co. 4
+Innovative Petrotech Solutions Inc. 4
+SINOPEC 4
+Houston Technology Center Baker Atlas / INTEQ USA 4
+Husky Energy 4
+CNOOC Indonesia 4
+PCM 4
+Kerr-McGee North Sea 4
+Denbury Resources Inc. 4
+PEMEX Exploration & Production 4
+PEMEX-UNAM 4
+YUKOS EP 4
+Saudi Aramco R&D Center 4
+Enventure Global Technology L.L.C. 4
+Landmark Graphics Inc. 4
+Sii-Neyrfor 4
+Diamant Drilling Services 4
+Petrotrin - Trinmar Operations 4
+APA Petroleum Engineering Inc. 4
+Petroleo Brasileiro S/A 4
+U.S. Dept. of Energy - Fossil Energy Oil & Gas 4
+Ecopetrol SA 4
+Phoenix Reservoir Engineering 4
+Aquatic Company 4
+Anadarko Canada Corp. 4
+Schlumberger Sensa 4
+Shell Oil Company 4
+M-I LLC 4
+Halliburton BV 4
+Montana Tech. 4
+Magnitude 4
+PRA Intl. Ltd. 4
+U Nacional Autonoma de Mexico 4
+Universidade Federal do Rio de Janeiro 4
+weatherford 4
+Abu Dhabi Marine Operating Co. 4
+ADMA OPCO 4
+TDE Thonhauser Data Engineering GmbH 4
+Hydro 4
+GeoMechanics Intl. Inc. 4
+International Research Institute of Stavanger AS 4
+BP Colombia 4
+Ecole Des Mines de Paris 4
+Eagle Oil & Gas Co. 4
+Dolphin Energy Ltd. 4
+No. 4 Oil Production Co. Daqing Oilfield Co. Ltd. 4
+Reliance Industries Limited 4
+Moulinex Business Services LLC 4
+Maersk Olie og Gas AS 4
+BP USA 4
+Petrominerales Colombia Ltd 4
+Eni Petroleum Co. Inc. 4
+Sonangol P & P 4
+Indian Institute of Technology Kharagpur 4
+TAM International Inc. 4
+BJ Services Co. UK Ltd. 4
+BJ Services Inc 4
+NAM Offshore B.V. 4
+Perenco 4
+Towers Perrin-ISR 4
+TNO Science and Industry 4
+LUX Assure 4
+StatoilHydro ASA 4
+Numerical Rocks 4
+University of Ibadan 4
+CurisTec 4
+Tarim Oilfield Company PetroChina 4
+Schlumberger Asia Services Ltd 4
+ENI - E&P Division 4
+BP Canada Energy Company 4
+ENI Petroleum 4
+Kyushu University 4
+OMV E&P GmbH 4
+Taurus Reservoir Solutions Ltd 4
+ENI S.p.A. 4
+Ecopetrol S.A. 4
+PERA/NTNU 4
+Penn State University 4
+Royal Dutch/Shell Group 4
+Engineering Seismology Group Canada Inc. ESG 4
+Southwest Petroleum Uninversity 4
+Cairn Energy India Pty. Ltd. 4
+Petroleum Development of Oman 4
+Energy XXI 4
+Brunei Shell Petroleum Co Sdn Bhd 4
+Forest Oil Corp. 4
+Petrowell Ltd 4
+University of Miskolc 4
+Technology University Clausthal 4
+Total E&P France 4
+EP Energy 4
+Total E&P Nigeria Ltd 4
+Esso Exploration and Production Chad Inc. 4
+Petrochina SWOGC Shunan 4
+Trican Well Service 4
+XTO Energy 4
+Institute of Geological Sciences Polish Academy of Sciences 4
+University of Tromso 4
+Shell Exploration & Production Co 4
+Energie Beheer Nederland 4
+HESS Corporation 4
+IFP Energy 4
+Kemira 4
+PQ Corporation 4
+Research Institute of Petroleum Exploration & Development PetroChina 4
+Universidade Estadual De Campinas 4
+Clausthal University of Technology 4
+Texas A&M Univeristy 4
+Occidental Oil and Gas Corporation 4
+WPX Energy Co 4
+WPX Energy 4
+Ely and Associates Corp 4
+Shell International Global Solutions 4
+The University of Texas at Austin Department of Petroleum and Geosystems Engineering 4
+Memorial University of Newfoundland 4
+SIGMA3 4
+The Erosion/Corrosion Research Center (E/CRC) Department of Mechanical Engineering The University of Tulsa 4
+(Halliburton) 4
+Aramco Services Company: Aramco Research Center—Houston 4
+Weatherford Canada 4
+VTU 4
+King Fahd University of Petroleum and Minerals Saudi Arabia 4
+Texas A&M University College Station Texas 4
+Chevron Houston 4
+Kuwait Company 4
+the Pennsylvania State University 4
+eni SpA 4
+Battelle 4
+Halliburton Offshore Services Inc. 4
+myr:conn solutions GmbH 4
+OMV-Petrom Romania SA 4
+Daqing Oilfield Company Limited 4
+Lundin Norway AS 4
+South Oil Co. 4
+Total Research Centre Qatar 4
+Lundin 4
+DONG Oil & Gas 4
+Aramco Services Company: Aramco Research Center-Houston 4
+Neubrex Co. Ltd. 4
+University of Colorado Denver 4
+School of Petroleum Technology Pandit Deendayal Petroleum University 4
+Multi-Chem—A Halliburton Service 4
+CNOOC-Tianjin 4
+Advantek Waste Management Services 4
+Infosys Ltd. 4
+Abu Dhabi Company for Onshore Petroleum Operations 4
+Heat transfer and fluid dynamics department TNO 4
+3esi-Enersight 4
+Daneshy Consultants Int'l 4
+Shell Exploration & Production International 4
+Eni S.p.A. – Upstream and Technical Services Division 4
+Resman 4
+Sandeep Gade BHI 4
+Talos 4
+Center for Petroleum and Geosystems Engineering The University of Texas at Austin 4
+Ali I. Al-Naimi Petroleum Engineering Research Center Physical Sciences and Engineering Division King Abdullah University of Science and Technology 4
+Khalda Petroleum 4
+CNPC Drilling Research Institute 4
+Evonik Corporation 4
+AOC LLC 4
+Chevron Energy Technology Company a division of Chevron U.S.A. Inc. 4
+EnQuest Malaysia 4
+TGT 4
+Coil Chem LLC 4
+Tianjin Branch of CNOOC Ltd 4
+iRock Technologies 4
+PropTester Inc. 4
+UEORS 4
+ConocoPhillips Alaska Inc 4
+University of Texas Bureau of Economic Geology 4
+Sapura Energy 4
+Shell Trinidad & Tobago Ltd 4
+Arundo Analytics 4
+Virginia Polytechnic Institute and State University 4
+Kansas Geological Survey 4
+Repsol Oil and Gas Canada Inc. 4
+PETRONAS Research Sdn Bhd 4
+Universiti Teknologi PETRONAS 4
+Add Energy LLC 4
+National Hydrocarbons Commission of Mexico 4
+PetroChina Company Ltd. 4
+Drill2Frac 4
+Uuniversity of Campinas UNICAMP 4
+Luxfer MEL Technologies 4
+Goolsby Finley & Associates 4
+Chesapeake Energy 4
+Department of Civil and Environmental Engineering University of Alberta 4
+FlowDril Corp. 3
+Soil Analytical Services Inc. 3
+S.A. Holditch and Assocs. 3
+Atlas Wireline Services Western Atlas International Inc. 3
+Millsaps College 3
+Inst. for Energiteknikk 3
+Chevron Services Co. 3
+U. of Illinois Chicago 3
+Integrated Technologies 3
+Mobil E and P Services Inc. 3
+U. of Petroleum 3
+AEC Oil and Gas Co. 3
+BP Research Inc. 3
+GECO A.S. 3
+U. of Amsterdam 3
+BPX America 3
+U. of Alaska Fairbanks 3
+FSS Intl. 3
+Inst. Natl. de Recherche en Informatique 3
+Texaco E and P Technology 3
+Nowsco Well Service Ltd. 3
+Advanced Multiphase Technology Inc. 3
+Moscow Oil and Gas Inst. 3
+Jet Research Center Inc. 3
+Qatar General Petroleum Corp. 3
+Los Alamos Natl. Laboratory 3
+British Gas plc 3
+Kerr-McGee Oil (UK) plc 3
+Etudes and Production Schlumberger 3
+Norwegian Computing Centre 3
+Abu Dhabi Natl. Oil Co. 3
+OSCA Inc. 3
+U.S. EPA 3
+China Natl. Petroleum Corp. 3
+Soekor (Pty.) Ltd. 3
+British Gas E and P 3
+Eastman Teleco 3
+Inst. of Mathematics & Natural Sciences 3
+Smedvig IPR A/S 3
+Texaco E&P Technology 3
+Amoco (U.K.) Exploration Co. 3
+Canadian Hunter Exploration Ltd. 3
+Petroleum Strategies Inc. 3
+Petrolphysics Inc. 3
+Petrobras/Inst. Francais du Petrole 3
+Japan Petroleum Exploration Co. Ltd. 3
+McLaren/Hart Environmental Engineering Corp. 3
+Pertamina 3
+Transpetco Engineering of the Southwest Inc. 3
+Ely and Assocs. Inc. 3
+EGG Idaho 3
+Atlas Wireline Services Western Atlas Intl. 3
+U. Pierre et Marie Curie 3
+Arco 3
+U. of Petroleum China 3
+KAI Technologies Inc. 3
+Pogo Production Co. 3
+New Mexico Inst. of Mining & Technology 3
+Nambe Geophysical Inc. 3
+Simtech Consulting Services Inc. 3
+Resources Engineering Systems Inc. 3
+Shell Gabon 3
+Total Exploration Production 3
+Core Laboratories Houston 3
+Western Atlas Logging Services Division of Western Atlas International Inc. 3
+BP Exploration Op. Co. Ltd. 3
+CTES L.C. 3
+DALEN Resources Oil & Gas Co. 3
+Imperial College of Science Technology and Medicine London U.K. 3
+Pennzoil Exploration and Production Company 3
+Mobil E & P Tech. Center 3
+Dowell a Division of Schlumberger Technology Corporation 3
+Amoco Exploration and Production Technology 3
+Exxon Company U.S.A. 3
+John F. Schatz Research & Consulting Inc. 3
+Mobil E&P Technical Center. 3
+ESSO REP 3
+Alberta Energy and Utilities Board 3
+NAM 3
+University of Bergen Norway 3
+Sarawak Shell Berhad 3
+Arco Exploration and Prod. Tech. 3
+University of Illinois at Chicago 3
+Numar 3
+UT 3
+Mobil E& P Technical Center 3
+Strategic Decisions Group 3
+Hycalog 3
+Integrated Energy Services Inc. 3
+Microbes Inc. 3
+BJ Services Indonesia 3
+Arco Exploration and Production Technologies 3
+BP Exploration Colombia 3
+Smith Bits 3
+Duke Engineering & Services 3
+Saga Petroleum ASA 3
+BP Exploration Operating Company Limited 3
+BEICIP 3
+Schulumberger 3
+Pemex Exploration and Production 3
+Sperry Sun 3
+University New South Wales 3
+Simulation Sciences 3
+Amoco E&P Technology Group 3
+Halliburton Worldwide Ltd. 3
+BP Kuwait Ltd 3
+S.A. Holditch and Associates Inc. 3
+BP Norge AS 3
+Shell Deepwater Development Systems Inc. 3
+Kennedy/Jenks Consultants Inc. 3
+PGS Reservoir (UK) Limited 3
+Berkeley Laboratory 3
+Itasca Consulting Group Inc. 3
+Canadian Petroleum Ltd. 3
+A.S.G.A.-GOCAD 3
+PETROM S.A. 3
+Schlumberger Technical Services Inc. 3
+Fletcher Challenge Energy Canada 3
+PGS Reservoir (U.S.) Inc. 3
+Norwegian U. of Science and Technology 3
+BJ Services Co. Nigeria 3
+IMP 3
+PDVSA Occidente 3
+University of Nottingham 3
+The Lubrizol Corporation 3
+BP Amoco Exploration 3
+Petrotech 3
+Schlumberger Wireline 3
+CDS Separation Technologies 3
+Marconi 3
+PDVSA Exploracion y Produccion Petroleos de Venezuela S.A. 3
+University of Science and Technology of China 3
+Southwest Petroleum Institute China 3
+Institute for Corrosion and Multiphase Technology 3
+CENERGYS 3
+Chevron Environmental Management Company 3
+Computalog Research 3
+Japan National Oil Corporation Technology Research Center 3
+Suez Canal University 3
+OMV AG 3
+University of Bordeaux 3
+Lohne RF-Rogaland Research 3
+TU-Delft 3
+Faculty of Applied Earth Sciences Delft University of Technology 3
+Chevron Petroleum Technology 3
+Texaco E & P Co. 3
+LUKOil-Western Siberia Oil Co. 3
+ENI - Agip Division 3
+Jet Research Center 3
+Integrated Reservoir Management Inc. 3
+NTNU/PERA 3
+Halliburton Overseas Ltd. 3
+Reservoir Characterization Research & Consulting (RC) 3
+ExxonMobil Exploration Company 3
+Sperry-Sun Halliburton Energy Services 3
+The Dow Chemical Co. 3
+Jason Geosystems 3
+Object Reservoir Inc. 3
+Mosbacher Energy Co. 3
+ExproSoft 3
+Idaho National Engineering and Environmental Laboratory 3
+Petroleum Development 3
+ENSTA 3
+ELF EP 3
+ENI AGIP Division 3
+Engineering Seismology Group 3
+Husky Oil Operations Ltd. 3
+Shell EP Technology Applications and Research 3
+University of Pittsburgh 3
+PetroCanada Oil and Gas 3
+Baker Hughes INTEQ Drilling Fluids 3
+ISP 3
+El Paso Production Company 3
+Texaco E & P Inc. 3
+iReservoir.com 3
+Sanwa Construction Co. LTD. 3
+El Paso Corporation 3
+ADTI 3
+BP p.l.c. 3
+AEA Technology plc 3
+Occidental of Elk Hills Inc. 3
+Agar Corporation 3
+Enron Oil & Gas India Ltd. 3
+Computalog U.S.A. Inc. 3
+Paras Consulting 3
+Terralog Technologies Inc. 3
+KAPPA Engineering 3
+University of South Carolina 3
+Centrilfit 3
+Langfang Branch of RIPED Petrochina 3
+Teikoku Oil Company 3
+University of Texas Dallas 3
+Tomographic Imaging and Porous Media Laboratory 3
+Canadian Natural Resources Limited 3
+The University of Texas as Austin 3
+ChevronTexaco Inc. 3
+SPDC 3
+Phillips Petroleum Co. Research Center 3
+Saudi Arabian Oil Comapny 3
+IHS Energy Group 3
+PRRC/NM TECH 3
+Baker Oil Tools; 3
+Total Fina Elf E&P Angola 3
+Indian School of Mines 3
+DONG EP 3
+Bureau of Economic Geology The University of Texas at Austin 3
+University of Auckland 3
+Sperry-Sun Halliburton 3
+Petrozuata C.A. 3
+Baker Atlas Houston Texas 3
+Shell Global Solutions US 3
+Calsep 3
+ENI-Agip 3
+Sperry-Sun/Halliburton 3
+UC Berkeley 3
+Tesseract Corp. 3
+Wintershall 3
+BP Energy of Trinidad & Tobago 3
+Agiba Petroleum Co. 3
+Kellogg Brown & Root 3
+Precision Drilling UK Limited 3
+Petroleum Development Oman PDO Oman 3
+TU Delft 3
+RWTH Aachen 3
+Sensa-Schlumberger 3
+Caesar Systems 3
+Delft University of Technology The Netherlands 3
+PEMEX Exploration y Production 3
+C&C Reservoirs Inc. 3
+U. of Minnesota-Duluth 3
+Shell Petroleum Development Company Nigeria Limited 3
+Calsep Inc. 3
+PETROUCV S.A. an affiliate of PDVSA 3
+Western Gas Resources Inc. 3
+Kuwait Institute for Scientific Research 3
+Halliburton Baroid 3
+United Nations Economic Commission for Europe 3
+ChevronTexaco China Energy Company 3
+VSFusion A Baker Hughes - CGG Company 3
+Stone Energy Corporation 3
+Halliburton-Landmark Graphics 3
+Landmark 3
+Baker Atlas-Houston 3
+EnCana 3
+Shell Todd Oil Services Limited 3
+H K Technologies 3
+The University of Adelaide 3
+Technology International Inc. Kingwood TX 3
+Sensa a Schlumberger Company 3
+USB 3
+Statoil Research Center Trondheim Norway 3
+GMG/AXIS Geophysics 3
+Oil and Gas Institute Poland 3
+Chevron-Texaco 3
+Halliburton Serviços Ltda 3
+Schubarth Inc. 3
+BPXA 3
+FMC Technologies Inc. 3
+Exploitation Technologies 3
+Dominion E&P Inc. 3
+BP E&P 3
+Gas Technology Institute GTI 3
+IPR Group of Companies 3
+Cimarex Energy Co. 3
+Oilphase-DBR 3
+Stavanger U. College 3
+U. of California Berkeley 3
+Brunei Shell Petr. Co. Sdn Bhd 3
+Argonne National Lab 3
+ENI Petroleum Co. Inc. 3
+U. of Auckland 3
+BJ Services Inc. 3
+Det Norske Veritas DNV 3
+Williams Exploration & Prod 3
+Seneca Resources Corp. 3
+SAIC 3
+Occidental E&P Co. 3
+Cairn Energy Plc UK 3
+BJ Services de Venezuela 3
+Shell Nigeria E&P Co. Ltd. 3
+Total Gabon 3
+ConocoPhillips UK Ltd 3
+BP America Production Co. 3
+Occidental Petroleum Corp. 3
+TIORCO Inc. 3
+U. of Missouri Rolla 3
+Golden Eagle International Inc. 3
+Nalco 3
+Schlumberger R&D Inc. 3
+Duke University 3
+RWE DEA A.G. 3
+Baker Hughes INTEQ GMBH 3
+Merrick Systems Inc. 3
+International Research Institute of Stavanger 3
+FEESA Ltd 3
+Chevron North American E&P 3
+DONG E&P A/S 3
+LENEP/UENF 3
+National Iranian Oil Co. 3
+Chief Oil & Gas LLC 3
+NATCO 3
+ChevronTexaco UK Ltd. 3
+Nexen Petroleum UK Ltd 3
+China U. of Petroleum 3
+Continental Resources Inc. 3
+Shell E&P UK 3
+ConocoPhillips Norge 3
+Petrobras S.A 3
+Geoservices Inc. 3
+halliburton 3
+Gaia Consulting 3
+Texas A&M 3
+Eni Petroleum 3
+China U. of Geoscience 3
+RIPEDPetroChina 3
+Smith Services 3
+J-W Operating Co. 3
+Eni Agip SpA 3
+Actenum Corporation 3
+BPTT llc 3
+Cabot Oil & Gas Corp. 3
+Kelkar & Assocs. Inc. 3
+Fundacao COPPETEC 3
+EEM Industrial Engineering 3
+Imperial Oil Limited 3
+Energistics 3
+Roxar Software Solutions 3
+Newfield Exploration 3
+Integrated Energy Services Inc 3
+GMX Resources 3
+BPMIGAS 3
+Slider LLC 3
+U.S. Department of Energy National Technology Lab 3
+Texas A&M Univiersity 3
+All Consulting 3
+SPT Group Norway AS 3
+Qarun Petroleum Company 3
+AkzoNobel 3
+Smith 3
+China U. of Petroleum Beijing 3
+BGP China Natl. Petr. Corp. 3
+SunRise PetroSolutions Tech 3
+Vallourec and Mannesmann 3
+BP Exploration Operating Company Ltd 3
+Shell E&P Americas 3
+ResMan AS 3
+Bear Creek Services LLC 3
+Murphy Oil Corp. 3
+ESG Engineering Seismology Group 3
+Sultan Qaboos University 3
+FMC CDS Separation Systems 3
+Kappa 3
+Welltec A/S 3
+Nederlandse Aardolie Maatschappij B.V. 3
+Cartasite 3
+Talisman Energy 3
+USC 3
+Range Resources - Appalachia LLC 3
+The Robert Gordon University 3
+Chesapeake Operating Inc. 3
+Jilin Oilfield Co 3
+Shell International E&P Inc 3
+NOV Grant Prideco 3
+FEI 3
+Nautilus International LLC 3
+Geomec A/S 3
+Energy Partners Ltd. 3
+PetroHawk Energy Corporation 3
+Chevron North America Exploration and Production Company 3
+CNPC Chuanqing Drilling Engineering Company 3
+MaxTube Ltd. 3
+M-I SWACO A Schlumberger Company 3
+PetroChina Southwest Oilfield Southern-Sichuan Branch 3
+Itasca Consulting Group 3
+EXCO Resources Inc. 3
+Dow Chemical Co. 3
+Marathon Oil 3
+Schlumberger Innovation Center 3
+Encana Corporation 3
+University Of Calgary 3
+Nederlandse Aardolie Maatschappij BV 3
+Pathfinder - A Schlumberger Company 3
+The University of Texas At Austin 3
+Welltec Norway 3
+China National Offshore Oil Company 3
+Queensland University of Technology 3
+Vermilion Energy 3
+XACT Downhole Telemetry Inc 3
+Marathon Oil Corporation 3
+Pertamina EP 3
+Intelligent Solutions Inc. 3
+Intelligent Solutions Inc. & West Virginia University 3
+Alzeta 3
+Providence Photonics LLC 3
+Welltec Inc 3
+APS Technology 3
+Packers Plus Energy Services Inc 3
+Grupo CAPSA 3
+Fluid Imaging Technologies Inc. 3
+Marathon Oil Co 3
+Statoil Brasil 3
+Durham University 3
+OptaSense Ltd 3
+Shell India Markets Pvt. Ltd 3
+Maersk Oil Research & Technology Centre 3
+CETCO Energy Services 3
+Department of Chemical Engineering Isfahan University of Technology 3
+Halliburton Energy Service 3
+Clayton Williams Energy Inc. 3
+BG Egypt 3
+Shell International E & P 3
+Endeavor Energy Resources 3
+SINTEF Materials & Chemistry 3
+Det Norske Oljeselskap ASA 3
+ENI Norge AS 3
+Equion Energia Limited 3
+Shell Projects & Technologies 3
+Shell Projects & Technology 3
+Texas A&M University At Qatar 3
+BP Exploration Ltd. 3
+Pinnacle—A Halliburton Service 3
+Huisman Well Technology 3
+Gas Hydrate and Flow Assurance Laboratory Petroleum Engineering Program Department of Ocean Engineering Indian Institute of Technology Madras Chennai - 600 036 India 3
+TOTAL E&P Angola 3
+TOTAL E&P 3
+C&J Energy Services 3
+Sabre Companies 3
+DynaEnergetics 3
+eni 3
+eni US Operating Co. Inc. 3
+Texas A&M University-Kinsville 3
+Schlumberger Technology Corp 3
+Math2Market 3
+Eni Spa 3
+Rainbow Ceramics 3
+Shell Global Solutions (US) Inc. 3
+National University of Singapore 3
+Centre for Enhanced Oil Recovery and CO2 Solutions Institute of Petroleum Engineering Heriot-Watt University Edinburgh 3
+Total SA Pau France 3
+Shell Global Solutions International B.V 3
+School of Chemical Engineering Oklahoma State University 3
+Painted Pony Petroleum Ltd 3
+ExxonMobil URC 3
+Cenovus Energy Inc. 3
+Vallourec 3
+The University of Texas at Austin; Håkon Høgstøl Statoil 3
+Chinh Nguyen & Ken Russell Chevron Australia 3
+Deep Casing Tools 3
+Total E&P Qatar 3
+Abu Dhabi Company For Onshore Petroleum Operations Limited 3
+Tridiagonal Solutions Inc. USA 3
+RasGas Company Limited 3
+OMV Exploration & Production GmbH 3
+The Erosion/Corrosion Research Center The University of Tulsa 3
+University Louisiana State 3
+FracKnowledge Cory Larsen 3
+Department of Mathematics and Natural Science 3
+Access ESP 3
+Faculty of Petroleum Engineering in China University of Petroleum 3
+LLC Gazpromneft Science & Technology Center 3
+Shell International E&P. 3
+Carbon Storage Research Center Department of Earth Science & Engineering Imperial College London 3
+Interwell 3
+PTC 3
+Shell Global Solutions Int. BV 3
+State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation Southwest Petroleum University 3
+ESG Canada Inc. 3
+CMG 3
+Restrack 3
+Extraction Oil & Gas 3
+Sasol USA Corporation 3
+King Fahd University of Petroleum and Mineral 3
+Aramco Services Company 3
+PE&D SAUDI ARAMCO 3
+University of Louisiana 3
+(Restrack) 3
+Add Energy 3
+Tarim Research Institute of Petroleum Engineering China National Petroleum Corporation 3
+Abu Dhabi Company for Onshore Petroleum Operations ADCO 3
+Kuwait Gulf Oil Co. 3
+Staatsolie Maatschappij Suriname N.V. 3
+NIS 3
+National Oilwell Varco M/D Totco 3
+Encline Artificial Lift Technologies LLC 3
+Unimin Corporation 3
+Aalborg University 3
+Canrig Drilling Technology 3
+Stim-Lab Division of Core Laboratories 3
+Materia Inc. 3
+Shell International Exploration & Production Co. 3
+China University of Petroleum and State Key Laboratory of Petroleum Resources and Engineering 3
+University of Alaska 3
+Eni S.p.A. 3
+Deep Gulf Energy 3
+School of Petroleum and Geological Engineering The University of Oklahoma 3
+Energy & Geoscience Institute University of Utah 3
+ExxonMobil Corporate Stategic Research 3
+SSi Artificial Lift a Tundra Process Solutions Ltd. 3
+Tarim Oilfield Company-PetroChina 3
+LLC Gazpromneft Science and Technology Center 3
+the University of Texas at Austin 3
+Pason Systems 3
+Midwestern State University 3
+NCS MultiStage 3
+Oil India Limited 3
+The University of Utah 3
+Tapstone Energy 3
+China University of Mining and Technology 3
+Houston Advanced Research Center 3
+Schlumberger Congo 3
+GroundMetrics Inc. 3
+TWI Ltd. 3
+HGL Dynamics Ltd. 3
+BiSN 3
+UiS 3
+Pioneeer Natural Resources 3
+University of Okalhoma 3
+Centre for Enhanced Oil Recovery and CO2 Solutions Heriot-Watt University 3
+GATE Energy LLC 3
+Eni s.p.a. 3
+Oxiteno Company 3
+University of Calgary Canada 3
+Suez University 3
+UFRGS – Universidade Federal do Rio Grande do Sul 3
+Institute of Chemical and Engineering Sciences Agency for Science Technology and Research A*STAR 3
+Silverwell Energy 3
+Southwest Petroleum University China 3
+Baker Hughes GE 3
+Devon Canada Corporation 3
+Petrospec Engineering Inc. 3
+Salamander Solutions Inc. 3
+American Air Liquide 3
+Innotech Alberta 3
+Cimarex 3
+Chevron U.S.A. Inc 3
+Petronas Sdn. Bhd. 3
+Shell Exploration and Production 3
+NCOC N.V. 3
+Equion Energía 3
+North Caspian Operating Company NV 3
+Repsol Technology Lab 3
+Universitat de Barcelona 3
+Odessa Separator Inc. 3
+Beijing Research Center CNOOC China Co. Ltd 3
+Interface Fluidics Limited 3
+EnQuest 3
+Department of Energy and Mineral Engineering and EMS Energy Institute The Pennsylvania State University 3
+Ecole Polytechnique 3
+LLC Gazpromneft STC 3
+Ashaw Energy 3
+TOTAL SA 3
+Hildebrand Department of Petroleum and Geosystems Engineering The University of Texas at Austin Austin TX 78712 USA 3
+Baker Hughes Russia 3
+Moscow Institute of Physics and Technology Center for Engineering and Technology 3
+Skolkovo Institute of Science and Technology 3
+Universidade Federal da Bahia 3
+ExxonMobil Upstream Integrated Solutions 3
+Gazpromneft-GEO LLC 3
+Archer 3
+Newcross EP 3
+PRI Operating 3
+The Ohio State University 3
+Imperial 3
+Federal University of Espírito Santo 3
+Exploration and Production Services Ltd. 2
+Mobil Oil Canada 2
+Baker Performance Chemicals Inc. 2
+Bechtel Petroleum Operations Inc. 2
+U. of Alaska-Fairbanks 2
+Stanford U./Elf Aquitaine 2
+Inst. du Petrole Francaise 2
+Japan Oil Development Co. Ltd. 2
+Esso Production Malaysia Inc. 2
+BP Intl. 2
+SlimDril Intl. Inc. 2
+Hungarian Hydrocarbon Inst. 2
+OKGT 2
+Groundwater Technology Inc. 2
+Jerry R. Bergeson and Assocs. 2
+Guydon Software Services 2
+Mobil Exploration and Producing Inc. 2
+Exxon Research & Engineering Co. 2
+Southern Illinois U. 2
+National Oilwell 2
+Xian Jiaotong University 2
+Freeport McMoran 2
+Electric Power Research Inst. 2
+British Gas 2
+Phase Dynamics Inc. 2
+Computer Enhanced Artificial Lift Consulting Inc. 2
+Paragon Engineering Services 2
+Schlumberger Technical Services 2
+Hughes Tool Co. 2
+Mobil Oil Corp. 2
+Techaid Corp. 2
+Teleco Oilfield Services 2
+Norsk Hydro Research Centre 2
+ARCO Intl. Oil and Gas Co. 2
+Nalco Chemical Co. 2
+Marathon Oil U.K. Ltd. 2
+U. Pierre & Marie Curie 2
+Amoco Production Research 2
+Teleco Oilfield Services Inc. 2
+BecField Drilling Services 2
+New Mexico State U. 2
+Marathon Oil UK Ltd. 2
+ECL-Bergeson Petroleum Technologies Inc. 2
+Memorial U. 2
+Lufkin Industries Inc. 2
+Exxon Research and Engineering Co. 2
+Dubai Petroleum Co. 2
+Sonat Exploration Co. 2
+High Pressure Integrity Inc. 2
+Squire Sanders and Dempsey 2
+NIPER 2
+Inst. Frangais du Petrole 2
+Nigerian Natl. Petroleum Corp. 2
+Pall Corp. 2
+Remediation Technologies Inc. 2
+Enhanced Petroleum Technology Inc. 2
+Ohio U. 2
+Radian Corp. 2
+American Petroleum Inst. 2
+Alberta Energy Co. Ltd. 2
+Eludes and Productions Schlumberger 2
+Reservoir Imaging Inc. 2
+Life Space Technology Inc. 2
+Christian Michelsen Inst. 2
+David K. Davies and Assocs. Inc. 2
+U. of Aberdeen 2
+Schlumberger Middle East S.A. 2
+Pennzoil E and P Co. 2
+Edinburgh Petroleum Services Ltd. 2
+Well Flow Dynamics A.S. 2
+INRIA 2
+Exxon Chemical Co. 2
+CER Corp. 2
+New Mexico Inst. of Mining and Technology 2
+ResTech Pittsburgh 2
+Murphy E and P Co. 2
+Maersk Oil and Gas 2
+EXLOG Inc. 2
+Texas E and P Inc. 2
+ARCO Long Beach Inc. 2
+The ComPort Computing Co. 2
+ResTech Houston 2
+Reed Tool Co. 2
+N.E.M. Swedan 2
+U. of Southwestern Louisiana 2
+Mobil E and P Technical Center 2
+Anadrill Schlumberger 2
+Petroconsultants Inc. 2
+Gaffney Cline and Assocs. 2
+Magna-Flow Inc. 2
+Esso Norge A/S 2
+Penetrators Inc. 2
+Inst. Technology Bandung 2
+The Technical U. of Denmark 2
+Marquip Inc. 2
+Orbis Engineering Inc. 2
+Intl. Petroleum Enterprises 2
+Reservoir Characterization Research and Consulting 2
+Australian Petroleum Cooperative Research Centre 2
+Chevron Research and Technology Co. 2
+Environmental Systems and Technologies Inc. 2
+Petrotek Engineering Corporation 2
+U. of Illinois 2
+State U. of Campinas 2
+Oil Dynamics Inc. 2
+Meridian Oil Inc. 2
+U. de Bordeaux 2
+Bannon Energy Inc. 2
+Nagoya U. 2
+U. of Kansas 2
+Meridian Exploration Corp. 2
+Landfill Energy Associates 2
+Elf Petroleum Nigeria Ltd. 2
+Lomax Exploration Co. 2
+U. of Newcastle upon Tyne 2
+Shell Research 2
+Maersk Oil & Gas AS 2
+Barrett Resources Corporation 2
+Harbison-Fischer Manufacturing Company 2
+Stanford University Department of Petroleum Engineering 2
+ParaMagnetic Logging Inc. 2
+Dewan & Timko Inc. 2
+Alfa Laval Separation Inc. Oilfield Division 2
+Intera Information Technologies Inc. 2
+Center for Hydrates Research Colorado School of Mines 2
+Computational Mechanics Company Inc. Austin TX 2
+Texaco E&PTD Houston TX. 2
+S.A. Holditch and Associates 2
+Elf-Aquitaine 2
+Halliburton Energy Services. 2
+University of Oklahoma FFCF 2
+U. of Illinois at Chicago 2
+Maxus Energy Corporation 2
+Delft U. of Technology Centre for Technical Geoscience (CTG) 2
+Delft U. of Technology CTG 2
+Enron Oil and Gas Company 2
+Hitec AS 2
+CorrOcean as 2
+Geological Survey of Denmark 2
+Pennzoil E&P Exploration Co. 2
+Sonat Offshore Drilling Inc. 2
+OGCI Management 2
+AMBAR Laboratories 2
+OSIRO Petroleum 2
+Westport Technology Center Intl. 2
+British Geological Survey 2
+Enron Oil & Gas Co. 2
+NIPER/BDM-Oklahoma Inc. 2
+Shell Research BV 2
+LSU Center for Energy Studies 2
+Mobil Exploration & Producing U.S. Inc. 2
+Z&S Consultants Inc. 2
+Schlumberger Wireline and Testing 2
+Department of Petroleum Engineering Texas A&M University 2
+Direction Focus 2
+Elf Aquitaine production 2
+PANACO Inc. Houston 2
+READ Group A.S. 2
+AGIP 2
+South Dakota School of Mines and Technology 2
+API 2
+Norsk Hydro Production a.s 2
+Shell E & P Company 2
+University of California 2
+Amoco Exploration and Production Technology Group 2
+CUKL 2
+Biostar Technologies 2
+Gustavson Associates Inc. 2
+Texaco - Angola 2
+Center For Engineering Research Inc. 2
+Baker-Hughes INTEQ 2
+Terralog Technologies 2
+Resource Services International Inc. 2
+Norwegian Geotechnical Institute 2
+Resources Engineering Systems 2
+Western Atlas International 2
+TBC-Brinadd 2
+M-I Drilling Fluids 2
+Parker and Parsley Petroleum Co. 2
+GRI 2
+Shell Oil Products Co. 2
+BP Exploration and Operating Co. Ltd. 2
+Schlumberger-GeoQuest 2
+Sintef 2
+Integrated Petroleum Technologies 2
+Univ. of Bergen 2
+ProTechnics International 2
+Institut Francis du Petrole 2
+Amoco Tulsa Technology Center 2
+Real Time Diagnostics 2
+Esso Norway 2
+The University of Tulsa at NIPER 2
+Research Institute of Daqing Oil Production Technology 2
+Corpoven S.A 2
+Snyder Oil Co. 2
+Unocal Corporation 2
+Dietz Laboratory for Petroleum Engineering 2
+Western Altas Logging Services 2
+Fracturing Fluid Characterization Facility 2
+Expro North Sea Limited 2
+Chemical Tracers Inc. 2
+Chevron Western Basins Group 2
+Elf Exploration UK plc 2
+ARCO Western Energy 2
+Elf Petroleum Norge 2
+Suez Oil Company 2
+Saudi Aramco. 2
+ENI S.p.A.- Agip Division 2
+Elf EP 2
+Alfa Laval Separation Inc. 2
+BioProducts Inc 2
+Chevron Production Technology Company 2
+Solutions Engineering 2
+William M. Cobb & Associates Inc. 2
+Kenonic Controls Ltd. 2
+MASTER Lab University of Bordeaux 2
+Grant Prideco Inc. 2
+S.A. Holditch & Assocs. 2
+Unichem 2
+Deft University of Technology 2
+Shell Expro 2
+VNIIBT the Perm Branch 2
+Brunei Shell Petroleum Co. Sdn. Bhd. 2
+European Oilfield Speciality Chemicals Association 2
+Baroid Drilling Fluids Inc. 2
+Amoco Exploration & Production Technology Group 2
+Amoco Exploration and Production Co. 2
+Norske Conoco AS 2
+Texaco Exploration and Production Technology Department 2
+NAMAR 2
+HOT Engineering Leoben 2
+Spirit Energy 76 Unocal 2
+Rock Mechanics Institute 2
+Nalco-Exxon Energy Chemicals Ltd. 2
+The Erosion/Corrosion Research Center 2
+Texaco E&P Technology Dept. 2
+U.S. Geological Survey 2
+BP Amoco E&P 2
+Middle East Technical U. 2
+Duane Canny Baker Hughes INTEQ 2
+The Erosion/Corrosion Research Center Department of Mechanical Engineering The University of Tulsa 2
+A.D.C.O. 2
+Micro-Bac International Inc. 2
+Center for Energy Studies Louisiana State University Baton Rouge LA 70803 2
+David K. Davies & Associates Inc. 2
+NMPRRC 2
+CSIRO - Australia 2
+ABB Industri AS 2
+Center for Biofilm Engineering Montana State University 2
+CPS Inc. 2
+Akita Univ. 2
+Saskatchewan Research Council 2
+ENI-Agip Division 2
+Kerr-McGee Corporation 2
+Veritas Exploration Services 2
+Sumitomo Metal Technology Inc. 2
+ICF Consulting 2
+Stavanger University 2
+Pecos Petroleum Engineering 2
+Pera 2
+Alfa Laval Oilfield 2
+Holditch - Reservoir Technologies Consulting Services 2
+Institute for Corrosion and Multiphase Technology Ohio University 2
+The Pennsylvania State University University Park 2
+Well Construction Technology Center University of Oklahoma 2
+Stim-Lab. Inc. 2
+Arabian Oil Company Ltd. 2
+Landmark Drilling & Well Services 2
+TNO Building and Construction Research 2
+Hungarian Oil and Gas Co. Hungary 2
+ARCO Indonesia Inc. 2
+National Center for Scientific Research "Demokritos" GREECE 2
+IRM 2
+Baroid A Division of Halliburton Energy Services 2
+Honeywell Solid State Electronics Center 2
+PHH Petroleum Consultants Ltd. 2
+YPF S.A. Comodoro Rivadavia Argentina 2
+Elf Exploration & Production 2
+COMCO 2
+ARCO Technology and Operations Services 2
+Ryder Scott Company Petroleum Consultants L.P. 2
+Plains Resources Inc. 2
+PricewaterhouseCoopers LLP 2
+Brown & Root Energy Services 2
+Technip USA 2
+Aqua Technologies Inc. 2
+Questa Engineering Corp. 2
+Texaco E&P 2
+EniTecnologie S.p.A. 2
+Chevron Oil Co. 2
+Multiphase Technologies 2
+Colt Engineering Corporation 2
+Lawrence Livermore National Laboratory 2
+McGill University 2
+Stolt Offshore 2
+Sperry Sun Drilling Services 2
+Bureau Veritas 2
+Rhodia HPCII 2
+Shengli Petroleum Administration Bureau 2
+Kvaerner Process Systems 2
+PES 2
+GeoKnowledge AS 2
+Advanced Reservoir Technologies Inc. 2
+OXY USA 2
+Ely & Associates 2
+StimLab 2
+Amerada Hess A/S 2
+BG International 2
+EPS Ltd. 2
+Geomatrix Consultants 2
+DB Robinson Research Ltd. 2
+BPAmoco 2
+Gemini Solutions 2
+Wood Group 2
+Empresa Colombiana de Petroleos Ecopetrol 2
+Cenergys 2
+Advanced Resources Intl. 2
+PDVSA-INTEVEP 2
+SINTEF Applied Chemistry 2
+Enhanced Well Stimulation Inc. 2
+LLNL 2
+SB Rotashake AS 2
+Berkley Petroleum Inc. 2
+Institut de Mecanique des Fluides de Toulouse 2
+Analatom Inc. 2
+Irrgang Reservoir Management 2
+Terralog Technologies USA Inc. 2
+ECOPETROL-ICP 2
+University of Strathclyde 2
+Epic Consulting Ltd. 2
+Hunt Wallace & Associates 2
+Enterprise Oil 2
+Schlumberger Aberdeen 2
+ExxonMobil Research & Engineering Company 2
+Upstreaminfo.com Inc. 2
+R J Brown Deepwater Inc. 2
+Amerada Hess 2
+CTES 2
+Indeva Energy Consultants Ltd. 2
+Petrobras Colombia 2
+TotalFinaElf Exploration Norge AS. 2
+Kuwait Oil Company K.S.C. 2
+Shell International E&P Rijswijk 2
+PROMORE Engineering Inc. a division of Core Laboratories 2
+Stim Lab. Inc. 2
+TotalFinaElf Exploration UK plc 2
+Shell Int. E & P. Inc. 2
+UT Austin 2
+J. Murtha & Associates 2
+ENI Agip 2
+Welltec Well Technologies 2
+Jaycor Inc. 2
+Schlumberger Drilling and Measurements 2
+Talisman Energy UK Ltd. 2
+Belco Energy 2
+PROMORE Engineering Inc. 2
+Monterey Bay Aquarium Research Institute 2
+GPC 2
+Exploration Group of TARIM Oilfield Company Petrochina 2
+Telemark University College 2
+Micro-g Solution Inc. 2
+Schlumberger Reservoir Completions Center 2
+U. Alabama 2
+Direct Energy 2
+Murphy E & P 2
+RWE-DEA A.G. 2
+U. of Bergen Norway 2
+Total Fina Elf E&P Norge 2
+ENI-Agip SpA 2
+Parker Geoscience Consulting 2
+Elpaso Energy 2
+Baker Atlas Geoscience 2
+Baker Atlas Houston 2
+Schlumberger OilField Services 2
+Barree and Associates 2
+Kvaerner Process Systems US 2
+Valenti Engineering Services 2
+Venoco Inc. 2
+Accenture 2
+Ourhoud Organisation 2
+SENSA-Schlumberger 2
+Shell Petroleum Development Company Nigeria 2
+Universidad del Zulia 2
+TFE 2
+Adelaide University 2
+Reeves Oilfield Services 2
+Mexican Petroleum Institute 2
+Universite de Bretagne Occidentale 2
+Universidad Simon Bolivar 2
+Real Options Software Inc. 2
+Halliburton Energy Services Houston Texas 2
+Atemis Technologies 2
+NMRPlus Inc. 2
+PDV EPM 2
+Universidad de Oriente 2
+U.C. Berkeley / Lawrence Berkeley National Laboratory 2
+Halliburton Canada 2
+UAB Minijos Nafta 2
+CiDRA Corp. 2
+Sensa Schlumberger 2
+Advantek International 2
+AgipPetroleum 2
+Andergauge 2
+Markwest Hydrocarbons 2
+Gulf of Suez Petroleum Company 2
+Pluspetrol 2
+Nexen Petroleum International Ltd. 2
+TTG Systems Inc. 2
+El Paso Production Co. 2
+University of Maryland 2
+Total Indonesia 2
+Schlumberger K. K. 2
+Abu Dhabi Company for Onshore Oil Operations ADCO 2
+Smith Services Smith International Inc. 2
+Varco International 2
+Dubai Petroleum Company 2
+TNO - NITG 2
+Norton Proppants Inc. 2
+OMNI Laboratories Inc. 2
+Viking Engineering L.C. 2
+Applied Computer Engineering 2
+University College London 2
+OptTek Systems 2
+BP Norway 2
+Subsea MudLift Drilling Company LLC. 2
+David Brown Guinard Pumps 2
+Japan Petroleum Exploration Co. 2
+Institute for Computational and Engineering Science 2
+Shrieve Chemical Products 2
+BP-GUPCO 2
+National Energy Technology Laboratory/EG&G 2
+National Energy Technology Laboratory/Parsons 2
+Foster Wheeler 2
+BP-America Inc. 2
+Jet Research Center a division of Halliburton Energy Services Inc. 2
+Malkewicz Hueni Associates Inc. 2
+The National Oil Co.S.N.P. "Petrom" S.A. 2
+KUFPEC 2
+ETAP 2
+VSFusion A Baker Hughes - CGG Company formerly Baker Atlas 2
+EnerSea Transport LLC 2
+Veritas GeoServices 2
+GD Solutions C.A. 2
+Occidental Petroleum Corporation 2
+Petro-Canada Oil and Gas 2
+China University of Geosciences 2
+Petroleos de Venezuela 2
+Petrobras/Cenpes 2
+Ameriven 2
+FracTech Ltd. 2
+Ross Petroleum Limited 2
+China National Offshore Oil Corporation 2
+FMC Kongsberg Subsea 2
+Geomega 2
+Taxonomy Strategies 2
+Shell Petroleum Development Company of Nigeria Limited 2
+Baker Nigeria Limited 2
+Hanyang Univ. 2
+QuantX Wellbore Instrumentation 2
+PetroTel Inc. 2
+Landmark Graphics Corporation Halliburton 2
+Total E&P UK GRC 2
+Varco Drilling Equipment 2
+Coats Engineering 2
+NTNU & PERA 2
+Thermal Science Inc. 2
+Tube-Alloy Products 2
+National Technical University of Athens Greece 2
+Sandia National Laboratory 2
+NATCO Group Inc. 2
+The University of Alabama 2
+Devon Energy Houston TX 2
+Australian National U. U. of New South Wales 2
+ENI E & P Division Italy 2
+Precision Drilling Services UK Ltd. 2
+The University of Alberta 2
+Anadarko Corp. 2
+Exploration Department of North China Oil Field Corporation PetroChina 2
+Chief Oil and Gas LLC 2
+Ross Petroleum 2
+Baker Atlas/INTEQ UK 2
+The Expro Group 2
+BJ Process & Pipeline Services 2
+Drilling Management International 2
+Amerada Hess Thailand 2
+Cameron Drilling Systems 2
+BP Exploration Limited 2
+Shell U.K. Ltd. 2
+Reservoir Services WesternGeco 2
+TEA Sistemi 2
+Burleson Exploration 2
+WVU 2
+Patina Oil & Gas Corporation 2
+Schlumberger Stavanger Norway 2
+Gulf of Suez Petroleum Co. 2
+GEUS 2
+Western Research Institute 2
+Maurer Technology Inc. 2
+Halliburton Intl. Inc. 2
+Invensys 2
+Shell International Exploration 2
+Quicksilver Resources Inc. 2
+MGV Energy Inc. 2
+Petrotel Inc. 2
+Lundin Norway as 2
+CIMAREX 2
+MJE Consultants Inc. 2
+BP Exploration & Production 2
+Chevron North America E&P Co. 2
+Vallourec & Mannesmann O&G 2
+Schlumberger DCS 2
+E&P Tech. Inc. 2
+Tech 21 Engineering Solutions Ltd. 2
+Moscow State Geological Prospecting Academy 2
+Epic Consulting Services Ltd 2
+BJ Services Do Brasil Ltda. 2
+BJ Services Ltd. 2
+Williams Production 2
+Norsk Hydro - Oil & Energy 2
+Efficient Solutions inc. 2
+Chevron Technology Co 2
+Abu Dhabi Company for Onshore Oil Operations 2
+Scandpower P.T. 2
+Welltec Inc. 2
+Southwestern Energy Prod. Co. 2
+Occidental Petr. Inc. 2
+Total E&P Norge AS 2
+Inst Tec de Celaya 2
+Exploitation Technologies LLC 2
+MMS 2
+Devon Energy Corp. 2
+ASGA 2
+Ecole Nationale Superieure 2
+U. of Alaska 2
+Maharashtra Inst. of Technology 2
+AAPG 2
+Superior Energy Services LLC 2
+ENI Exploration & Production Div 2
+Al Furat Petroleum Company 2
+Schlumberger Tech Services 2
+Zhongyuan Petroleum Exploration Bureau SINOPEC 2
+Earth Decision Sciences 2
+U.S. Dept. of Energy 2
+Great Lakes Energy Partners LLC 2
+Shell Venezuela S.A. 2
+Occidental Exploration and Production Co. 2
+Corac Group plc 2
+J. Murtha & Assocs. 2
+FracTech Ltd 2
+Edinburgh Petroleum Svcs. Ltd. 2
+Shell E&P Asia Pacific 2
+Saville Solver Ltd 2
+ENI International Resources Limited 2
+ENI Agip SpA 2
+Knowledge Reservoir LP 2
+Kuwait Gulf Oil Company 2
+PICO 2
+ABB Corporate Research Center 2
+New Mexico Recovery Research Center 2
+Shell International B.V. 2
+Well Dynamics Inc. 2
+Direct Geochemical 2
+CW Resources Inc. 2
+Decision Frameworks 2
+ENI S.P.A. 2
+Coupler Development Ltd 2
+Vetco 2
+Groupment Sonatrach-Agip 2
+Shell Brasil S.A. 2
+GeoMechanics International Inc. 2
+Schlumberger Maturin 2
+Institute of Physics of Earth RAS 2
+Drillscan 2
+IRIS LLC 2
+Schlumberger Overseas S.A. 2
+Petronas Research & Scientific Services 2
+Mining U of Leoben 2
+ENI Tecnologie 2
+PERTAMINA 2
+No. 1 Oil Production Co. Daqing Oilfield Co. Ltd. 2
+Statoil Stjordal 2
+CIDRA Corp. 2
+Halliburton Digital and Consulting Solutions 2
+TNO Inst. Appl. Geosciences 2
+Petrotechnical Resources-Alaska 2
+Petro Canada Oil & Gas 2
+Caledus Ltd. 2
+AMEC 2
+Weatherford Colombia Ltd 2
+Middle East Tech U. 2
+LEPT - ENSAM 2
+ChevronTexaco USA 2
+Joint Operating Body Pertamina-Hess Jambi Merang 2
+Moscow Inst - Physics & Technolo 2
+Sinopec Expl & Prod Rsch Inst 2
+Natco Group Inc 2
+China Offshore Oil Co. 2
+Range Resources Corp. 2
+Evans Engineering Inc. 2
+Sinopec Oil Company 2
+PETRONAS Carigali Sdn. Bhd. 2
+Petronas Reserach Sdn Bhd 2
+ROSNEFT 2
+PLTech LLC 2
+Lundin Norway 2
+Daleel Petroleum Co 2
+Crimson Energy Co. 2
+New Tech Engineering LP 2
+E.ON Ruhrgas 2
+Kuwait U. 2
+Conoco Phillips 2
+Schlumberger S.A. 2
+Centre for Integrated Petroleum Research 2
+Energistics Inc. 2
+Idaho National Laboratory 2
+University of Pau 2
+Frac Tech Services Ltd 2
+Nance Petroleum Corp. 2
+Shell Nigeria Exploration and Production Company 2
+Expro International Group PLC 2
+ConocoPhillips Australia 2
+U. of Texas Permian Basin 2
+Vibration Technology 2
+Tsinghua Unversity 2
+Pengrowth Corp. 2
+Hydro Oil & Energy 2
+IntelliServ 2
+Schlumberger Italiana SPA 2
+Energy Resources Conservation Board 2
+GE Energy Oilfield Technology 2
+AMEC Paragon 2
+Missouri U of Science & Tech 2
+Higgs-Palmer Technologies 2
+Schlumberger STS 2
+Hunting Energy Servc Inc. 2
+CPGE 2
+Apache Energy Ltd. 2
+Schlumberger Doll-Research 2
+AGIP Oil Ecuador 2
+Pride - San Antonio 2
+GEODynamics Inc. 2
+Weatherford Canada Partnership 2
+Epi-V 2
+Nexen Petroleum USA Inc. 2
+Talisman Malaysia Ltd 2
+University of Rochester 2
+Sperry-Sun Drilling Services/Halliburton 2
+BJ Services Middle East 2
+U of Wyoming 2
+Amir-Kabir U of Technology 2
+Sakhalin Energy Investment Company Ltd 2
+BP Egypt 2
+VAM Drilling 2
+BG Group plc 2
+Smith Technologies 2
+Weatherford ALS 2
+Sam Houston State University 2
+Interpretive Software Products 2
+Rally Energy 2
+Berry Consultants 2
+Intelligent Agent Corp 2
+Russian State Geological Prospecting University 2
+Sinopec 2
+Japan Oil Gas and Metals National Corporation 2
+OilProduction.net 2
+Baroid Fluids Services 2
+Ingrain Inc 2
+TEXAS A&M U 2
+Sonangol P&P 2
+Andes Petroleum Co. Ltd. 2
+Halliburton de Venezuela 2
+Exponent Failure Analysis Assocs. 2
+Paramount Resources 2
+DBR Technology Center Schlumberger 2
+CarigaliHess 2
+Hess Oil & Gas Sdn Bhd 2
+Terralog Technologies USA 2
+Schlumberger China 2
+University of New Brunswick 2
+Langfang Branch of RIPED 2
+ExxonMobil Research & Engrg 2
+Samara State Technical University Samara Russia 2
+Shell UK Ltd. 2
+Universidad Industrial de Santander 2
+Ansys Inc 2
+Flowserve Corporation 2
+APC 2
+El Paso E&P Co. 2
+Shell UK 2
+NAE 2
+Allied Energy Corporation 2
+Oxand 2
+Queensland Gas Co Limited QGC 2
+Anschutz Exploration Corp. 2
+ENGP - EP / COMP - Corporativo - PetrC3leo Brasileiio S.A. 2
+Stogit 2
+Statoil Hydro 2
+PETROBRAS Energia S.A 2
+OMV Austria E&P 2
+Maersk 2
+OMV New Zealand Ltd. 2
+Talisman Energy Inc. 2
+GE Oil & Gas - Drilling & Production 2
+Xgas 2
+Viking Moorings AS 2
+Slawson Exploration Co. Inc. 2
+Oxy 2
+Imerys Oilfield Minerals 2
+Bazan Consulting Inc 2
+Altran Italia 2
+ERSE S.p.A. 2
+APS Technology Inc. 2
+Total E&P UK 2
+The Nature Conservancy 2
+Santa Maria Pacific LLC/REA 2
+Karachaganak Petroleum Operating BV 2
+Sumitomo Metals Industries Ltd. 2
+TNO Built Environment & Geosciences 2
+Ecole Polytechnique de Montreal 2
+Technip 2
+Hexion Specialty Chemicals 2
+Mississippi State University 2
+FOI Technologies 2
+Enhanced Oil Resources Inc. 2
+Canadian Natural Resources Ltd 2
+Sarawak Shell Bhd 2
+SPT Group A/S 2
+Chevron North Sea Ltd 2
+BGP / CNPC 2
+Halliburton Energy Services Egypt Ltd. 2
+Carnegie Mellon University 2
+Texas Christian University 2
+ShangHai University 2
+K.O.C. 2
+China U. of Petroleum East 2
+Oregon State U 2
+ExxonMobil Research and Engineering 2
+RC Tolman LLC 2
+ESK Ceramics GMBH Co KG 2
+Andes Petroleum Ecuador Ltd. 2
+National Oceanography Centre 2
+U.S. Silica Company 2
+Cenovus Energy Inc 2
+DNV 2
+American Shale Oil LLC 2
+Pinnacle A Halliburton Service 2
+El Paso EP Co 2
+Magnum Oil Tools International 2
+Universidad Central de Venezuela 2
+Grupo C&C Energia Barbados 2
+Texas American Resources Company 2
+Sanjel Corp. 2
+MI3 Petroleum Engineering 2
+SafeKick 2
+EF Energy LLC 2
+Seneca Resources 2
+Shell UA - Deepwater 2
+Intertek Westport Technology Center 2
+Schlumberger Oilphase-DBR USA 2
+XGas 2
+PDC Mountaineer 2
+Exxon Upstream Research Co. 2
+China Pingmei Shenma Group 2
+Itasca International 2
+Eni Australia Ltd 2
+ION Geophysical Corporation 2
+Leoben University 2
+Baker Hughes International 2
+Total EP Norway 2
+Texas A&M University System 2
+Lukoil 2
+Schlumberger Offshore Svcs 2
+3ES Innovation Inc. 2
+Baker Hughes Houston 2
+Maurel et Prom Colombia 2
+ESK Ceramics Gmbh Co Kg 2
+RAG Rohoel-Aufsuchungs Aktiengesellschaft 2
+Port & Airport Research Institute 2
+AnTech Ltd 2
+Petroleum Engineering Dept. The University of Texas at Austin 2
+Bureau of Economic Geology University of Texas at Austin 2
+Schlumberger EMI Technology Center 2
+Eni e&p 2
+Tecnomare 2
+Petrleo Brasileiro S.A. 2
+Trimeric Corp 2
+Dong Energy 2
+Baker Hughes Oilfield Opns 2
+Halliburton Nigeria Ltd. 2
+PetroAmazonas 2
+Halliburton Energy Services Grp 2
+PETRONAS CARIGALI SDN BHD 2
+SHEAR BITS 2
+Pacesetter Directional Drilling 2
+Shell International E&P (Rijswijk) 2
+Cimarex Energy Company 2
+Oxane Materials 2
+TU Clausthal Zellerfeld 2
+Esso Exploration 2
+AGR EDS-ORS 2
+Technical Expertise Center 2
+eProcess Technologies 2
+OMV Austria 2
+Baker Hughes Ltd 2
+iThemba LABS 2
+Zavanna LLC 2
+Apache 2
+Drill-Sense 2
+Hess Corp 2
+Norwegian University of Science & Technology 2
+Linn Energy LLC 2
+City College New York 2
+TU Clausthal 2
+Senergy Limited 2
+Centrica Plc 2
+Schlumberger Oilfield UK Plc 2
+Repsol S.A. 2
+Apache Energia Argentina 2
+New Mexico Inst-Mining & Tech 2
+Decision Frameworks LP 2
+Decision Frameworks L.P. 2
+Calfrac Well Services Ltd. 2
+RESMAN AS 2
+Marathon Petroleum Norge AS 2
+Aclaro Softworks 2
+Shell Global Solutions UK 2
+Brunei Shell Petroleum Sdn Bhd 2
+Instituto TecnolÃ³gico de Buenos Aires 2
+NOV IntelliServ 2
+Shell India Markets Private Ltd 2
+South Oil Company 2
+GATE Inc 2
+Coral Hill Energy Ltd. 2
+UiT The Arctic University of Norway 2
+MÃ¦rsk Olie og Gas A/S 2
+Maersk Oil og Gas 2
+LR Senergy 2
+Advanced Separation Company (ASCOM) 2
+Halcon Resources 2
+Y-TEC 2
+MIT Pune 2
+Maersk Olie og Gas A/S 2
+Ziebel AS 2
+TNGG 2
+Hocol 2
+Hocol SA 2
+ION Geophysical 2
+Korea Maritime & Ocean University 2
+OTRA 2
+LARSI Depto. de Industrias FCEyN UBA 2
+Eni Div Exploration & Production 2
+Eni Div Exploration and Production 2
+Halliburton International Inc 2
+Centrica Energy Upstream 2
+FracPro 2
+Universidade Estadual do Norte Fluminense 2
+Geomec AS 2
+Dow Chemical Company 2
+International Exploration and Production Corporation SINOPEC 2
+Karamay Oil Company 2
+eni us operating co. inc. (eni) 2
+Centre for Enhanced Oil Recovery and CO2 Solutions Institute of Petroleum Engineering Heriot-Watt University UK 2
+Rig Operations LLC 2
+Cavanaugh Consulting 2
+Colorado School of Mines and Branch Russell Exaro Energy III LLC 2
+CAE 2
+NexenCNOOC Ltd 2
+Fairmount Santrol 2
+Saudi Aramco EXPEC ARC 2
+Rowhill Consulting Group 2
+Expro 2
+GKD 2
+Metarock Laboratories 2
+Shell Brasil Exploration and Production 2
+Shell Global Solution (US) Inc. 2
+Tulsa University Drilling Research Projects 2
+Peltarion Energy 2
+Enersight Corp 2
+California Resources Corporation 2
+Texas A&M U 2
+Wärtsilä Oil & Gas Systems 2
+King Fahd University of Petroleum & Minerals Saudi Arabia 2
+Pluspetrol Peru Corporation S.A 2
+Baker Hughes RDS 2
+Shell Global Solutions International B. V 2
+Water Standard 2
+Landmark-Halliburton 2
+Gubkin Russian State University of oil and gas 2
+PE Halliburton 2
+Petroleum Technology Research Centre (PTRC) University of Regina 2
+McKetta Department of Chemical Engineering University of Texas at Austin USA 2
+Irkutsk Oil Company 2
+McDougall School of Petroleum Engineering The University of Tulsa 2
+Pacific Rubiales Energy 2
+Energy and Environmental Research Center (EERC) 2
+Osmoflo Pty Ltd 2
+Department of Chemical and Petroleum Engineering University of Calgary 2
+University of Stuttgart 2
+Chevron Energy Technology Company USA 2
+University of Western Australia 2
+Utrecht University 2
+Nalcor Energy 2
+DuneFront 2
+Khalda Petroleum Company 2
+University of Science & Technology 2
+Abu Dhabi Company For Onshore Petroleum Operations Ltd. 2
+Institute of Geological Sciences in Shengli Oilfield 2
+Andrews Kurth 2
+Premier Oil 2
+ONERA 2
+ADCIS 2
+Crescent Point Energy 2
+Granherne Inc. a KBR Company 2
+University of Leipzig 2
+Research Institute of Petroleum Exploration & Development – Langfang Branch 2
+YPFB Andina SA 2
+Pioneer Exploration LLC 2
+China National Offshore Oil Corporation Research Institute 2
+Earth Resources Laboratory MIT 2
+Packers Plus Energy Services Inc. 2
+University of Calgary PERM Inc. 2
+GE Oil & Gas - Flow Assurance 2
+Cameron Process Systems 2
+Integrated Production Technologies Limited 2
+FracKnowledge 2
+Institutt for Energiteknikk 2
+Independent Project Analysis Inc. 2
+Department of Petroleum Engineering University of Benin 2
+ExxonMobil Canada East 2
+Trendsetter Engineering 2
+Energy & Geosciences Institute at the University of Utah 2
+Total ABK 2
+Black Hills Exploration and Production Inc. 2
+eDrilling 2
+Wiwat Pattarachupong – PTTEP International 2
+Saudi Arabian Chevron 2
+Department of Environmental Engineering Texas A&M University-Kingsville 2
+Boswell Environmental 2
+Petrostreamz 2
+Oklahoma University 2
+Vedanta Limited: Cairn Oil & Gas 2
+Bazan Consulting Inc. 2
+Sasol Germany GmbH 2
+Coris BioConcept 2
+Esso Norway AS 2
+Shell Exploration & Production Co. 2
+Woods Hole Oceanographic Institution 2
+Murphy Exploration & Production Company 2
+Southwest Research Institute® 2
+Mewbourne School of Petroleum and Geological Engineering University of Oklahoma 2
+NCS Multistage Unlimited Canada Inc 2
+Pegasus Vertex Inc. 2
+TALOS Energy 2
+TOTAL EP 2
+Saudi Aramco Oil Company 2
+Cobalt International Energy 2
+Halliburton-Jet Research Center 2
+Department Industrial & System Engineering The University of Oklahoma 2
+Department of Psychology and The National Institute for Risk & Resilience The University of Oklahoma 2
+Aker BP ASA 2
+King Abdullah University of Science and Technology 2
+Petrolera RN LTD 2
+Siqura B.V. The Netherlands 2
+Intelligent Well Specialists LLC 2
+PetroChina Xinjiang Oilfield Company 2
+CCDC Downhole Service Co 2
+Stochastic Asset Management 2
+Independent 2
+Covey Park Energy 2
+Petrochina Tarim Oilfield Company Southwest Petroleum University 2
+University of Tehran 2
+School of Mining and Petroleum Engineering University of Alberta 2
+Northern Arctic Federal University 2
+Department of Petroleum Engineering King Fahd University of Petroleum & Minerals 2
+Consulting 2
+WellFence LLC 2
+GRi Simulations Inc. St. John's NL 2
+King Fahd University of Petroleum&Minerals 2
+International Association of Oil and Gas Producers 2
+Veolia Water Technologies Los Angeles 2
+Indian Institute of Technology 2
+XACT Downhole Telemetry 2
+PV Fluid Products 2
+Lubrizol Oilfield Solutions 2
+Drill2Frac Inc. 2
+ExxonMobil Research & Engineering 2
+DNO Technical Services AS 2
+McDermott 2
+Shell Exploration and Production Company Inc 2
+Instituto Mexicano del Petróleo 2
+Markel Corporation 2
+Intellicess 2
+Newpark Drilling Fluids S.p.A 2
+PetroChina Zhejiang Oilfield Company 2
+Logicom 2
+Petromar Technologies 2
+Aramco Services Company: Aramco Research Center-Boston 2
+Halliburton Jet Research Center 2
+Abu Dhabi Co for Onshore Petroleum Operations Ltd 2
+Yamal-SPG 2
+Petroleum Systems Engineering University of Regina 2
+EXPEC ARC Saudi Aramco 2
+BiSN Oil Tools 2
+Simtech LLC; The University of Texas at Austin 2
+MI3 Petroleum Engineering Corp. 2
+SAPESCO 2
+Talos Energy 2
+Leader Drilling International 2
+Depth Solutions Ltd. 2
+MaxEUR LLC Emerson Automation Solutions 2
+Shell International Exploration and Production Company 2
+i2k Connect LLC 2
+Flogistix LP 2
+Oxy Oil & Gas 2
+Chevron Corporation – ETC 2
+National Energy Technology Laboratory / Department of Energy 2
+AECOM 2
+Canadian Discovery Ltd. 2
+Abu Dhabi National Oil Company 2
+ADNOC Onshore 2
+Omak Technologies LLC 2
+Khafji Joint Operations 2
+Steria Energy Solutions 2
+QuantumPro Inc. USA 2
+C-FER Technologies 1999 Inc. 2
+Cenovus Energy 2
+Pontifical Catholic University of Rio de Janeiro 2
+Trican Well Service LTD. 2
+SKK Migas 2
+Reservoir Engineering Research Institute Palo Alto CA 2
+SDI 2
+Imperial Oil 2
+Schlumberger Canada 2
+Louisiana State Unviersity 2
+China University of Petroleum - Beijing 2
+OSP Microcheck 2
+STEP Energy Services 2
+Pulse Oil 2
+The University of North Carolina 2
+Kongsberg Digital Inc. 2
+ResFrac Corporation 2
+Petronas Canada 2
+Yangtze University 2
+OptaSense 2
+Independent Resources Management 2
+CNOOC International Limited 2
+Metawater Co. Ltd. 2
+Secretaria de Energia SENER 2
+Agencia de Seguridad Energia y Ambiente 2
+Nabors Drilling Technology 2
+School of Mechanical Engineering Beijing Institute of Petrochemical Technology; Beijing Key Laboratory of Pipeline Critical Technology and Equipment for Deepwater Oil & Gas Development Beijing 102617 China 2
+Murphy Oil Company 2
+Whitson AS NTNU 2
+Exebenus 2
+Colombia 2
+Reservoir Diagnostics Inc. 2
+Hildebrand Department of Petroleum and Geosystems Engineering The University of Texas at Austin TX USA 2
+Metarock Laboratories Houston TX USA 2
+The University of Queensland 2
+Repsol E&P U.S.A. Inc. 2
+Weatherford UK Ltd 2
+Gazpromneft Scientific and Technical Center 2
+Devon Canada 2
+Perm Inc. 2
+Gazpromneft Science & Technology Centre LLC 2
+Ufa Petroleum University 2
+Schlumberger Canada Limited 2
+Pulse Oil Operating Corp 2
+Spark Oil Energy 2
+Gazpromneft Science & Technology Center 2
+Varigrid Explorations Inc. 2
+National Energy Technology Lab 2
+The University of Texas Austin 2
+Al-Khafji Joint Operations 2
+IPCOS Inc. 2
+Petronim Projects 2
+Aristotelian U. 1
+Lille U. 1
+Chemical Waste Management Inc. 1
+U. Of Calgary 1
+Dowdle Fairchild and Ancell Inc. 1
+Holditch S.A. and Assocs. Inc. 1
+Stanford U./Petrobras 1
+Best Equipment Sales and Service 1
+CS Resources Ltd. 1
+Resources Enterprises Inc. 1
+Unocal Indonesia Ltd. 1
+Technical U. Miskolc 1
+First City 1
+T. Scott Hickman & Assocs. Inc. 1
+Santa Fe Energy Resources Inc. 1
+Schlumberger (Nigeria) Ltd. 1
+Don C. Brown and Assocs. 1
+CALtec Limited Subsidiary of BHR Group Ltd. 1
+U. of Arizona 1
+Chevron Services Inc. 1
+THUMS Long Beach Co. 1
+DuPont Environmental Remediation Services 1
+Chevron E&P Services Co. 1
+Logging While Drilling 1
+Holditch S.A. 1
+Total Marine Norsk a.s 1
+Lagoven S.A. 1
+Drilling Research Laboratory 1
+Andergauge Ltd. 1
+Mallon Oil Co. 1
+Mathematical and Computer Services 1
+BP Research Houston 1
+Meyer and Assocs. Inc. 1
+Etudes et Productions Schlumberger 1
+King Fahd U. of Petroleum and Minerals 1
+Williams Petroleum Consulting 1
+ECL Petroleum Technologies 1
+Energy Mines and Sources Canada 1
+U. of Alaska/Fairbanks 1
+Davis-Lynch Inc. 1
+U. of Mexico/IMP 1
+U. of Mexico/Pemex 1
+Zhongyuan Oil Field 1
+Duane Miller and Assocs. 1
+U. of Texas-Arlington 1
+MetFuel Inc. 1
+Holditch S.A. and Assocs. Inc 1
+CNG Development Co. 1
+Smith Intl. 1
+BJA-mentor Production Systems Ltd. 1
+Baker Jardine and Assocs. Ltd. 1
+Pakistan Petroleum Ltd 1
+U. of Akron 1
+International Drilling Fluids 1
+ESCO Energy Inc. 1
+Atkins Oil and Gas Engineering Ltd. 1
+Dowell-Schlumberger 1
+O&apos;Brien Goins Simpson and Assocs. 1
+Texaco U.S.A. 1
+Chevron E and P Services Inc. 1
+Louisiana Tech U. 1
+Norsk Hydro Production 1
+E and P Consultants Ltd. 1
+Cudd Pressure Control Inc. 1
+Don C. Brown and Assocs. Inc. 1
+CK Consulting Inc. 1
+Japan Natl. Oil Corp 1
+Al Furat Petroleum Co. 1
+South Pacific Chevron 1
+MAXUS Southeast Sumatra Inc. 1
+Magellan Petroleum Australia Ltd. 1
+Koch Exploration Co. 1
+F.I.P. Inc. 1
+Gardiner Oil & Gas Ltd. 1
+Amoco Canada Petroleum Co. Ltd. 1
+Chevron Chemical (Canada) Ltd. 1
+Axelson Inc. 1
+Sedco Forex 1
+Natural Gas and Oil Engineering 1
+Rogaland Research Inst. 1
+Petroleum Science and Technology Inst. 1
+ARCO Oil and Gas co. 1
+Petroras/Unicamp 1
+Northern Illinois Gas 1
+Simulation Sciences Inc. 1
+Colorado State U. 1
+Golder Assocs. 1
+Santa Fe Energy 1
+Schlumberger-North America 1
+Unocal N.A. Oil and Gas Div. 1
+Fugro-McClelland Marine Geosciences Inc. 1
+AEA Harwell 1
+Mississippi State U. 1
+Illinois State Geological Survey 1
+BCM Engineers 1
+Bechtel Petroleum Operations 1
+EG and G Energy Measurements 1
+U.S. DOE 1
+Exxon Production and Research Co. 1
+Research & Engineering Consultants Inc. 1
+Conoco Netherlands Oil Co. 1
+Jolen Operating Co. 1
+Noble Drilling Corp. 1
+Phillips Petroleum Co. UK Ltd. 1
+Kerr-McGee Corp. 1
+CNG Production Co. 1
+Numar Corp. 1
+Welchem Inc. 1
+Nabla Corp. 1
+Emertec Developments Inc. 1
+Mobil E and P Services; 1
+Halliburton Logging Services; 1
+Texaco USA 1
+Amerada Hess Norge A/S; 1
+Simtech Consulting Services 1
+CANMET 1
+NERCO Oil and Gas 1
+Geological Survey Canada 1
+Ecole des Mines de Nancy 1
+Isotech Laboratories Inc. 1
+Commission on Professionals in Science and Technology 1
+Petroleum Science Corp. 1
+Sanofi Elf-Biorecherches 1
+The Petroleum Finance Co. Ltd. 1
+Stochastic Systems Intl. 1
+Oil and Gas Consultants Intl. 1
+Southern California Gas Co. 1
+Intera Bergeson 1
+Enron Oil and Gas Co. 1
+British Gas E and P Ltd. 1
+British Gas Ltd. 1
+BHP Petroleum (Americas) Inc. 1
+Tracor Applied Sciences 1
+RMI Environmental Services 1
+Halliburton Logging Services 1
+Towers Perrin 1
+Fairchild Ancell and Wells Inc. 1
+American Oil and Gas Corp. 1
+Western Research Inst. 1
+Texaco E and P Inc 1
+R and H Engineering (1986) Ltd. 1
+Bio-Chem Consulting Services Ltd. 1
+K-Tech Industries 1
+GeoQuest Systems 1
+Chevron Corp.; 1
+Meridian 1
+Bioremediation Consulting Inc. 1
+Texas A and M U 1
+Halliburton Geophysical Services 1
+Metallurgical Consultants Inc. 1
+Yale U. 1
+Texas A and M U. Research and Extension Center at Dallas 1
+Texas A and M University 1
+John M. Campbell and Co. 1
+Petrotech Consultants Inc. 1
+John Wright Co. 1
+Geomatic a.s 1
+Pecten Intl. 1
+Elf Italiana 1
+Rio Linda-Tenneco Inc. 1
+Smedvig Petroservices A/S 1
+A/S Smedvig Drilling Co. 1
+Ball State U. 1
+Michigan Consolidated Gas 1
+The Louisiana Land and Exploration Co. 1
+Metallurgical Consultants 1
+Alpha Environmental Midcontinent Inc. 1
+Alpha Environmental Inc. 1
+Robbins and Myers Inc. 1
+Beard Oil Co. 1
+ResTech Houston Inc. 1
+Pennzoil Producing Co. 1
+Miller Consulting Group 1
+Freeport-McMoRan Oil and Gas Co. 1
+B.P. Taylor and Assocs. 1
+Mobil New Exploration Ventures 1
+Schlumberger-LWD 1
+CS Resources 1
+DB Stratabit 1
+Kiri Consultants Pty. Ltd. 1
+Kailuan Coal Mining Administration 1
+Atwood Oceanics Inc. 1
+Kennedy Enterprises 1
+Shell Development Corp. 1
+Sun Intl. E and P Co. 1
+Technical Software Consultants 1
+Unocal Thailand Ltd. 1
+U. of Qatar 1
+Inst. Mexicano del Petroleo/UNAM 1
+Robert M. Sneider Exploration Inc. 1
+The Quality Advisor 1
+Christenson Engineering Corp. 1
+Chevron U.K. Ltd. 1
+TSI Inc. 1
+Intera Information Technologies 1
+Petrobras S.A./CENPES 1
+Suez Oil Co. 1
+Shell Development Co. (Retired) 1
+Burgess-Manning GmbH 1
+Burgess-Manning Inc. 1
+U. Louis Pasteur 1
+A.J. Scott and Assocs. 1
+Delta Environmental Consultants Inc. 1
+Norwegian Inst. of Technology/Norwegian Computing Center 1
+U. of Liverpool 1
+Atlantic Richfield Co. 1
+Maxus Energy Corp. 1
+DBS 1
+Mobil E and P Technical Center; 1
+Pal-Mix Intl. Ltd. 1
+Texas Instruments Inc. 1
+U. of Kentucky 1
+ARCO British Ltd. 1
+Longyear Oil and Gas Div. 1
+Pertamina R and D 1
+Coopers and Lybrand 1
+Nowcam Services Inc. 1
+McGinnis Industries Inc. 1
+CANMET/ERL 1
+LTV Energy Products (Retired) 1
+Fractech Ltd. 1
+aGmi & Assocs. 1
+Martin-Decker/TOTCO 1
+Radiation Technical Services 1
+Peter Gray and Assocs. 1
+The Gas Research Institute 1
+Juniata College 1
+Hampton Resources Inc. 1
+Utah State U. 1
+Phillips Petroleum Co. United Kingdom Ltd. 1
+U. College of Swansea and Scientific Software-Intercomp U.K. Ltd. 1
+Phillips Petroleum Co. U.K. Ltd. 1
+Center for Effective Leadership 1
+Otis GmbH; 1
+Amir-Kabir U. 1
+Elf Exploration Angola 1
+Robert Truman Inc. 1
+Simulation and Modelling Consultancy Ltd. 1
+ERM-Northwest Inc. 1
+PetroTech Alaska 1
+Brunei Shell Petroleum Company Limited 1
+Intera Petroleum Production Div. 1
+BJ Services Inc. USA 1
+Amoco Performance Products Inc. 1
+Koninklijke/Shell E&P Laboratorium 1
+Bridas S.A.P.I.C. 1
+Snyder Oil Corp. 1
+MEPTEC 1
+Adersa 1
+Pennzoil E & P Company - Reengineering 1
+World Bank 1
+U. of Trondheim 1
+BP Norge U.A. 1
+Amoco Norway Oil Company 1
+Electrofrac Bio Electric Inc. 1
+Kentucky Geological Survey 1
+BET Development Co. 1
+BP Exploration UK 1
+Elf Aquitaine Production France 1
+Drexel Oilfield Services Inc. 1
+Nambe Geophysical 1
+Ely & Assocs. Inc. 1
+J.M. Huber Corp. 1
+Texaco Ltd. 1
+CNG Transmission Corp. 1
+Alberta Dept. of Energy 1
+Arco Permian 1
+Forasol S.A. 1
+BDM-Oklahoma lnc./NIPER 1
+INSA Toulouse 1
+Krebs Engineers 1
+Alliance Engineering Inc. 1
+PechorNIPIneft Inst. 1
+Arco British Ltd. 1
+Maxus S.E.S. Inc. Indonesia 1
+Unicamp/U. of New South Wales 1
+Arco Exploration and Production Technology 1
+Memorial U. of Newfoundland 1
+Allen-Bradley Corp. 1
+Brandsma Engineering 1
+ECOMAR Inc. 1
+Robert Ayers and Associates Inc. 1
+BP Exploration (Colombia) 1
+Inst. Francais du Petrole (IFP) 1
+U. de Oriente 1
+British Gas Plc 1
+Intec Engineering Inc. 1
+Petec A/S 1
+Mobil Exploration and Producing Technical Center 1
+Shell E&P Technology Inc. 1
+Hunt Petroleum Corporation 1
+Trinmar Limited 1
+Earth and Environmental Sciences Div. Los Alamos National Laboratory 1
+Oil&Gas Tek Intl. 1
+Marathon Oil Company U.K. 1
+IPAC 1
+Mobil North Sea Ltd. 1
+Mobil E&P Technology Center 1
+Offshore Structures Inc. 1
+The Louisiana Land & Exploration Co. 1
+Mustang Engineering Inc. 1
+British Petroleum Exploration Colombia 1
+University of Southampton 1
+Triton Energy Corp. 1
+Horizontal Well & Environmental Consultants Inc. 1
+Charles Machine Works Inc. 1
+Deutag Drilling 1
+Total AS. 1
+Shell Western Exploration and Production Co. 1
+Shell NAM 1
+Texas Bureau of Economic Geology 1
+FMC Corporation (UK) Ltd. 1
+Department of Petroleum Engineering Heriot-Watt University 1
+ARCO Indonesia Jakarta Indonesia 1
+ARCO International Oil and Gas Co. Plano U.S.A. 1
+JEORA 1
+Simtech Consulting Services Ltd. 1
+Ecole des Mines de Nancy. 1
+Edcon 1
+CorrOcean Ltd. 1
+B.J. Services Co. Inc. 1
+AMBAR Inc. 1
+Drexel 1
+Shell Research Rijswijk (KSEPL) 1
+Baroid Drilling Fluids Inc. (Dresser Industry Inc. Company) 1
+Aker Omega Inc. 1
+OGCI 1
+University of Petroleum China (Shan-Dong) 1
+Petro-Marine Engineering of Texas 1
+Rogaland University Centre 1
+Esso Norge 1
+Jadmist Pty Ltd. 1
+In-situ Inc. 1
+Broken Hill Proprietary Petroleum Ltd. 1
+Stephen Dean Consulting 1
+EDCON Inc. 1
+National Geodetic Survey 1
+Palantir Exploration Services Inc. 1
+Advanced Resources 1
+Oil Technology Services Inc. (OTS) 1
+New Mexico Tech / Sandia National Laboratories 1
+Amoco Trinidad Oil Company and now Hydrocarbon Outsource Limited 1
+Amoco Trinidad Oil Company now Amoco Exploration and Production 1
+Amoco Trinidad Oil Company now Amoco Egypt 1
+Amoco Trinidad Oil Company 1
+Mobil North Sea Inc. 1
+PERTAMINA E&P 1
+DOE-Bartlesville Project Office 1
+Delta-X Corporation 1
+CER Corp. Inc. 1
+James E. Fix & Assoc. 1
+J.R. Hignite And Associates 1
+Improved Recovery Technologies 1
+Colorado Oil and Gas Conservation Commission 1
+Esso Exploration & Production UK Ltd 1
+TOTAL Minatome Corp. 1
+Exxon Production Research Co. (retired) 1
+Amoco (U. K.) Exploration Co. 1
+Energy BioSystems Corporation 1
+Microline Corporation 1
+Falcon Petroleum Consultants Inc. 1
+Bannon Energy Incorporated 1
+Schlumberger HPC 1
+Equitable Resources Energy Company 1
+Amerada Hess Corporation 1
+MI Drilling Fluids 1
+E&P Technology Co. 1
+Mobil Exploration & Producing US Inc. 1
+Amoco E H & S 1
+SIPM 1
+Simrad Norge AS 1
+QEP Mobil Oil Exploration and Producing Division 1
+Western Atlas 1
+Santa Fe Energy Resources 1
+Christian Michelsen Research 1
+Hydro Research Centre Porsgrunn 1
+Pennzoil E&P 1
+Snow Leopard Resources Inc. 1
+Petroleum Recovery Institute 1
+National Gas and Oil Corporation 1
+Waterjet Technology Inc. 1
+ARCO EPT Inc. 1
+Amoco Exploration & Production 1
+Texas Drilling Associates 1
+Cabot Specialty Fluids 1
+Poulsen International 1
+BJ Services Co. Inc. 1
+Russian Research Institute of Oil and Gas 1
+Norcen Explorer Inc. 1
+Norsk Agip. 1
+Shell Petroleum Development Company of Nigeria Ltd. 1
+Subsurface Engineering. 1
+Multiphase Solution Inc. 1
+JC Engineering 1
+Britannia Operators Ltd. 1
+Geothermal Energy Research and Development Co. Ltd. 1
+University of California at Berkeley 1
+Phillips Petroleum 1
+Fina Exploration Norway 1
+Evergreen Resources Inc. 1
+Thermo Project Management Inc. 1
+Elf Aquitaine France 1
+Schlumberger Oilfield Assistance Ltd. 1
+European Synchrotron Facility 1
+North Carolina State University 1
+Delft Geotechnics 1
+CalResources 1
+Gulf States Environmental 1
+Maritime Well Service a/s 1
+Exxon Exploration Company 1
+University of Texas - Arlington 1
+University of Missouri - Rolla 1
+Weatherford Norge A.S. 1
+Green Consultores 1
+University of Petroleum China 1
+Flores and Rucks Inc. 1
+Exxon Exploration Co. 1
+PanCanadian Petroleum 1
+Wermac Electric 1
+BP (Colombia) 1
+Centre de Geostatistique de l&apos;Ecole Nationale Superieure des Mines de Paris 1
+Mobil Exploration and Producing 1
+Moores Pump & Supply. 1
+BJ Services (UK) Ltd. 1
+Drexel University 1
+M-I Drilling Fluids L.L.C. 1
+Petrobras-E&P 1
+Christian Michelsen Research AS 1
+BJ Services Company USA International 1
+Heilongjiang University 1
+Northstar Technologies International 1
+Niedersachsisches Landesamt fur Bodenforschung 1
+Hardianto 1
+PT Caltex Pacific Indonesia 1
+Stochastic Systems International 1
+BP Exploration ALASKA 1
+Brown & Root 1
+Barrett Resources Corp. 1
+BP Exploration Company 1
+BP International 1
+BP Exploration Operating Company Ltd. 1
+Capcis Ltd. 1
+McDermott Marine Construction Ltd. 1
+Newport Petroleum Corporation 1
+NAM-Pro-Star 1
+Hughes Christensen-Pro-Star 1
+Ranger Oil (U.K.) Limited 1
+Petroleum Geology Consultant 1
+Oryx Energy Company 1
+ORYX ENERGY COMPANY 1
+GeoDiamond 1
+PetroTraces Inc 1
+Conoco Inc 1
+Fluenta a.s. 1
+Pennzoil Exploration and Production Co. 1
+Valence Operating Co. 1
+Embry-Riddle Aeronautical University 1
+GeoQuest RT 1
+Tracs International 1
+DEMINEX Norge A/S 1
+A.S. Norske Shell 1
+Filco International Inc. 1
+Sevico 1
+C-FER Technologies Inc. 1
+Mining University Leoben (Austria) 1
+CSIRO Petroleum (Australia) 1
+CSIRO CSIRO Mathematical and Information Sciences (Australia) 1
+PDVSA Exploracion y Produccion 1
+WS Atkins Oil and Gas 1
+BP Norge UA 1
+CENERGYS Consultant for TOTAL 1
+Chevron North America Company 1
+Sandia Natl.Labs 1
+Tohoku University 1
+Snyder Oil Corporation 1
+Technoguide A/S 1
+Interamerican Petroleum Consultants 1
+Norske Shell 1
+Procon Drilling Services a.s 1
+Concepts ETI 1
+Fina Oil & Chemical Co. 1
+Expro Americas Inc. 1
+Pacific Consultants & Engineers 1
+Caltex Pacific Indonesia 1
+Chevron SouthAmericaBusiness Unit 1
+BPX 1
+BPX-Colombia 1
+Triangle OGCI AS 1
+Shell E & P Technology Company 1
+Shell E & P Technology Co. 1
+W.S. Nelson & Co. Inc. 1
+Schlumberger Gulf Coast Special Services 1
+BG plc 1
+Science Support Services sarl 1
+Western Geophysical EAME 1
+Enron 1
+NMRPlus 1
+Exxon Exploraton Co. 1
+Chevron E&P 1
+Mobil Technical Center 1
+VECO Engineering 1
+Northern Engineering and Scientific 1
+Shell Intl. E&P 1
+Almes & Associates Inc. 1
+Texaco UK 1
+Tidelands Oil Production Co. 1
+Applied Power Concepts Inc. 1
+Biodynamics Corporation 1
+Scandpower Inc. 1
+Shell Intl. Research and Technical Services 1
+John Wright Company 1
+Ecole Nationale Superieure des Mines de Saint-Etienne 1
+Kuwait Institute of Scientific Research 1
+Chevron Production Company 1
+Earthworks 1
+Ecoles des Mines de Nancy 1
+Shell Deepwater Development Inc. 1
+LTI Resource Management Inc. 1
+LEPT Lab ENSAM 1
+Repsol Exploracion SA 1
+Univ. of Minnesota 1
+Image Laboratory Institute of Geodynamics 1
+CERFACS 1
+Trinmar Ltd. 1
+Syria Shell 1
+Instituto Colombiano del Petroleo - ECOPETROL 1
+Shell E&P Technology 1
+Chevron North America Exploration & Production Company 1
+ENI-Agip E&P 1
+J-S DPCo. "Neftegastekhnika" 1
+Schlumberger Overseas 1
+The Wiser Oil Co. 1
+TomoSeis Inc. 1
+University of Washington 1
+Vortexx Group Inc. 1
+Mobil Upstream Strategic Research Center 1
+Exxon Upsteam Development Company 1
+Inst. Geological and Nuclear Sciences 1
+Schlumberger Wireline and Testing Inc. 1
+Department of Petroleum Resources 1
+Mobil Oil Corporation 1
+Chevron N. America Exp. and Prod. Co. 1
+University Paris XI 1
+Yates Petroleum Corporation 1
+Polytechnical University Bucharest 1
+INCERP Ploisti 1
+CalTech 1
+Lawrence Berkeley National Lab 1
+Fact Corp. 1
+British Petroleum Exploration (Alaska) Inc. 1
+Raychem Corp. 1
+KCA Drilling Ltd 1
+Azerbaijan Intl. Operating Co. 1
+KCA Drilling Ltd. 1
+Kuwait Santa Fe 1
+BP Kuwait Ltd. 1
+BP Sunbury 1
+Optimiser Consulting 1
+Montanuniversität Leoben Austria 1
+Amoco Trinidad Oil Co. 1
+Geoquest-Schlumberger 1
+Bretagne G.P. 1
+Applied Earth Science 1
+Chevron Oil Congo 1
+NTNU and IKU Petroleum Research 1
+Texaco North Sea UK Co. 1
+BJ Services Company (UK) Ltd. 1
+Laboratoire Environmement et Mineralurgie 1
+Engineering Seismology Group Canada Inc. 1
+Oil & Gas Consultants International 1
+Bell Geospace Inc. 1
+PanCanadian Resources Ltd. 1
+Stavanger College 1
+Rogaland Research. 1
+TIPM Laboratory 1
+Schlumberger of Canada 1
+HMR Environmental Engineering Consultants 1
+UNAM/PEMEX 1
+Micro-Bac Venezuela 1
+McMichael & Associates 1
+Markland AS Trondiem 1
+Mobil Oil Indonesia (MOI) 1
+BP Amoco Chemicals 1
+Universite de Marne-la-Vallee 1
+Anzoil NL 1
+Instituto de Matemática Pura e Aplicada 1
+Univ. at Stony Brook 1
+Dugan Production Corporation 1
+Bioprocess Engineering Department 1
+Chemical Engineering Department 1
+Petroleum Engineering Department 1
+Halliburton/Baroid Inc. 1
+Wagner & Brown Ltd. 1
+PanCanadian Petroleum Limited 1
+Centrilift Baker-Hughes 1
+Berkeley National Laboratory 1
+ORMIS 1
+University of Qatar 1
+University of Leoben - Austria 1
+Oklahoma University - USA 1
+Institutt for energiteknikk (IFE) 1
+ARCO Technology and Operation Services 1
+Maxus Indonesia 1
+Chevron Research & Technology Co. 1
+Chevron Information Technology Co. 1
+Univ. of São Paulo 1
+Hungarian Oil and Gas Plc. 1
+Gel Technologies Corp. 1
+Petronas Research 1
+UPN "Veteran" Yogyakarta 1
+Ocean Energy Inc.; 1
+Modern Energy Concepts Inc. 1
+ICF Kaiser International Inc. 1
+Oil and Natural Gas Corporation Ltd. (ONGC) Mumbai INDIA. 1
+HTH Technical Services Ltd. 1
+Shtern Research and Consulting Houston 1
+Oakrock Ltd. Calgary 1
+Geoquest Calgary 1
+Texaco Upstream Technology Houston 1
+Unichem Division BJ Services Company 1
+Florida State University 1
+Centrilift a division of Baker Hughes Canada company 1
+Pivotal Technologies 1
+BP/Amoco 1
+JNOC 1
+Mobil Producing Nigeria 1
+Chevron UK Ltd. 1
+HTH Technical Services Inc. 1
+Instrumentation and Engineering Services Inc. 1
+A S G.A.- GOCAD 1
+Schlumberger Oilfield Services Inc. 1
+Texaco E&P. 1
+Occidental Oil and Gas Co. 1
+Occidental Petroleum of Qatar Inc. 1
+Northstar Technologies Intl. 1
+Sumitomo Metal Industries Ltd. 1
+Sperry-Sun a Halliburton Company 1
+EGPC 1
+Xi&apos;an Petroleum Inst. 1
+Southern U. 1
+xi&apos;an Petroleum Inst. 1
+IEOC 1
+Eni-AGIP 1
+TOTAL Oil Marine 1
+ResLab 1
+Geological Survey of Denmark and Greenland (GEUS) 1
+Thums Long Beach Company 1
+NTNU Trondheim - Norway 1
+Mobil E&P Australia 1
+Janco Well Engineering Australia 1
+Nichol Engineering Services 1
+Kvaerner ASA Technology Development Georgia Institute of Technology 1
+Mator AS 1
+Proneta (Consulting Engineers) 1
+Petroleum Recovery Research Institute 1
+AEC Oil & Gas Partnership 1
+ACM Consulting Ltd. 1
+Neotechnology Consultants Ltd. 1
+Kværner ASA Technology Development Georgia Institute of Technology 1
+NUPETRO 1
+Stanford University and Chevron Petroleum Technology Company 1
+Eni S.p.A. Agip E&P Division 1
+Shell Offshore 1
+Colorado School of Mines Petrobras S.A. 1
+Scientific Software-Intercomp Inc 1
+ISOTAG LLC 1
+Cardinal Services 1
+BP Exploration Inc 1
+BP Exploration Colombia Ltd 1
+Centre de Geostatistique 1
+Halliburton European Research Center 1
+Penn State U. 1
+Computalog Ltd. 1
+Holditch Reservoir Technologies 1
+Ely & Assoc. 1
+SINTEF Petroleum Research AS 1
+Coiled Tubing Americas 1
+UniTrak Inc. 1
+Gupco 1
+Holditch-Reservoir Technologies 1
+Exxon Upstream Development Company 1
+Integrated Reservoir Management Inc. (IRM) 1
+Mobil Oil (Indonesia) 1
+Aker Geo Petroleum Services 1
+Egyptian Petroleum Research Institute (EPRI) 1
+Zenith ETX Co. 1
+StatOil 1
+Shell Company of Australia 1
+Consulting Petroleum Geologist 1
+BP Amoco plc 1
+Expro North Sea Ltd. 1
+Waldemar S. Nelson and Company Inc. 1
+Institute for Applied Mathematics and Systems National University of Mexico 1
+Landmark Graphics Corp 1
+UPRI 1
+Baker Atlas Comodoro Rivadavia Argentina 1
+BPAmoco plc. 1
+BPAmoco plc 1
+Technical University Delft 1
+ResSolutions 1
+University of Alaska Anchorage 1
+BP Amoco Co. Ltd. 1
+Santa Fe 1
+Funvisis-Venezuela 1
+Logan and Associates Inc. 1
+Den Norske Stats Oljeselskap A/S (Statoil) 1
+NTNU Trondheim-Norway 1
+Westport Technology Center International 1
+Fall Line Energy Inc. 1
+Nye County Nevada 1
+Stavanger University College RF-Rogaland Research 1
+NTNU/Pera 1
+Simulog 1
+Troy Petroleum Management 1
+Consulting Geologist 1
+Gyrodata Ltd. 1
+PetroAlliance Service Co. 1
+University of Missouri at Rolla 1
+National Petroleum Technology Office Department of Energy (NPTO/DOE) 1
+Uni of NSW 1
+GWSol Inc. 1
+PennState 1
+Eni-Agip Division 1
+Roorkee University 1
+Merak Projects 1
+Phillips Oil Company Australia 1
+Reservoir Management Ltd. 1
+Korea Gas Corporation 1
+Texaco E&P Technology Division 1
+Halliburton B.V. 1
+U. of Missouri at Rolla 1
+NPTO/DOE 1
+J.J. Gruy and Associates Inc. 1
+Sintef Petroleum Research 1
+RC 1
+Electromagnetic Instruments Inc.USA 1
+Petec Software and Services A.S. 1
+Saga Petroleum A.S* 1
+ELF Exploration Production 1
+Transocean Sedco Forex 1
+Schlumberger-Riboud Product Centre 1
+NMR+ Inc. 1
+MEI Power Corp. 1
+Kinder Morgan CO Co. LP 1
+Foster Wheeler International Corporation 1
+CRPG-CNRS 1
+Security DBS Halliburton Energy Services 1
+NMIM 1
+Barrett Resources 1
+EOG 1
+UPR 1
+ARI 1
+BJ Services Co. Ltd. 1
+Eni Agip 1
+Dayawant 1
+Stavanger University College / Statoil 1
+Merak Projects Inc. 1
+Sofregaz US Inc. 1
+Shell Expro UK 1
+North Atlantic Pipeline Partners L.P. 1
+Schlumberger Integrated Project Management 1
+State U. of New York at Oswego 1
+Duke U. 1
+Baker Atlas GeoScience 1
+Gemini Solutions Inc. 1
+W.D. Von Gonten & Co. 1
+Worley International Inc. 1
+UNESP 1
+THUMS Long Beach Company) 1
+Smith Bits-GeoDiamond 1
+Repsol-YPF 1
+Schlumberger/M-I 1
+EPRI 1
+Schlumberger Holditch-RT 1
+Diamond Geoscience Research Corp. 1
+Pengrowth Corporation 1
+John Crane Canada Inc. 1
+NExT 1
+Techaid Corporation 1
+Schlumberger Reservoir Completions 1
+Geocron Consultores C.A. 1
+Sensor Highway Ltd. 1
+Sonatrach PED Algeria 1
+EGID 1
+Enitecnologie 1
+Sayegh Engineering Consulting Ltd. 1
+Flying J. Oil & Gas Inc. 1
+INTEVEP 1
+NMR Petrophysics Inc. 1
+Kongsberg Defence & Aerospace 1
+Technical University of Valencia 1
+Shell E&P Technology and Research 1
+Universite Paris VI 1
+TechnoMatrix Inc. 1
+F.J. Brown and Associates Inc. 1
+Madison Energy Advisors Inc. 1
+American Petroleum Institute 1
+Elf Petroleum Norge A/S 1
+Unichem Division of BJ Services Company 1
+Kvaerner Oil and Gas Australia 1
+Rogaland Research / PETEC 1
+CiDRA Corporation 1
+BP Corporation 1
+de Groot-Bril Earth Sciences 1
+PDVSA EYP 1
+Weiss Associates 1
+Altinex ASA 1
+Intervensjon AS 1
+Harvard University 1
+New Dominion LLC 1
+MJE Consultants 1
+IVIC 1
+BP Kuwait 1
+Stone Energy Corp. 1
+Defence Science & Technology Organisation 1
+Sydney University 1
+Thonhauser Data Engineering 1
+Branagan & Associates Inc. 1
+BHP Americas 1
+The Tulsa University 1
+Theta Enterprises 1
+Merak Schlumberger 1
+Cherokee Engineering 1
+WellDynamics International Inc. 1
+Sensa 1
+Russian Academy of Science 1
+Richard J. Miller & Associates Inc. 1
+Esso Canada 1
+Inemaka S.A. 1
+PROMORE Engineering Inc. Div. of Core Labs Company 1
+International Risk Management 1
+TotalFinaElf Exploration Norge 1
+TotalFinaElf Exploration UK 1
+Nankai University 1
+Lee Specialties Ltd. 1
+U. Kansas 1
+ChevronTexaco Exploration and Production Technology 1
+Magnolia Reservoir Technology International 1
+Agip U.K. Limited 1
+RRB Energy Inc. 1
+Hydril 1
+Diamond Offshore Drilling Inc. 1
+2H Offshore Inc. 1
+Yukos 1
+University of Rome "La Sapienza" 1
+Raytheon 1
+Chevron Research and Technology Company 1
+GazDeFrance 1
+State University of New York at Stony Brook 1
+Unichem A Division of BJ Services Company 1
+Chevron eBusiness Development Company 1
+Pacific Northwest National Laboratory 1
+Geomark Research Inc. 1
+LPMC Ecole Polytechnique 1
+Laboratoire de Physique des Solides U. d&apos;Orsay 1
+Compukalc Ltd. 1
+Kuwait Petroleum Corp. 1
+WAVEX Inc. 1
+Murphy Exploration & Production Co. 1
+Chieftain International U.S. Inc. 1
+Bellwether Exploration Co. 1
+El Paso Energy Co. 1
+Robertson Research International 1
+Agar Corporation Inc. 1
+Rogalandsforskning/Triangle Technology 1
+Argonauta Energy 1
+Enterprise Oil Italiana 1
+Eni Agip Division 1
+LEMTA 1
+Shell / SINTEF Petroleum Research 1
+Production Exploration & Upgrading PDVSA S.A. 1
+CNRS-CRPG 1
+Abu Dhabi Company for Onshore Oil Operation ADCO 1
+PDVSA-Intevep S.A. 1
+RWE-DEA AG 1
+Amerada Hess Ltd. 1
+Bangladesh U. of Engineering and Technology 1
+de Groot Bril Earth Sciences 1
+Veritas 1
+Oil & Gas Journal Exchange 1
+Global Marine Integrated Services 1
+UL Lafayette The Energy Institute 1
+UL Lafayette 1
+Impact 1
+University of Missouri Rolla 1
+Kennametal Inc. 1
+Kerr-McGee North Sea U.K. Limited 1
+TRW 1
+Schlumberger Reservoir Completion Center 1
+Petroleum Training Institute 1
+Taurus Reservoir Solutions 1
+SpaceTime Simulation Corp. 1
+Advantage Energy Services Ltd. 1
+Hydrocarbon Outsource Ltd. 1
+Transocean SedcoForex 1
+Titania A/S 1
+BJ Process and Pipeline Services A Division of BJ Services Company Incorporated 1
+Schlumberger-Baker Jardine 1
+The University of Western Australia 1
+Corporation of Exploration & Development of Petrochina 1
+China Geoscience University 1
+Mitsui Oil Exploration CO. LTD. 1
+Texas A&M Universty 1
+Agip 1
+Consolidated Beef Producers Inc. 1
+Seibert & Associates 1
+Zonge Engineering 1
+BP Pakistan Exploration and Production 1
+U. Auckland 1
+Realtimezone 1
+NETL 1
+Sepro 1
+Adelaide University China Institute of Atomic Energy 1
+China Institute of Atomic Energy 1
+Ticora Geosciences Inc. 1
+Advanced Engineering 1
+Western Geco 1
+Eni-Agip 1
+Shell Capital Inc. 1
+Alberta Sulphur Research Limited 1
+Acer Kvaerner 1
+ECL Technology Limited 1
+Green County Petrophysics 1
+Universite de Provence 1
+Beicip Franlab 1
+Egyptian Petroleum Research Institute 1
+APM International 1
+Marathon Canada 1
+Anadarko Petroleum Houston 1
+TAURUS Reservoir Solutions Calgary 1
+Scandpower A/S 1
+Biznet Solutions 1
+Gaz-de-France 1
+Total Fina Elf Exploration and Production 1
+Pruett Industries Inc. 1
+P.T. Caltex Pacific Indonesia 1
+Natchiq Technical Services 1
+Lynch Chappell & Alsup Attorneys-at-Law 1
+Kerr-McGee Oil and Gas Onshore LP 1
+Schlumberger Venezuela 1
+Enterprise Oil plc 1
+Lasmo Venezuela BV 1
+Universidad Surcolombiana 1
+PROSERNAT 1
+BP Institute Cambridge 1
+Rohoel Aufsuchungs AG 1
+Al Furat Petroleum Company Damascus 1
+BP Egypt GUPCO 1
+Consulting Geologist Irvine California 1
+Shell Exploration & Production Technology & Research SepTAR 1
+UWG Ltd. 1
+Import Tools 1
+ProTechnics a Core Laboratories Company 1
+New Mexico Bureau of Geology and Mineral Resources 1
+U.S. Bureau of Land Management 1
+Public Service Company of New Mexico 1
+KAPPA 1
+Sound Environmental Solutions Inc. 1
+Claude McMichael and Associates 1
+Coiled Tubing Engineering Services 1
+Trican Services 1
+Patina Oil and Gas Corporation 1
+Schlumberger Houston 1
+IPM Schlumberger 1
+Lawrence Berkeley National Laboratory and University of California 1
+Sonatrach - Ourhoud Organisation 1
+The Peak Group 1
+IPM-Schlumberger 1
+Phoenix Petroleum Services - Schlumberger 1
+Equitable Production Company 1
+EnCana Resources 1
+Creocean 1
+Universite Paul Sabatier Toulouse 1
+Shell Technology and Research SepTAR Nigeria 1
+PanCanadian Energy 1
+Nexen Petroleum U.S.A. Inc. 1
+BG-Group 1
+FracTech LTD. 1
+Petroleum Company of Trinidad and Tobago Limited-Trinmar Strategic Business Unit 1
+International Risk Mgmt. 1
+Reeves Wireline Services 1
+PEMEX E&P-UNAM 1
+IMP-IPN 1
+IMP-UNAM 1
+Software North 1
+GSI 1
+Escopeta 1
+CSIRO Molecular Science 1
+Advanced Coring Technologies 1
+PDVSA Exploration & Production 1
+BP Egypt Gas Business Unit 1
+Amerada Hess Co. 1
+Oceaneering International Inc. 1
+EnCana (UK) Ltd. 1
+SensorWise Inc. Houston Texas 1
+Yuma Exploration & Production Co. 1
+WAVEX® Inc. 1
+Nexen Canada Ltd. 1
+WellDynamics International Ltd. 1
+BHPBilliton 1
+Production Technology 1
+WellSeismic Computing Services 1
+IMFT: Institut de Mecanique des Fluides de Toulouse 1
+Sparks Technical Management Services Inc. 1
+Halliburton Energy Services - Sperry Sun 1
+Atoka Coal Labs LLC 1
+PT Caltex 1
+UC Berkeley / Lawrence Berkeley National Laboratory 1
+Fugro 1
+Lochte Engineering Inc. 1
+ENI Dacion B.V. 1
+Energy Navigator Inc. 1
+TICORA Geosciences Inc. 1
+BJ Services Company Russia Region 1
+Veritas Geophysical Corporation 1
+HOT Engineering GmbH 1
+VortexFlow LLC. 1
+Doris Inc. 1
+ENI E & P Division 1
+ChevronTexaco Upstream Europe 1
+H & Y Services LLC 1
+WellEval.com Limited 1
+Strategic Clarity 1
+Oilfield Automation Consulting 1
+Institute for Strategic Clarity 1
+NMRPLUS Inc. 1
+Netherland Sewell & Associates Inc. 1
+ABB Lummus Global Inc. 1
+The Turkish Petroleum Co. 1
+RIPED of PetroChina 1
+Esso Australia Pty Ltd. 1
+Petroleum Development Oman (PDO) Oman 1
+Scandpower Risk Management AS 1
+Parker Geosciences Consulting LLC. 1
+.052 Petroleum Engineers 1
+PETROECUADOR 1
+Moncrief Oil 1
+Precision Drilling 1
+ConocoPhillips Indonesia 1
+Wells Chappell Inc. 1
+Schlumbeger 1
+Woodside Energy Ltd. 1
+Total Pau France 1
+Petroleos De Venezuela Sociedad Anonima PDVSA 1
+ExxonMobil Exploration & Production Malaysia 1
+Rowan Companies Inc. 1
+Petroleum Development Corporation 1
+ChevronTexaco Company 1
+Correlations Company 1
+Decision Team - Software GmbH 1
+Independent Geologist 1
+ThermalConsulting 1
+TEK Systems 1
+NPTO 1
+Halliburton Energy Services Norway 1
+Total E&P UK OLC Imperial College 1
+National University of Mexico 1
+College of Technological Studies 1
+University of Paris-Dauphine and INRIA-Rocquencourt 1
+Talisman Energy UK Limited 1
+US Geological Survey 1
+UN Economic Commission for Europe 1
+U. C. Berkeley / Lawrence Berkeley National Laboratory 1
+JP Kenny Caledonia 1
+NExT United Arab Emirates 1
+CSIRO Petroleum Australia 1
+Technip-Coflexip 1
+Fracture Technologies 1
+PTI 1
+ENI S.p.A. - Agip Division 1
+Shell Brasil 1
+ChevronTexaco Overseas Petroleum Co. 1
+C&C Reservoirs 1
+Avanteq 1
+Teikoku Oil Corp. 1
+Matador Petroleum Corp. 1
+Center for Nuclear Waste Regulatory Analyses Southwest Research Institute 1
+PetroSkills LLC 1
+Lesair Environmental Inc. 1
+Colorado Oil & Gas Association COGA 1
+CNOOC SES Ltd. 1
+POSC 1
+Institute for Energy Technology IFE 1
+Imperial Oil Resource 1
+Groundhog Professional Services LLC 1
+6FF40 Houston 1
+Altair Engineering Ltd. 1
+Memry Corp. 1
+Institute for Research and Technology 1
+Ely and Associates 1
+CTKP 1
+Devon Energy formerly Ocean Energy 1
+Intera Inc. 1
+Gulf Coast Energy Associates 1
+Ben C. Gerwick Inc. 1
+MIST 1
+ChevronTexaco ERTC 1
+Scandpower Petroleum Technology AS 1
+U.S. Department of Energy Rocky Mountain Oilfield Testing Center Critique Inc. 1
+Chevron Texaco Energy Research and Technology Company 1
+Predrill Stresses International 1
+Research Institute of Petroleum Exploration and Development PetroChina Company Limited 1
+Marjo Operating Co. 1
+Apache Canada Ltd. 1
+BHPBilliton Petroleum 1
+HBS 1
+LENEP/UENF/Petrobras-UN-BC 1
+State U. of North Fluminense LENEP/UENF 1
+Mining U. of Leoben 1
+Gyrodata 1
+University of Arizona 1
+United States Geological Survey 1
+COGEMA 1
+World Energy Council 1
+Ministry of Natural Resources Russian Federation 1
+Caracas Venezuela 1
+IRGO 1
+Geoquest 1
+Garner Engineering 1
+John M. Campbell & Company 1
+Nova Scotia Department of Natural Resources 1
+Lyco Energy Corporation 1
+Laine & Assoc. Inc. 1
+Canan Operating 1
+Ray Richey Management Company 1
+University of Petroleum Beijing 1
+Baker Atlas-Abu Dhabi 1
+Shell EP Americas 1
+Resmod Ltd. 1
+JLSJ Enterprises Inc. 1
+Shell Philippines Exploration 1
+Occidental Oil & Gas 1
+Daneshy Consultants Int&apos;l. 1
+Maris International Ltd. 1
+DUT and SIEP 1
+Intology 1
+StepChange AS 1
+AEC Ecuador Ltd. Encana 1
+National Center for Scientific Research "Demokritos" Greece 1
+University of Southern California CA 1
+JOGMEC Japan Oil Gas and Metals National Corporation 1
+JODCO Japan Oil Development Co. Ltd. 1
+Accutech Division of Adaptive Instruments LLC 1
+Total E&P - Elf Petroleum Nigeria 1
+PDVSA - Intevep 1
+University of Pisa Italy 1
+ENI E&P Italy 1
+Agip KCO London 1
+Encana Corp. Calgary CA 1
+Stanford University/École Nationale Superieure de Geologie 1
+University of Colorado 1
+Walden University 1
+Nigerian Agip Oil Co. 1
+Deer Creek Energy Limited 1
+BP Exploration Operating Co Ltd. 1
+Advantage R&D Inc. a subsidiary of Precision Drilling Corporation 1
+BP Australia 1
+ENI S.p.A. Division E&P 1
+WTS 1
+RF Rogaland Research (RFRR) 1
+SIEP & Delft University of Technology DUT 1
+RFRR 1
+DUT 1
+New Mexico Mining and Technology University 1
+Consulting Ltd. 1
+DecisionsDecisions Inc. 1
+PEMEX/UNAM 1
+Oleon 1
+3-Phase Measurements AS 1
+Framo Engineering AS 1
+National Energy Technology Laboratory - EG&G 1
+National Energy Technology Laboratory - Parsons 1
+Coulter Energy Int&apos;l 1
+Frontier Engineering Ltd. 1
+GSM Inc. 1
+Advanced Geotechnology Inc. 1
+Topsail Ventures 1
+Case Services 1
+The Hendrix Group Inc. 1
+Bois d&apos; Arc Offshore Ltd. 1
+Baker Hughes INTEQ UK 1
+Baker Hughes INTEQ Houston 1
+BP Aberdeen 1
+Total S.A. France 1
+Fluent Inc. 1
+Viking Engineering 1
+Resultants 1
+Cimarex Corporation 1
+Apache China 1
+R&D Saudi Aramco Oil Company 1
+Landmark Graphics Corporation Ltd. 1
+Abel Engineering 1
+Schlumberger IPM 1
+University of Aberdeen 1
+Resultants Ltd. 1
+ChevronTexaco Corporation 1
+Telemark University College/Tel-Tek 1
+Chevron USA Production 1
+Baker Atlas Houston Texas U.S.A. 1
+KCA Deutag 1
+Dexter Magnetic Technology Inc. 1
+University Paris VI 1
+U. of Texas-Austin 1
+CreOcean 1
+Murphy Exploration & Production 1
+BP EPTG 1
+GTI 1
+University of Science and Technology Krakow Poland 1
+Kogakuin University Japan 1
+Burlington Resources Canada Ltd. 1
+Stratos 1
+Egyptian Petroleum Research Institute EPRI 1
+Geological Survey of Denmark and Greenland GEUS 1
+AMEC Paragon Inc 1
+The University of Waikato 1
+The University of Texas at Dallas 1
+CalEnergy 1
+Pemex-Coordinación Area Oriental 1
+NoWhere 1
+Dalhousie U. 1
+El Paso Corp 1
+Tesco Corp. 1
+Inst. Teknologi Bandung (ITB) 1
+BST Lift Systems 1
+Dominion East Ohio 1
+CAMERON 1
+SIEP B.V. 1
+MGV Energy 1
+The Construction Productivity Institute 1
+Frost National Bank 1
+IPR Red Sea Ltd 1
+Egyptian Ministry of Petroleum 1
+Den Norske Stats Oljeselskap 1
+CSI Technologies 1
+Sibneft Oil 1
+Sibneft 1
+Cleansorb Ltd. 1
+YPF SA 1
+Norske Shell A/S 1
+Weatherford B Sdn. Bhd. 1
+Columbia Gas Transmission Corp. 1
+Drilling Research & Development Corp. 1
+Samedan Oil Corp. 1
+Sanchez Oil & Gas Corp. 1
+WellEval.com 1
+Total E&P Holland 1
+Vallourec and Mannesmann Tubes 1
+BEICIP-FRANLAB 1
+Sclumberger 1
+Exploration Consultants Ltd. ECL 1
+Petroleo Brasileiro S.A. - Petro 1
+Seal-Tite LLC 1
+Seal-Tite International 1
+COPPE/UFRJ 1
+OILEXCO Incorporated 1
+BP Exploration and Production Inc. 1
+Easy Well Solutions 1
+Shell Malaysia 1
+APA USA Inc. 1
+PCM Pompes 1
+BP Amoco Norway Ltd. 1
+Oilfield Supply C.A. 1
+Baker Eastern S.A. 1
+Vanton Research 1
+MetaCarta Inc. 1
+Elf Petroleum Nigeria Limited TOTAL subsidary 1
+Schlumberger Oilfield Australia Pty Ltd 1
+BHP Billiton Petroleum Americas Inc. 1
+Transocean Offshore Deepwater Dr 1
+Piper Consulting 1
+Cogita 1
+Schlumberger Research 1
+Trinflow Ltd. 1
+SDG 1
+Petoro 1
+Roxar Ltd. 1
+Rogaland Research Centre 1
+NA 1
+David Laughton Consulting Ltd. 1
+Stratelytics 1
+Petroleum Institute 1
+McMurry-Macco Inc. 1
+BP Amoco Energy/Trinidad Tobago 1
+Idaho Natl. Engrg. Lab 1
+University of Alabama 1
+Exxon Corp. 1
+ETC - ChevronTexaco 1
+Petroleum Engineer Intl. 1
+PoroMechanics Institute 1
+Petra-IRT 1
+Thermax Ltd. 1
+Sociedade Nacional de Combustiveis de Angola (Sonangol) 1
+Griffin Cement Consulting LLC 1
+Shell Technology Ventures 1
+Petro Iran Development Company 1
+SEG/Pioneer Natural Resources 1
+Halliburton Digital & Consulting Solutions 1
+American Productivity & Quality Center 1
+Warner Consulting Services 1
+OilExec International Ltd. 1
+Lime Rock Partners 1
+ChevronTexaco Tech. Ventures 1
+Higgs Technology 1
+University of West of England 1
+Schlumberger WCP 1
+Shenandoah Oil Consultancy Ltd 1
+Northwest Petroleum Bureau SINOPEC 1
+Sonatrach Inc. 1
+Apache Egypt 1
+NETL/Penn State University 1
+Earth Decision 1
+Ecole Nationale Superieure de Geologie 1
+Shell Venezuela S.A 1
+Schlumberger Venezuela SA 1
+Schubarth Inc 1
+NCSR Demokritos 1
+Harvest Vinccler C.A. 1
+Shell Markets Middle East Ltd. 1
+Parallel Petroleum Corp. 1
+Weatherford Norge A/S 1
+Total E&P Yemen 1
+Total Exploration & Production UK Plc 1
+RMI 1
+Samson Canada Ltd. 1
+Rocksolid Engineering 1
+Exponent 1
+Arup 1
+Strat Land Exploration Co. 1
+The Frontline Group 1
+Halliburton Energy services 1
+Oxy Oil & Gas USA 1
+Petroleo Brasileiro S.A.-Petrobas 1
+Shell Technology Ventures Inc. 1
+DE Wardt & Co. 1
+Centro de Pesquisas e Desenvolvimento Leopoldo Américo 1
+CENPES 1
+SIEP 1
+TecWel Inc 1
+Oil Optimisers Limited 1
+Rousseau Consulting Inc. 1
+Chevron Production Co. 1
+SINOPEC Expl & Prod Rsch Inst 1
+Dome Intl. 1
+ENI Algeria - GSA 1
+ARAMCO Services Company 1
+TPS -Tyna Petroleum Services 1
+EPSIS AS 1
+Deutsche Montan Technologie GmbH 1
+Noble Corporation 1
+Noble Drilling Intl. Inc. 1
+ARCO Oil & Gas Co. 1
+Tuboscope a Varco Company 1
+TOTAL E&P IndonC)sie 1
+NETL/DOE 1
+Chevron San Jorge SRL 1
+EnCana Oil & Gas Co. Ltd. 1
+Labmetro - Universidade Federal de Santa Catarina 1
+General Holding Corporation 1
+Texas University 1
+Voith Turbo GmbH & Co. KG 1
+VAALCO Gabon (Etame) Inc. 1
+Khantymansiyskneftegazgeologia KMNGG 1
+Newco Well Service 1
+Rutgers University 1
+J-Environmental Inc. 1
+WRW Associates Inc. 1
+Moscow State University 1
+Applied Radar Physics 1
+CO2CRC 1
+Petroplastic S.A. 1
+Schlumberger WTA M Sdn Bhd 1
+Drillers.com Inc. 1
+University of Central Florida 1
+GMI GeoMechanics International 1
+C W Resources Inc 1
+C W Resources Inc. 1
+Thunderbyrd Energy Services 1
+Decision Frameworks Inc. 1
+BGP international Inc. 1
+U. of Texas Dallas 1
+Zonge Eng. & Research Org. Inc. 1
+Seibert & Assocs. LLC 1
+Micro-g Lacoste 1
+Neuro Genetic Systems 1
+Cabinda Gulf Oil Co. Ltd. 1
+BJ Services UK Ltd. 1
+Shell Brazil E&P 1
+Nalco Co. 1
+Schlumberger Technology Corporation 1
+Gasco Energy 1
+Williams 1
+Think-Well UNK Ltd 1
+Frontier International 1
+WellDynamics International 1
+Natchiq 1
+Jungbunzlauer 1
+AHEAD Energy Corp. 1
+Total EPNL 1
+TOTAL EP ANGOLA 1
+Shell Deepwater Services 1
+Green Country Petrophysics 1
+Nancy School of Geology 1
+Random Walk Engineering 1
+Pavilion Energy Solutions 1
+ABB Process Automation 1
+Total Norge A/S 1
+Eliokem Materials and Concepts 1
+ELIOKEM SAS 1
+UNICO 1
+UNICO Inc 1
+Unico Inc. 1
+GLJ Petroleum Consultants Ltd 1
+Deer Creek Energy Ltd. 1
+NSI Upstream 1
+Oilvest Engineering (M) Sdn. Bhd. 1
+Varco-VDE 1
+RWE Dea AG 1
+Energy Scitech Ltd 1
+ResDip Systems 1
+Pioneer-Alfa Petr Svcs (NIG) Ltd 1
+BJServices 1
+Res. Inst. Petr. E&D China 1
+Geoservices S.A. 1
+PT GeoProlog Intiwijaya 1
+Talisman UK Ltd 1
+Cromar Limited 1
+Dansk Olie-OG Gas Prod. A/S 1
+E & P Tech Inc. 1
+Grant Prideco 1
+Grant Prideco LP 1
+Burullus Gas Company 1
+David Laughton Consulting Ltd 1
+Husky Energy Inc 1
+Petroleos de Venezuela S.A PDVSA 1
+TGT Gamas Ltda 1
+Petrobras Colombia Ltd 1
+Fairchild Technology 1
+Latigo Petroleum 1
+Impact Technologies LLC 1
+eProduction Solutions 1
+U. of Ibadan 1
+BP Amoco Co Ltd 1
+Chevron UK 1
+ARAMCO Overseas Co. 1
+DataHorizon Limited 1
+MARIN 1
+Turkish Petroleum Refineries 1
+Expro Wireless Well Solutions 1
+Research Inst. Petr. Expl/Dev 1
+PetroChina Expl & Dev Rsch Inst 1
+Huabei Oilfield 1
+IUT Group 1
+Intl. Specialty Products 1
+Services Tech. Schlumberger 1
+National Autonomous University of Mexico 1
+Prairie View A&M U. 1
+McMoRan 1
+Geophysical Institute of the Aca 1
+Shiraz University 1
+BJ services Company Nigeria Limited 1
+ExxonMobil Exploration & Production Malaysia EMEPMI 1
+Coulter Energy Intl. 1
+ATS 1
+Chevron corp. 1
+Antero Resources Corp. 1
+GMX Resources Inc 1
+Clough Oil and Gas 1
+INL & Correlations Co 1
+Kuwait Inst. Scientific Rsch. 1
+IHS 1
+Natco Canada 1
+Reservoir Management Group Inc 1
+Sakhalin Energy Investment Co. 1
+Oil Gas CBM Services Pty Ltd 1
+PRC Pty Ltd 1
+Wind River Resources Corp 1
+Total E&P Borneo B.V. 1
+Twister BV 1
+Twister Supersonic Gas Solutions BV 1
+Michel Pons Technologie 1
+RSI - Dynamic Simulation Solutions 1
+University of Minnesota-Duluth 1
+ProActive Diagnostic Services Inc. 1
+LENEP 1
+Norte Fluminense State U. 1
+Drilling Research & Development Corporation 1
+China University of Geology 1
+Texas A&M U. at Qatar 1
+University of Port Harcourt 1
+Gibson Applied Technology and Engineering LLC 1
+Yukos EP 1
+Shell Oman 1
+Sintex Minerals & Services Inc. 1
+Badger Mining Corp. 1
+Unimin Corp. 1
+Mineracao Curimbaba LTDA 1
+Decker Technology Inc. 1
+Alion Science & Technology 1
+Advanced Micro Devices 1
+Maresk Oil Qatar 1
+Duha Downhole Operation Company 1
+Eni Exploration & Production Div. 1
+Chevron North America Exploration and Production Co. 1
+No. 2 Oil Production Co. 1
+Yinhe Science and Technology Co. Ltd. 1
+Shell Int&apos;l. E&P Inc. 1
+Luna Energy 1
+Yamburggazdobycha Gazprom 1
+Total E&P Canada Ltd 1
+KUDU Industries 1
+U. of Pau 1
+Gubkin State University of Oil and Gas 1
+SIEP-RTS 1
+Varel International 1
+EWImicroalloying LP 1
+V&M Oil & Gas 1
+Universidade Estadual de Campinas UNICAMP 1
+Hughes Christensen - Italy 1
+Bakerhughes 1
+Energy Resource & Devel. Corp. 1
+Lufkin Automation 1
+Ocean University of China 1
+Kerr-McGee Rocky Mountain Corp. 1
+Hexion Oilfield Technology Group 1
+Hohn Engineering PLLC 1
+Microsoft Corporation 1
+LLEGAR E.O.R. INTERNATIONAL 1
+BP Exploration America 1
+PT Indospec Consulting 1
+El Paso Exploration and Production 1
+Yanshan University 1
+TECHAID INC 1
+Aethon Oil 1
+Aethon I LP 1
+Wold Oil & Gas Co. 1
+Japan Oil Engineering Co. 1
+Shell Nigeria E & P Co. 1
+Buenos Aires Institute of Technology 1
+Norwegian University of Science and Technology NTNU 1
+Exploration Consultants Ltd. 1
+Expro Intl. Group 1
+Prospect Ltd 1
+Gardin-Haag BV 1
+Ozonelink Limited 1
+Technische Universitat Clausthal 1
+Geomechanics International Inc. GMI 1
+Oil Prod. Research Institute 1
+Occidental Petr. Qatar Ltd. 1
+Simwulf Systems Inc 1
+Schlumberger Oilfield UK Plc (Lasalle) 1
+EnCana Corp 1
+Petroleum Recovery Rsch. Ctr. 1
+No. 5 Oil Production Co. 1
+Hydro Gulf of Mexico L.L.C. 1
+Max-Wells Technology Ltd. 1
+Aker Kvaerner Well Service 1
+Encore Acquisition Company 1
+NOVA Technology Corporation 1
+Magnolia Reservoir Technology Intl. Inc. 1
+Petrobras Ecuador 1
+Ascent Operating LP 1
+PetroChina Co. Ltd. 1
+Daqing Oil Field Company 1
+Honeybee Robotics 1
+Pontificia Universidad Catolica de Chile 1
+BP Azerbaijan 1
+Stim-Tech Inc. 1
+Sincor Inc. 1
+Baker Hughes Oasis 1
+Rolf Jensen & Associates 1
+Korea Inst Geosci/Mineral Resrcs 1
+OXY 1
+Applied Seismology Consultants Ltd. 1
+IBM Business Consulting Services 1
+Sense Intellifield 1
+Jones Energy Ltd. 1
+Shell Internation Ltd. 1
+Engineering Services 1
+SPT group 1
+GAIA Comercio Exterior Ltda 1
+Peter D. Saudi Aramco 1
+UFA State Petroleum Tech University USPTU 1
+David Wood and Associates 1
+SINOPEC Petroleum Inst. 1
+Csiro Petroleum 1
+Nippon Oil Exploration U.S.A. 1
+Goldking Production Company 1
+Baker Hughes Integrated Opns 1
+Goldking Production Co. 1
+University of Oklahoma and Mewbourne School of Petroleum and Geological Engineering 1
+BP Operating Company 1
+The University of Edinburgh 1
+North American Wetland Engineering 1
+Collarini Energy Staffing 1
+Collarini Energy Staffing Inc. 1
+Oceanic Consulting Corporation 1
+World Ocean Council 1
+Federal University of Rio de Janeiro 1
+Exxon Mobil Upstream Research Company 1
+Yale U 1
+Univsersity of Strathclyde 1
+Ikonscience 1
+ALP Ltd. 1
+Petrominerlaes Colombia Ltd 1
+Roc Oil Co. Ltd. 1
+Ampolex Ltd. 1
+Fekete 1
+Fekete Associates Inc 1
+Simon Fraser University 1
+Sensornet Ltd 1
+FloDynamic 1
+Paragon Engineering Companies 1
+J. Ray McDermott Inc. 1
+Petroleum U. of Tech Iran 1
+Chevron Offshore Thailand Ltd. 1
+Total Angola 1
+TIMET Titanium Metals Corporation 1
+IFP-NIOC 1
+Ecole des Mines de St. Etienne 1
+Dominion E&P Inc 1
+OMV UK Ltd. 1
+OMV A.G. 1
+OMV Pakistan Exploration G.m.b.H 1
+The Williams Companies Inc. 1
+CEMEF 1
+Novatek Inc. 1
+Epic Energy Resources 1
+Petrotechnical Resources of Alaska 1
+Petroleum Equip & Services 1
+Geopetrol 1
+Institue Superieur de Gestion 1
+ESRI 1
+Weatherford M Sdn Bhd 1
+Headington Oil Co. 1
+Thermtech AS 1
+San Antonio Internacional 1
+Petrobras Energia SA 1
+Los Alamos Natl Laboratory 1
+BHP Billiton Trinidad 1
+Total CSTJF 1
+Questar E&P Co 1
+No. 1 Oil Production Company of Daqing Oilfield 1
+No. 2 Oil Production Company of Daqing Oilfield 1
+JW Toups Inc. 1
+EDG Consulting Engineers 1
+Imperial Snubbing Services 1
+Fields Exploration Inc. 1
+Intervera Data Solutions 1
+Well Dynamics 1
+Extreme Energy Services 1
+Pengrowth Energy Trust 1
+X-treme Energy Group 1
+Endeavor Energy Res 1
+LCX energy 1
+Castello Enterprises Inc. 1
+Kelco Oil Field Group 1
+CP Kelco 1
+Joanneum Research Society 1
+U. of Maryland 1
+Schlumberger IPM-RMG 1
+APB Consulting 1
+Schlumberger Westerngeco 1
+Hess Ltd 1
+University AUT 1
+Technomation Systems Inc. 1
+Oracle Corp. 1
+Digital Ascension 1
+Chevron/KOC 1
+Schlumberger Vietnam Services 1
+Far East Energy 1
+CNOOC Limited 1
+CNOOC China Limited Tianjin 1
+Chevron Thailand E&P Ltd 1
+BP Alaska Drilling and Wells 1
+FMC 1
+Edison Welding Institute 1
+Geo Research 1
+SEIC 1
+NRG Ltd 1
+NRG Well Examination & Management Systems Ltd. 1
+BJ Process and Pipeline Services Company 1
+SensorTran 1
+SGS 1
+Edge Consulting Services 1
+BP Berau Ltd 1
+Petrobras Energia de Venezuela 1
+Petroleos de Venezuela S.A 1
+SandRidge Energy Inc 1
+Artex Oil Company 1
+Weatherford Inc. 1
+Dept of Earth Science and Eng 1
+Iranian Offshore Oil Company 1
+Star Energy 1
+Eni Angola 1
+Pathfinder Ltd 1
+Bp Exploration 1
+Bp America 1
+ConocoPhillips/Petrozuata CA 1
+Bechtel O&G 1
+Warrior Technology Services Inc. 1
+University Of Port Harcourt Nigeria 1
+Lukfin Inc. 1
+Oil Product No. 1 Daqing Oilfield Company Ltd. 1
+The State Commission on Mineral and Energy Resources Russian Federation 1
+Infosys 1
+RISC Pty Ltd 1
+Center for Energy Studies-LSU 1
+Minerals Management Service 1
+Clemson U. 1
+Walsh Petroleum Inc. 1
+Proneta Ltd 1
+Universidad de Oriente-Nucleo Monagas 1
+Weatherford Mediterranean SpA 1
+Grant Prideco - ReedHycalog 1
+Macquarie University 1
+CSIRO Material Science and Engineering 1
+CSIRO Materials Science and Engineering 1
+Xi&apos;an ShiYou University 1
+The Research Council of Norway 1
+Crescent Directional Drilling 1
+Lux Innovate Ltd 1
+LUX Innovate Ltd 1
+Japan Canada Oil Sands Limited 1
+Titan Oil Recovery Inc 1
+Project Decisions 1
+Petrophase Ltd 1
+Petrobras EnergC-a S.A. 1
+Schlumberger Asia Services Limited 1
+SiteLark 1
+Ward Williston 1
+ASC Ltd. 1
+U. of Toronto 1
+MSI 1
+Trueblood Resources Inc 1
+Microseismic Inc. 1
+Oasis Petroleum Co. 1
+Kerogen Resources Inc. 1
+ARINC 1
+NETL - U.S. DOE 1
+Shell Malaysia E&P 1
+Stanford University/Saudi Aramco 1
+Lockton 1
+XLT Artificial Lift Co 1
+Artificial Lift Co. 1
+Gasfrac Energy Service 1
+Gasfrac EEnergy Services Inc 1
+Strycom Ltda 1
+Boise State University 1
+StatoilHydro Research Centre 1
+YUKOS 1
+Vallourec & Mannesmann 1
+Katch Kan Ltd. 1
+Craft & Hawkins Department of Petroleum Engineering 1
+Baker Hughes Christensen 1
+Univeristy of Utah 1
+US Department of Energy NETL 1
+Colorado Geological Survey 1
+PUC-RIO 1
+U. Of Oklahoma 1
+INtelligent Solution Inc. 1
+Corro Consulta 1
+Chevron NAEP 1
+ABCO 1
+Water Oil & Gas 1
+Trans-Asia Gas Pipeline Co. Ltd. 1
+Aspen Technology SL 1
+Aspen Technology Inc. 1
+AspenTech 1
+Robert Bosch GmbH 1
+Department of Material Science 1
+ENI USA Operating 1
+Carigali Hess Operating Co 1
+SNEPCo 1
+Shell Technology Norway 1
+Stanford University and Saudi Aramco 1
+U. of California - Berkeley 1
+U. of New Brunswick 1
+Core Labs Canada 1
+Texas A&M University/Saudi Aramco 1
+Petrotech Inc. 1
+PDVSA INTEVEP 1
+UCV 1
+Reliance Technology Specialists 1
+Production Quest Inc 1
+ESSS 1
+PXP 1
+Crimson Resource Management 1
+Rio Tinto Technology & Innovation 1
+Golder Associates NZ Ltd 1
+Baker Hughes - Centrilift 1
+U. Of Houston 1
+International Institute for Applied Systems Analysis 1
+Baker Service Tools Inc. 1
+MCA International 1
+Schlumberger Drilling & Measurements 1
+Schlumberger Artificial Lift 1
+Mobil Equatorial Guinea 1
+Murphy Exploration and Production 1
+Schlumberger Asia Services Ltd. 1
+Alberta Innovates - Technology Futures 1
+Halliburton Technology Center 1
+Baker Hughes EHO Ltd 1
+Penn West Energy Trust 1
+DBR Technology Center 1
+Occidental Oil & Gas Corp. 1
+Schlumberger Oilfield Eastern Limited 1
+ExplAnalsysis Inc 1
+QGC BG-Group 1
+Advanced Well Technologies 1
+ENI Indonesia 1
+Sam Houston State U 1
+Utah State University 1
+TEI - Athens 1
+BOPCO LP 1
+PDVSA Oriente 1
+Universidade Federal Fluminense 1
+Weatherford Wellheads 1
+Weatherford Int. 1
+AJM Petroleum Consultants 1
+Well-Test Solutions LTD. 1
+Akzo Nobel 1
+Equitable Resources Inc. 1
+OTM Consulting Ltd 1
+AGR Petroleum Services 1
+Novosibirk 1
+DFIngenierie 1
+LERM 1
+LML 1
+University of Lille 1
+ASTO Geophysical Consulting Pty Ltd 1
+Royal Military College 1
+The Univeristy of Calgary 1
+Universidad de Oriente - Núcleo Anzoátegui 1
+Universidade de Sao Paulo 1
+U. of Sao Paulo 1
+Pope Engineering 1
+AgipKCO 1
+Mullen Energy Corp. 1
+Realm Energy 1
+Lockheed Martin 1
+Permedia Research Group Inc. 1
+enicongo 1
+Packerplus International 1
+ISPInc. 1
+ISP Inc 1
+i-Quip Technology 1
+Weatherford Laboratories Can. Ltd 1
+National Fuel Gas Supply Corp. 1
+East Resources Inc. 1
+DNO ASA 1
+ZapTeam Aps 1
+IPEX a.s. 1
+Halliburton de Mexico S.A. de C.V. 1
+Portfolio Decisions Inc 1
+TRE - Tele-Rilevamento Europa 1
+Tele-Rilevamento Europa-TRE srl 1
+Tele-Rilevamento Europa - T.R.E. s.r.l. 1
+TUDelft 1
+Japan Petroleum Exploration Company Limited 1
+ExxonMobil Research and Engineeing Company 1
+U of Texas at Austin 1
+Clydeunion Pumps Limited 1
+Clyde Pumps Limited 1
+ENI E&P San Donato Milanese 1
+ADCO Producing Co. Inc. 1
+FUGRO-JASON 1
+Mid-Continent Geological Inc. 1
+EagleRidge Energy 1
+Transform Software 1
+ENI R&M 1
+Carrizo Oil & Gas Inc. 1
+Salym Petroleum Services B V 1
+Qatar Shell Research & Technology Centre QSTP-LLC 1
+PetroSA 1
+WestFire Energy Ltd 1
+Halliburton Brown & Root Ltd 1
+Halliburton Baroid Drilling Fluids 1
+TGS-NOPEC 1
+IO-hub LLC 1
+PetroTel Inc 1
+Wright Consulting Co. 1
+Innovative Engineering Systems 1
+Raven Petr. Consultants Ltd. 1
+V & M 1
+Ecole des Mines of Douai 1
+Technical University of Crete 1
+ProEnergy srl 1
+BP Intl. Ltd. 1
+Crown Consulting Corporation 1
+EnCana Oil & Gas 1
+Hilcorp Energy Company 1
+Continental Resources Inc 1
+Oil Plus Ltd. 1
+Nigerian AGIP Oil Co. Ltd. 1
+Ultrasonic Research Group of Sharif University of Technology 1
+ENI - CACT OG 1
+Spec Services Inc. 1
+Covenant Consulting 1
+Giunti Labs Srl 1
+APMI 1
+Wood Group Logging Services 1
+Abyssus Marine Services AS 1
+Cabot Oil & Gas 1
+Atlas Energy Ltd. 1
+Regione Lombardia 1
+Alternative Positioning Solutions LLC 1
+Murphy Sabah Oil Co. Ltd 1
+Ziff Energy 1
+Halliburton Italiana SpA 1
+Deltares 1
+Sinte Gleska University 1
+StatoiHydro 1
+Mabruk Oil Operations 1
+Technische Universitat Braunschweig 1
+Institut fur Transport- und Automatisierungstechnik Leibniz UniversitC$t Hannover 1
+Leibniz-Institut fC<r Angewandte Geophysik LIAG 1
+PennWest Energy 1
+Reslink AS 1
+Brigham Oil & Gas LP 1
+Brigham Exploration 1
+U. of Stavanager 1
+IEOC Egypt Branch 1
+ENTRIX 1
+University of Cagliari 1
+Italian National Agency for New Technologies Energy and Sustainable Economic Development ENEA 1
+The National Institute of Oceanography and Experimental Geophysics OGS 1
+ExxonMobil Global Services Co. 1
+Cairn India 1
+Samson Resources Co. 1
+Universität Potsdam 1
+Ruhr-Universität 1
+Errachidia University 1
+Fidelity E&P Co. 1
+Occidental de Colombia 1
+Occidental Inc. 1
+ExxonMobil Qatar 1
+CDS Energy Group Inc. 1
+Cooperative Research Centre for Greenhouse Gas Technologies 1
+China U. of Petroleum Beijing CNPC Tarim Ltd. 1
+China University of Petroleum Huadong 1
+URS - Washington Division NETL 1
+Research Inst Petr Expl/Dev 1
+Chevron Brasileira de Petroleo 1
+HighMount E&P LLC 1
+Laredo Energy 1
+Denbury Resources Inc 1
+Complete Shale 1
+Petroleum Institute of Daqing 1
+Newfield Exploration Co. 1
+Ecosphere Technologies Inc 1
+E.I. DuPont Canada 1
+Burnett Oil Co. Inc. 1
+ProPure AS 1
+SPT Group Limited 1
+Inst. for Energy Technology 1
+Chevron Australia Pty Ltd 1
+Naturally Wallace Consulting 1
+URS Corporation 1
+Atlantic Richfield Company 1
+EnCana Natural Gas 1
+Schlumberger DM 1
+Danish Geotechnical Institute 1
+Shell Nigeria E&P 1
+Shell Oil 1
+Houston Well Screen Asia HWSA 1
+University of Southern California Viterbi School 1
+Information Sciences Institute 1
+Chevron ITC 1
+Chevron North America 1
+Chevron USA Inc 1
+Univ of Oklahoma 1
+ExxonMobil Canada 1
+Moscow State University Faculty of Geology 1
+Keldysh Institute for Applied Mathematics 1
+US Department of Energy National Energy Technology Laboratory 1
+PCSB 1
+energy.fanchi.com 1
+Neyrfor A Schlumberger Company 1
+Smith Neyrfor 1
+Smith Bits - A Schlumberger Company 1
+Aera Enegry LLC 1
+ENI Pakistan Ltd 1
+Weatherford Brazil 1
+Pemex Mexico Oil Company 1
+GATE LLC 1
+China University of Petroleum Qingdao 1
+Weatherford Laboratories 1
+Marathon Oil Canada Ltd 1
+Vincano Inc. 1
+ChevronTexaco Nigeria Ltd 1
+Schlumberger Logelco Inc 1
+Romgaz-Ra CCIT 1
+ROMGAZ 1
+Cairn Energy 1
+IPA/IBA 1
+IPA 1
+Petroperth Consulting Group 1
+ConocoPhillips China Inc. 1
+China National Offshore Oil Cooperation 1
+PTT Exploration and Production Plc. 1
+Ulterra 1
+School of Petroleum Technology PDPU India 1
+Federal University of Santa Catarina 1
+U of Houston 1
+Cameron 1
+Central Institute of Mining and Fuel Research 1
+Shell Intl E&P BV 1
+Salym Petroleum Services B.V. 1
+K E OConnell Consulting LLC 1
+North Plains Energy LLC 1
+IPR Energy LLC 1
+Talisman Energy USA 1
+Multi Products Company 1
+Ernst & Young LLP 1
+Nalco Ltd 1
+Roxar Flow Measurement AS 1
+Teledyne-Cormon DNV 1
+Nexen Petroleum 1
+Object Reservoir 1
+Schlumberger WTA Malaysia S/B 1
+VCHNG 1
+TNK-bp Verkhnechonskneftegaz 1
+Schlumberger -Doll Research 1
+Universidade Estadual Norte Fluminense 1
+Caltec Ltd 1
+Caltec BHR Group Ltd. 1
+PetroDecisions 1
+Shell Netherlands Natural Gas 1
+Mines Paris Tech 1
+China U. of Geosciences 1
+U of Texas-Austin 1
+Pinnacle Wellsite Consultants 1
+Scandpower 1
+Manatee 1
+North Dakota State U. 1
+Water Mark Technologies Inc. 1
+Smart Chemical Services LLC 1
+ExxonMobil Intl. Ltd. 1
+Oil and Natural Gas Corporation Ltd. 1
+TIORCO 1
+TIORCO a Nalco Stepan Company 1
+Aqua Pure Ventures Inc 1
+Fountain Quail Water Management 1
+Global Energy Co. 1
+Baker Hughes - SSI 1
+Petro-China Southwest Oil & Gas Company 1
+Natural Resources Law Center 1
+Exxon Upstream Development Co 1
+INTEGRA 1
+CNODC 1
+CNOOC China Ltd.- TangGu Tianjin 1
+Brooks Range Petroleum Corppration 1
+Brooks Range Petroleum Corporation 1
+Inst Mexicano del Petroleo 1
+Alberta Oilsands Inc 1
+Luna and Glushon 1
+Chulalongkorn University 1
+Tecnomare SpA 1
+Universidade Federal do Espirito Santo 1
+Schlumberger Canada Ltd. 1
+ENI Angola 1
+Université Catholique de Louvain 1
+Verenium 1
+Magnum Hunter Resources Inc. 1
+Oklahoma Geological Survey 1
+Petro-Hunt LLC 1
+University of Lorraine France 1
+Leistritz Corporation USA 1
+Mesa Wireline LLC 1
+Piedra Operating 1
+Petroleum Co-Trinidad & Tobago 1
+State University of Campinas UNICAMP 1
+Ministry of Energy & Minerals Uganda 1
+Oilennium Ltd. 1
+consultant 1
+TPAO 1
+El Paso Corp. 1
+Egyptian Gas 1
+JackTek Systems Inc. 1
+Tech 21 Engrg Solutions Ltd 1
+eni Petroleum 1
+University of Petroleum - Beijing 1
+Maersk Oil Qatar 1
+China University of Geosciences Beijing and Yangtze University 1
+BakerHughes 1
+M-I Swaco A Schlumberger Company 1
+GE Oil & Gas 1
+Energy Equity Resources Limited 1
+Steve Kimminau Consulting 1
+Kinder Morgan Inc 1
+Smith Bits A Schlumberger Company 1
+Smith International Inc 1
+Smith Services A Schlumberger Company 1
+Southwestern Energy Co. 1
+ION Geophysical Inc 1
+Production Control Services 1
+PCS Inc. 1
+Petrostreamz A/S 1
+Plains Exploration & Production Co 1
+ZiLift Ltd 1
+Aberystwyth University 1
+Pegasus Vertex Inc 1
+AGR Subsea 1
+AGR Services A/S 1
+AGR Drilling Services 1
+Zeeco Inc. 1
+Eni US Operating 1
+Quicksilver 1
+Mamora and Associates 1
+Senergy GB Ltd 1
+Mining University of Leoben 1
+Weston Solutions Inc. 1
+Weston Solutions 1
+Kinetic Pump Innovations 1
+Senergy Energy Services 1
+Insurcol Ltd. 1
+Perenco S.A. 1
+Georgia Inst. of Technology 1
+Pinnacle - A Halliburton Service 1
+King Fahd University of Petr. & Min. 1
+NuVista Energy Ltd 1
+Nuvista Energy 1
+Pure Energy Services Ltd. 1
+Dinova Petroleum Ltd. 1
+Shell Global Solutions Intl BV 1
+Canrig Drilling Technology Ltd. 1
+Maxoil Solutions 1
+Lukoil-Nizhnevolzhskneft 1
+Lufkin Industries Inc 1
+Arabian Oil Co. Ltd. 1
+Egyptian General Petroleum Corp 1
+DuPont Canada 1
+Universiti Teknologi Petronas 1
+Imperial Oil Resources 1
+University Of Oklahoma 1
+ExxonMobil Exploration and Production Norway 1
+RWTH Aachen University 1
+Islamic Azad University 1
+CESI Chemcial 1
+Nalco Energy Services Division 1
+Baker Hughes Canada Company 1
+Baker Hughes Company Canada 1
+Boonen-Petro LLC 1
+Northeastern University 1
+Pandit Deendayal Petroleum University 1
+Maersk Oil North Sea UK Limited 1
+FMC Technologies Inc 1
+Rohoelaufsuchungs AG 1
+Tokai University 1
+OGX 1
+Antech Ltd. 1
+Cardno ENTRIX 1
+University Of Texas at Austin 1
+Scientific Drilling 1
+Scientific Drilling International 1
+BP Exploration Europe 1
+BP Azerbaijan BU 1
+Laricina Energy Ltd 1
+Stimulation Petrophysics Consulting LLC 1
+STEP Energy Services Ltd. 1
+Applied Research Laboratories University of Texas at Austin 1
+Dave E Reese Consulting LLC 1
+GoFrac LLC 1
+Independence Oilfield Chemicals 1
+WG Consulting 1
+Solvay Specialty Polymers Italy S.p.A. 1
+Ufa State Petroleum Technological University 1
+Setegap Venture Petroleum Sdn Bhd 1
+Akzo Nobel Pty. Ltd 1
+University of Ibadan Nigeria 1
+PETROBRAS S/A 1
+SPT GROUP 1
+Univrsity of New South Wales 1
+The University of Texas-Austin 1
+Trimeric Corporation 1
+DONG Energy E&P 1
+DONG A/S 1
+Repsol CSF 1
+Noble Energy Inc 1
+Heriot Watt Institute of Petroleum Engineering 1
+Stratagen Engineering 1
+University of Sao Paulo 1
+Marketing Research Consultant 1
+IBM research 1
+Institute of Petroleum Studies University of Port Harcourt Rivers State Nigeria 1
+Belgrave Oil & Gas Corp. 1
+Hess corp 1
+Legacy Energy Ventures 1
+University of Tulsa Drilling Research Projects 1
+University of Louisiana - Lafayette 1
+Halliburton A/S 1
+John C. Healy Jr Consulting LLC 1
+ENI International Resources Ltd 1
+LINDE 1
+Geosiris 1
+Candian Natural Resources Ltd. 1
+ASD 1
+Archer Well Services 1
+Stimulation Petrophysics 1
+The University of Tulsa (TU) 1
+TATA Consultancy Services 1
+Kazan Federal University 1
+Schlumberger Danmark A/S 1
+Total UAE 1
+Chevron Nigeria Ltd 1
+Shell Petroleum Development Company (SPDC) 1
+Canadian Advanced ESP Inc. 1
+ASRC Energy Services 1
+Scintrex 1
+Micro-g LaCoste 1
+Petrotechnical 1
+Cherokee Offshore Engineering 1
+Baker Hughes inc 1
+BG Group Bolivia 1
+BG Bolivia Group 1
+ESK Ceramics GmbH & Co KG 1
+ESK Ceramics 1
+Kemira Chemicals Inc 1
+TAQA North Ltd 1
+Samotlorneftegas 1
+Gubkin University 1
+WEATHERFORD 1
+Schlumberger Coil Tubing Services 1
+Schlumberger Welltesting 1
+Murphy Oil Corporation Contract Completion Engineer 1
+Moulinex Business Service LLC 1
+ExxonMobil Research Qatar 1
+Total E&P UK Ltd 1
+Delgac LLC 1
+Texas Tech Univeristy 1
+Red Spider Technology Ltd 1
+formerly of Halliburton 1
+University of Cape Town 1
+Texas A&m University 1
+Liberty Resources 1
+Transform Software and Services Inc. 1
+Frank R. Apache Corp 1
+University of Tromso and Baker Hughes 1
+Swift Energy 1
+EV Downhole Video 1
+De Wardt & Company 1
+SAS Institute 1
+SAUDI ARAMCO 1
+Promethean Technologies Group LLC 1
+Western Energy Products and Services 1
+Alaskan Energy Resources Inc. 1
+Alaska Oilfield Consultants LLC 1
+Eos Resources LLC 1
+Shell China E&P Co. Ltd. 1
+BitCan G&E Inc 1
+SHELL 1
+Centrica plc 1
+University of California Berkeley 1
+Repsol Exploracion S.A. 1
+Politecnico di Torino Vietnam Petroleum Institute 1
+Vietnam Petroleum Institute 1
+HCMC University of Technology 1
+Vietsovpetro 1
+BG Norge AS 1
+Wintershall Norge 1
+Standford University 1
+Baker Hughes do Brasil 1
+Halliburton Oman 1
+University of Calgary Schulich School of Engineering 1
+Saudi Aramco/Massachusetts Institute of Technology 1
+Stanford University and BP Intern 1
+Lightstream Resources Ltd 1
+Lightstream Resources Ltd. 1
+Halliburton Norway 1
+Montanuniversitaet of Leoben 1
+Sharif University of Technology 1
+OMV E&P 1
+Weatherford Houston 1
+Galvan Damiano Shell Exploration & Production Co 1
+inthinc 1
+Inthinc Inc 1
+Ringstone Petroleum Consultants 1
+Human Resources Development Company (HRDC) 1
+Petroleo Brasileiro SA 1
+China National Oil and Gas Exploration and Development Corporation PetroChina 1
+Shell UK 1 Altens Farm Road Aberdeen AB12 3FY 1
+Shell Technology Centre Bangalore 1
+Saudi Aramco/Stanford University 1
+Cheyenne Petroleum Company 1
+Castor & partners 1
+BP-America 1
+Linn Operating 1
+Lomonosov Moscow State University 1
+University of Technology 1
+Advanced Drilling Solutions GmbH 1
+Advanced Drilling Solutions 1
+Universidade Estadual de Campinas 1
+Amirkabir University of Technology 1
+New England Research Inc. 1
+Spectrum Tracer Services llc 1
+Sapienza University of Rome 1
+E F Energy LLC 1
+Qatar Shell GTL Limited 1
+London South Bank University 1
+Trican Well Services Ltd 1
+TNO-IBBC 1
+Shell Int Exp & Prod 1
+ThinkLogical 1
+Thinklogical 1
+Schlumberger Technical Services Inc 1
+ZADCO Petroleum Co 1
+OVS Group 1
+Platts 1
+NRG Resources Limited 1
+Intelligent Solutions Inc 1
+Boston University 1
+Petrobras / Stanford University 1
+Rensselaer Polytechnic Institute 1
+University of Oklahoma Apache Corporation 1
+Institute of Petroleum Engineering Heriot Watt University 1
+Shell Upstream Americas 1
+Shell Brasil Ltda 1
+Rivers State University of Science and Technology 1
+Quantum Reservoir Impact LLC 1
+Eni SPA E&P Division 1
+Ormat Nevada Inc 1
+Meyer Technologies LLC 1
+GroundMetrics Inc 1
+Berkeley Geophysics 1
+Intel Corporation 1
+Baker Hughes (Nederland) BV 1
+PERONAS Carigali 1
+ESPCI ParisTech 1
+Halliburton Ltd. 1
+Halliburton Overseas Ltd 1
+Fenix Consulting delft 1
+Wintershall Holding AG 1
+Wintershall Holding 1
+Balance Point Control 1
+TNNC Rosneft 1
+Environmental Resources Mgmt 1
+Shell International E&P (STCH) 1
+Teaxs A&M University 1
+ARC Resources Ltd 1
+Schlumberger Abingdon Technology Ctr 1
+GeoFuture Consulting 1
+Institute of Geophysics Polish Academy of Sciences 1
+Sanjel Canada 1
+YPF TecnologÃ­a 1
+University of Tulsa CESE 1
+S.I.S srl 1
+OMV Petrom S.A. 1
+Cape Breton University 1
+EquiÃ³n EnergÃ­a Ltd 1
+George R. Ely and Associates Corp 1
+Marietta College 1
+Network of Excellence in Training - NExT 1
+Gaffney Cline & Associates Ltd. 1
+Gaffney Cline & Associates Ltd 1
+Schlumberger NAM Well Services 1
+Well integrity consultant 1
+University of Houston / Bureau Veritas North America 1
+Shell Exploration and Production International 1
+Senergy Intl. Sdn Bhd. 1
+Shell Int'l E&P 1
+Schlumberger Saudi Arabia 1
+Oklahoma State University 1
+Curtin University 1
+Shell Nigeria Exploration and Production Company (SNEPCO). 1
+Shell Nigeria Exploration and Production Company (SNEPCO) 1
+Kogas Canada Ltd. 1
+Encana 1
+IPIECA 1
+Step Energy Services 1
+Thru Tubing Solutions 1
+OneSubsea 1
+U.S. Department of Energy National Energy Technology Laboratory 1
+Smart Energy Engineering Consultancy LLC 1
+IHS Global ltd. 1
+Ruspetro 1
+Raptor Oil Co 1
+formerly Chevron U.S.A. Inc. 1
+Southwest Petroleum University and University of Regina 1
+Hess Denmark APS 1
+Weatherford Oil Tool ME Ltd 1
+formerly BP E&P 1
+Midwestern State University Wichita Falls TX 1
+Xi' an Jiaotong University & Gas Production Plant 5 Changqing Oilfield Company CNPC 1
+Exploration and Development Research Institute SINOPEC 1
+Gas Production Plant 5 Changqing Oilfield Company CNPC 1
+SINOPEC Engineering 1
+Obafemi Awolowo University 1
+Ep Energy 1
+Ionic Liquid Laboratory Department of Chemistry Indian Institute of Technology Madras Chennai - 600 036 India 1
+Energy Recovery 1
+Bandung Institute of Technology 1
+Firth Consultants Ltd 1
+University College Dublin 1
+Swift Worldwide Resources Inc. 1
+CPSM C.P.M. SBM Offshore 1
+BetaZi LLC 1
+OMV Petrom 1
+BSI 1
+PDS Inc. 1
+BP Expoloration 1
+Beijing Institute of Technology 1
+FourPoint Energy LLC 1
+Saudi Aramco PE&D P&FDD 1
+Saudi Aramco SAPE 1
+University of Houston / Bureau Veritas 1
+YPF S.A 1
+Cabot Oil & Gas Corp 1
+Synergy Resources Corporation 1
+Energy and Environmental Services 1
+Pinnacle (a Halliburton Service) 1
+Trican Well Service Ltd 1
+Newfield Exploration Company 1
+University of Petroleum & Energy Studies India 1
+Terminus Data Science 1
+Alcoa Oil & Gas Inc. 1
+Vantage Energy LLC 1
+Eclipse Resources 1
+Stanford University (Now at Shell E&P) 1
+GFZ German Research Center for Geosciences (Now at University of Wisconsin-Madison) 1
+Lawrence Livermore National Laboratory and Yale University Department of Chemical and Environmenal Engineering 1
+Yale University Department of Chemical and Environmental Engineering and Reservoir Engineering Research Institute 1
+Gubkin Russian State University of Oil and Gas 1
+BG 1
+School of Chemical Engineering Oklahoma State University Stillwater OK 74078 1
+University of Science & Technology Beijing 1
+Politecnico di Torino Italy 1
+Spectraseis Inc. 1
+ExxonMobil Upstream Research Co. (EMURC) 1
+ExxonMobil International Ltd. 1
+Lomonosov Moscow State University Department of Geophysics 1
+Ukhta State Technical University 1
+RS Consulting LLC 1
+Well Complete LLC 1
+Instituto Mexicano Del Petroleo 1
+Clear Water Plasma LLC 1
+RAG 1
+ExxonMobil Upstream Research Company (ExxonMobil URC) 1
+ExxonMobil URC Summer Intern 1
+P.E. Apache Corporation 1
+Univ. of Houston 1
+DewPoint A/S 1
+Virginia Tech 1
+Reservoir Engineering Research Institute and Yale University 1
+Pluspetrol Norte S.A 1
+Liquid Robotics Oil and Gas A joint venture with Schlumberger 1
+IIT–Madras 1
+SAS Industries Inc. 1
+Transocean 1
+Nicholls State University 1
+Landmark-Halliburton (currently at the Department of Energy and Mineral Engineering Pennsylvania State University) 1
+FrackOptima Inc. 1
+FrackOptima Inc. and The University of California Riverside 1
+Department of Chemical & Petroleum Engineering University of Calgary Canada 1
+Petroperu S.A. 1
+Petrobras America S.A 1
+University of Texas at El Paso 1
+IHS Global 1
+APO Offshore 1
+Formerly with Halliburton 1
+University of Central Florida and iTomography 1
+iTomography 1
+World Bank African Centre of Excellence University of Port Harcourt Nigeria 1
+Emerald Energy Institute University of Port Harcourt Nigeria 1
+Changing oilfield company PetroChina 1
+Pacific Rubiales Energy & USB 1
+NTNU & MEGO A/S 1
+Intecsea 1
+Chaparral Energy 1
+Texas A&M U./Chevron 1
+PetroTrin 1
+Xinjiang Oilfield Company 1
+Covenant University 1
+Kinder Morgan 1
+Petrostreamz AS 1
+Heriot-Watt University/Mines-ParisTech PSL CTP 1
+ENSTA-ParisTech UCP 1
+Mines-ParisTech PSL CTP 1
+Formerly of Halliburton 1
+Weatherford Solutions Sdn. Bhd. 1
+Nigerian National Petroleum Corporation 1
+The Upstream Petroleum Engineering Research Center - King Abdullah University of Science and Technology 1
+Agiba Petroleum Company 1
+RBL O&G Consulting 1
+Montana Tech 1
+Resoptima AS 1
+Frac Diagnostics LLC 1
+Endurance Resources 1
+Quantico Energy Services 1
+World Bank Africa Center of Excellence and Emerald Energy Institute University of Port Harcourt 1
+Department of Petroleum Engineering University of Stavanger 1
+Petronavit a.s. 1
+UNECE 1
+BG Group subsidiary of Royal Dutch Shell plc 1
+Pacific Exploration & Production 1
+Oxford Institute for Energy Studies 1
+Petroleum R & D Center 1
+University of Western Ontario 1
+IPKA Consultancy Ltd. 1
+Petroleum Experts Ltd BP 1
+Drimatic Energy Services 1
+READ Cased Hole 1
+Strataimage Consultoria Ltda 1
+CURISTEC 1
+Odebrecht Oil and Gas 1
+BUE 1
+formerly Halliburton 1
+Palantir Solutions 1
+Forum Energy Technologies 1
+Maersk Oil Research and Technology Center 1
+Asset Management Solutions Inc. 1
+PE 1
+ISNetworld 1
+Schlumberger Software Technology 1
+Telops 1
+Energo Engineering Services LLC a KBR Company 1
+Tulsa University 1
+Rafllesia Energy 1
+Rice University ITESM 1
+China National Offshore Oil Corporation Research Institute and China University of Petroleum 1
+Shell Development Oman LLC 1
+CLTech Consulting Pte Ltd 1
+Cepsa 1
+Saint Petersburg State University 1
+CNPC RIPED 1
+Xihua University and Southwest Petroleum University 1
+RIPED-Beijing PetroChina 1
+Chaparral Energy LLC 1
+Caelus Energy Alaska 1
+Shell Global Solutions Malaysia Sdn. Bhd. 1
+Shell Deepwater Borneo 1
+Rundle Automation Inc. 1
+Qualcon Inc. 1
+Shell technology center 1
+Linn Energy 1
+Shell Global Solutions Intl. 1
+Al-Azhar University 1
+Hogan Energy Consulting 1
+Universal Well Services 1
+Coven Energy LLC 1
+StimLab Inc. Division of Core Laboratories 1
+Wipro Technologies 1
+Absolute Completion Technologies 1
+ReservoirFocus LLC 1
+The College of Petroleum Engineering China University of Petroleum East China 1
+University of Engineering & Technology Taxila 1
+Hess Denmark ApS 1
+Saint-Petersburg Mining University 1
+Murphy Exploration and Production USA 1
+Total US 1
+TOTAL SA ADMA 1
+Marathon International Oil G.B. Limited 1
+Petrolink 1
+Ed Wood 1
+CSIRO Energy 1
+Energo Engineering LLC 1
+Granherne Inc. 1
+Sofoil 1
+IRT 1
+Consultant-Chevron 1
+MOL Group 1
+The EOR Alliance IFP Technologies (Canada) Inc. 1
+Gazprom Neft 1
+Shell Global Solutions International B. V. 1
+NOV ReedHycalog 1
+CNPC Jidong Oilfield Company 1
+China University of Petroleum Beijing and Texas Tech University 1
+The university of Texas at Austin 1
+Optimization Harmsway LLC 1
+Gomel State Technical University n.a. P.O. Sukhoi 1
+State key Laboratory of Oil and Gas Reservoir Geology and Exploitation Southwest Petroleum University 1
+Maersk Oil and Gas A/S 1
+BP Americas Inc. 1
+Halliburton/Jet Research Center 1
+Virtual Material Groups 1
+Faculty of Engineering - Alexandria University 1
+Energy Precision Testing Laboratories 1
+Paradigm Flow Services 1
+Indian Institute of Technology Indian School of Mines Dhanbad 1
+MEOFS 1
+Marco Morales Guzman PeMex 1
+Subsurface Consultants & Associates LLC 1
+Inwood Solutions LLC 1
+Electrosistemas SAS 1
+Fircroft 1
+Air energi 1
+Exxon Mobil 1
+Institut de recherche biomédicale des armées 1
+ISOS 1
+Ecole de Santédes Armées 1
+AVS 1
+Biotem 1
+Seplat Petroleum Development Company 1
+ExxonMobil Production Germany 1
+Shell International EP 1
+Crescent Point Energy Corporation 1
+Suneses Energy 1
+Shell Nigeria 1
+Dassault Systèmes 1
+Texas Standard Oil LLC 1
+University of Texas Permian Basin 1
+Eni Norge 1
+Texas Oil and Gas Institute 1
+Sasol 1
+Annuitant of Exxon Mobi Corporation 1
+TCU 1
+Owen Oil Tools Inc. 1
+ETA SA 1
+DynaEnergetics GmbH & Co. 1
+Baker Hughes - Ballistics 1
+Hunting Energy Services 1
+Nalco Champion An Ecolab Company 1
+Well Engineering Research Center for Intelligent Automation 1
+Torch Solutions Group 1
+China Oilfield Service Limited 1
+Resman AS 1
+Shell EP-Americas 1
+BetaTech Consulting NL 1
+Tamara Webb - Shell 1
+Taylor Thetford 1
+Apache Corp 1
+Internacional 1
+Savia Perú 1
+Ecotek Inc 1
+ALS Empirica 1
+PDV S.A. 1
+Magnum Cementing Services 1
+BYK USA 1
+A. A. Trofimuk Institute of Petroleum Geology and Geophysics Siberian Branch of the Russian Academy of Sciences 1
+Sulige Gas Field Research Center of PetroChina Changqing Oilfield Company 1
+Faculty of Earth Resources China University of Geosciences 1
+GeoNumerical Solutions 1
+Universidad La Salle 1
+CoVar Applied Technologies 1
+Petroleum Technology Transfer Council 1
+NeoTek Energy Inc. 1
+RPSEA 1
+Memorial University 1
+University of Oklahoma MPGE and Suez University 1
+University of Oklahoma School of Chemical Biological and Materials Engineering 1
+Total Austral 1
+Optimization Petroleum Technology Inc. 1
+SunRise PetroSolutions Technology Inc. 1
+Kelkar & Associates Inc. 1
+University of Science and Technology Beijing 1
+Pete Schiermeier 1
+Subsurface Consultants & Assoc. LLC 1
+Architecture of Communication LLC 1
+Hanuman Energy Ltd. 1
+IFP Middle East Consulting 1
+MPD Reservoir Engineers Ltd 1
+North Oil Company 1
+NSI Fracturing LLC 1
+The American University in Cairo 1
+Holding Energy Petroleum Engineering BeiJing Co. Ltd. 1
+Baker Hughes Norway 1
+Beijing New Horizon Energy Technology Ltd 1
+China National Oil and Gas Exploration and Development Corporation 1
+Northern Arctic Federal University Northern State Medical University 1
+Dhofar University 1
+Fault Analysis Group and Irish Centre for Research in Applied Geosciences School of Earth Sciences University College Dublin 1
+Geochemistry Department Energy Geosciences Division Lawrence Berkeley National Laboratory 1
+Shell/Fulcrum Dynamics 1
+Covenant University Ota 1
+Michigan State University 1
+Memorial University of Newfoundland St. John's NL 1
+Independent Project Analysis Inc 1
+Rigoras Inc 1
+KM Human Factors Engineering 1
+Human Factors Applications 1
+CGE Risk Management Solutions 1
+Veolia Water Technologies Moon Township 1
+Terminus Data Science LLC 1
+Frontender 1
+ADNOC and Frontender 1
+TAM International 1
+Brighton Beach 1
+Bhabha Atomic Research Centre 1
+DFITpro.com 1
+Sejong University 1
+African University of Science and Technology( 1
+Gyrodata Inc. 1
+Chevron Energy Technology 1
+Titan Gas Technology Holdings Limited 1
+Anton Oilfield Services Group 1
+Preferred Proppants LLC. 1
+XACT Donwhole Telemetry Inc. 1
+XACT Downhole Telemetry Inc. 1
+School of Earth Sciences The Ohio State University 1
+Parsley Energy Inc. 1
+Moulinex Business Services 1
+Yanchang Petroleum Group 1
+Premier Oilfield Group 1
+Occidental Oil and Gas 1
+IDG Capital 1
+Chevron Upstream Europe Chevron Energy Technology Company 1
+Chevron Energy Technology Company University of Houston 1
+Well Construction International 1
+Successful Energy Practices International 1
+Kemira Chemicals LLC 1
+University of Texas at Austin TOTAL 1
+USC CRC Bakersfield 1
+University of Petroleum and Energy Studies 1
+McDermott Communications 1
+R. Raghavan Inc. 1
+Petrotechnics Limited 1
+Petrotechnics USA Inc 1
+University of Queensland Business School 1
+Queensland University of Technology Business School 1
+Total & Texas A&M University 1
+CMGC Foundation 1
+Resermine Technology Solutions LLC 1
+Tulsa Univeristy 1
+Oilfield E&P Department Sinopec 1
+Sinopec Research Institute of Safety Engineering 1
+Southwest Petroleum Univeisity 1
+Intellicess Norwegian Research Centre 1
+Spartan Energy Services 1
+RGC Consulting LLC 1
+T-3 Strategies LLC 1
+Colorado School of Mines and Research Institute of Petroleum Exploration and Development in Beijing PetroChina. 1
+Talos Energy LLC 1
+Embamunaygas 1
+Grupo de Investigación en Fenómenos de Superficie – Michael Polanyi Facultad de Minas Universidad Nacional de Colombia Sede Medellín 1
+Newpark Drilling Fluids 1
+Siemens 1
+UiS / IRIS 1
+Universidad Nacional de Colombia – Sede Medellín 1
+YOSAWY Consulting Ltd. 1
+Politecnico di Milano and SKEMA Business School 1
+Advanced Combustion Energy Systems 1
+Department of Petroleum and Gas Engineering Nile University of Nigeria 1
+Sun Specialty Products 1
+China University of Petroleum and Texas A&M University 1
+Pennsylvania State University Energy and Mineral Engineering Department Energy Institute 1
+IFP Technologies Canada Inc. and the EOR Alliance 1
+The University of Tulsa Petrobras 1
+Senai CIMATEC 1
+King Fahad University of petroleum and Minerals 1
+Chevron NA Upstream 1
+Aleff Group 1
+PETRAD 1
+WWT International 1
+Alaskan Energy Resources Inc 1
+Innovation Center of Unconventional Oil and Gas Resources Yangtze University; Petroleum Systems Engineering University of Regina 1
+Yanchang Oilfield Xi'an Shanxi 1
+Department of Energy Resources Engineering Stanford University 1
+Kansas State University 1
+GasTech Engineering LLC 1
+Mechanical Engineering Department University of Tulsa 1
+Energy Embassy 1
+cébé IT & Knowledge Management 1
+xnDrilling Inc. 1
+Performance Drilling Technologies Inc. 1
+De Wardt and Company 1
+CNX Resources 1
+Higher School of Economics 1
+ZEITCO 1
+Research Partnership to Secure Energy for America 1
+Middle East Technical University NCC 1
+LA12 Ltd 1
+Geologix Systems Integration Ltd 1
+Emerson Automation Solution 1
+MSC Software 1
+Retired Chevron 1
+Well Complete LLC. 1
+R D Watts Wells Tech Advisors LLC 1
+PetroHunt LLC/Pursue Energy Corp 1
+Boots & Coots Halliburton Consulting & Project Management 1
+University at Albany SUNY 1
+Centre for Environmental Scanning Electron Microscopy Heriot-Watt University 1
+Sasol Performance Chemicals Texas A&M 1
+Center for Petroleum and Geosystems Engineering University of Texas at Austin 1
+Ifremer Géosciences Marine - LAD 1
+EnergySys Limited 1
+Almetyevsk State Oil Institute 1
+Interwell Norway as 1
+J. Ayoub Consulting LLC 1
+Emerson Automation Solutions 1
+Univesity Lands 1
+Geomechanics Technologies 1
+Reilly Teresa University of Wyoming 1
+Tsinghua University 1
+Texas Board of Professional Engineers 1
+Hickman McClaine & Associates Inc. 1
+Sourcewater Inc. 1
+Oxy Oil & Gas posthumously 1
+Chevron Asia Pacific E&P Company 1
+Northeast Petroleum University and Texas A&M University 1
+KELRIK LLC 1
+Sun Specialty Products Corp. 1
+Petrobras America Inc 1
+SHELL Kuwait EP 1
+Improved Hydrocarbon Recovery 1
+Solvay 1
+Black & Veatch 1
+Petrobras – Petróleo Brasileiro S/A 1
+Instituto SENAI de Inovação em Sistemas Embarcados 1
+Instituto SENAI de Inovação em Polímeros 1
+Mendel Serviços de Engenharia 1
+OspreyData 1
+Sirte Oil Company Libya 1
+Midwestern State University Texas USA 1
+EBN B.V. 1
+WellSpec 1
+Petrobras - Petroleo Brasileiro SA 1
+IEN - Instituto de Energia Nuclear 1
+UFRJ - Universidade Federal do Rio de Janeiro 1
+Institute of Materials Research and Engineering Agency for Science Technology and Research A*STAR 1
+Department of Civil and Environmental Engineering National University of Singapore Singapore Singapore. Institute of Chemical and Engineering Sciences Agency for Science Technology and Research A*STAR 1
+PoreLab Norwegian Center of Excellence. Department of Geoscience and Petroleum Norwegian University of Science and Technology NTNU 1
+National University of Oil and Gas «Gubkin University» 1
+State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation Chengdu University of Technology and University of Alberta 1
+Department of Petroleum Engineering University of Ibadan 1
+Stanford University Current: Arundo Analytics 1
+Perpetual Energy Inc. 1
+Trican Well Services Ltd. 1
+Vaalco Energy Inc. 1
+West Virginia University & Intelligent Solutions Inc. 1
+Constien & Associates 1
+Pennsylvania State University United States 1
+Satbayev University 1
+Abai University Kazakhstan 1
+Hicor Technologies Inc. Texas USA 1
+Department of Petroleum Engineering University of Houston 1
+Former Halliburton 1
+McDermott International Inc. 1
+Badger Mining Corporation 1
+Petroleum Technology Research Centre 1
+Proptester Inc. 1
+Universidad La Salle México 1
+North Oil Company Doha Qatar 1
+MacEwan University 1
+Enventure Global Technology Inc. 1
+Broadview Energy 1
+Bitcan Geoscience and Engineering 1
+Iraqi Drilling Company 1
+Basra Oil Company 1
+Missan Oil Company 1
+Zhejiang University 1
+The University of Texas at Austin ExxonMobil Upstream Research Company 1
+ITBA 1
+National Bank Financial Inc. 1
+Universidad Nacional de Ingenería 1
+Petroleum Geoengineering Geophysical Department University of Miskolc 3515 Miskolc-Egyetemváros 1
+Advanced Energy Consortium Bureau of Economic Geology The University of Texas at Austin 1
+Multi-Phase Technologies LLC 1
+The University of Tulsa and Turkish Petroleum Corporation 1
+YPF Tecnología S.A. 1
+Repsol Sinopec Brasil 1
+IHS Markit retired 1
+Brady Technologies of Alaska 1
+Xdot Engineering and Analysis 1
+Roto-Therm Incorporated 1
+Dyno Nobel Americas 1
+Jonah Group 1
+vPSI Group 1
+Principle Seven 1
+Xinjiang Oilfield Company CNPC 1
+Chongqing University of Science & Technology 1
+Dara Petroleum Company 1
+TransGlobe Energy Corporation 1
+ProTechnics Division of Core Laboratories 1
+Werline Well Solutions 1
+Stanford 1
+GATE Energy 1
+Phoenix Consulting Ltd. 1
+Repsol E&P 1
+Dragon Oil 1
+Universidad Nacional Autonoma de Mexico UNAM 1
+Inpex Corporation 1
+Chiyoda Corp. 1
+Penn Virginia 1
+SEPCO 1
+PRM Pty Ltd 1
+The Centre for Teams 1
+Nabors Corporate Services 1
+New Granada 1
+School of Mechanical Engineering Beijing Institute of Petrochemical Technology 1
+Kuwait Petroleum Corporation 1
+Frontera Energy 1
+Texas A&M University and Northeast Petroleum University 1
+Hewlett Packard Enterprise 1
+Texmark Chemicals Inc. 1
+AGAT Laboratories 1
+Trican Well Service LTD 1
+Consultant Asker Munai LLP 1
+Rose and Associates LLP 1
+ExxonMobil Upstream Research Co 1
+ExxonMobil Development Co 1
+ExxonMobil Canada Properties 1
+Openfield Technology 1
+Computational Geosciences 1
+University of British Colombia 1
+Brouard Consulting 1
+Pipestone Energy Corp. 1
+McDaniel and Associates Consultants Ltd. 1
+Reservoir Optimization Strategies 1
+Appsmiths Technology 1
+Gran Tierra Energy 1
+NSI Fracturing 1
+Enterprise Products 1
+China University of Petroleum Beijing Texas A&M University 1
+Ege University 1
+Smart Recovery 1
+LLOG Exploration 1
+Repsol Technology Laboratory 1
+Wildt Consulting 1
+Nagoo & Associates 1
+PL Tech 1
+University of Campinastd 1
+PetroChina Riped 1
+Weatherford Energy Services 1
+Saint Francis University 1
+Univeristy of Calgary Global New Petro Tec Corp. 1
+XTO 1
+Eurotechnica GmbH 1
+Láctea Científica 1
+Wood Group formerly Texas A&M University 1
+CNOOC Research Institute Co. Ltd.; Beijing Key Laboratory of Unconventional Natural Gas Geological Evalution and Development Engineeing China University of Geosciences Beijing 1
+Beijing Key Laboratory of Unconventional Natural Gas Geological Evalution and Development Engineeing China University of Geosciences Beijing 1
+Global New Petro Tec Corp. 1
+University of Calgary Global New Petro Tec Corp. 1
+United States Air Force Academy 1
+Fircroft Consultant former BP 1
+Sasol Ufa Petroleum University 1
+Schlumberger Canada Limited now with ExxonMobil 1
+School of Petroleum Technology Pandit Deendayal Petroleum University Gujarat INDIA 1
+Wilcox Wiggins Inc. 1
+PetroChina Daqing Oilfield Engineering Company Limited 1
+PetroChina Daqing Oilfield Company Limited 1
+Peter the Great St. Petersburg Polytech University 1
+Rajiv Gandhi Institute of Petroleum Technology India 1
+NCS Multistage 1
+Nafta College 1
+Six Sigma Mind Consulting 1
+ZetaWare Inc 1
+CMG Inc. 1
+Wisconsin Proppants 1
+IIT ISM 1
+Earth and Environmental Sciences Division Los Alamos National Laboratory Los Alamos USA 1
+Research Institute of Petroleum Exploration and Development CO. LTD CNPC; China National Oil and Gas Exploration and Development Corporation 1
+KICC - University of Kansas 1
+TORP - University of Kansas 1
+Integrated Geophysical Interpretation Inc. LLC 1
+Mesa International LLC 1
+CNOOC International 1
+Cartofact 1
